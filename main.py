@@ -9,6 +9,7 @@ import json
 import os
 import random
 from tqdm import tqdm
+import torch as torch
 
 LENGTH = 6
 NUMBER = 5
@@ -53,7 +54,7 @@ def predict(s, p):
     input_length = len(inputs["input_ids"].tolist()[0])
 
     output = model.generate(inputs["input_ids"].to(0), max_length=input_length + LENGTH)
-    generated_text = tokenizer.decode(output[0].tolist())
+    generated_text = tokenizer.decode(output[0].tolist(), skip_special_tokens=True)
     new_text = generated_text.replace(prompt, '')
     # cut off the rest of the prediction.
     # Note: This only works for few shot learning with k > 0. Otherwise we might cut off things correct answers
@@ -75,7 +76,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='KAMEL Generative Model Predictions')
     parser.add_argument('--model', help='Put the huggingface model name here', default='gpt2-medium')
     parser.add_argument('--input', help='Input folder path. It needs to contain subfolders with property names containing train.jsonl and test.jsonl files.')
-    parser.add_argument('--output', help='Output folder')
     parser.add_argument('--fewshot', help='Number of fewshot examples', default=5)
     parser.add_argument('--templates', help='Path to template file')
     args = parser.parse_args()
@@ -83,10 +83,9 @@ if __name__ == '__main__':
     NUMBER = args.fewshot
     model_name = args.model
     file_path = args.input
-    output_path = args.output
     template_path = args.templates
     print('Read parameters')
-    model = AutoModelForCausalLM.from_pretrained(model_name).to('cuda')
+    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     print('Loaded {} model from huggingface.'.format(model_name))
     with open(template_path) as f:
@@ -94,9 +93,9 @@ if __name__ == '__main__':
             p, t = line.split(',')
             templates[p] = t.replace('\n', '')
     print('Loaded template file from {}'.format(template_path))
-    predictions = []
-    for subdirectory in os.listdir(file_path):
 
+    for subdirectory in os.listdir(file_path):
+        results = []
         f = os.path.join(file_path, subdirectory)
         # checking if it is a file
         if os.path.isdir(f):
@@ -106,6 +105,10 @@ if __name__ == '__main__':
             print('Evaluate examples for property {}'.format(p))
             for triple in tqdm(test):
                 prediction = predict(triple['sub_label'], p)
-                predictions.append(prediction)
+                result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
+                          'prediction': prediction, 'fewshotk': NUMBER}
+                results.append(result)
+        output_path = os.path.join(f, 'predictions.jsonl')
+        write_prediction_file(output_path, results)
     print('Finished evaluation')
-    write_prediction_file(output_path,predictions)
+
