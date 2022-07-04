@@ -3,7 +3,7 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer, DisjunctiveConstraint
+from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer  # , DisjunctiveConstraint
 import argparse
 import json
 import os
@@ -11,11 +11,12 @@ import random
 from tqdm import tqdm
 import torch as torch
 
-LENGTH = 6
+LENGTH = 128
 NUMBER = 5
 test = []
 train = []
 templates = {}
+
 
 # retrieve prompt and create single triple prompt
 def create_prompt_for_triple(s, p):
@@ -33,9 +34,9 @@ def create_fewshot(s, p):
         sample = random.sample(train, NUMBER)
         for triple in sample:
             few_s = triple['sub_label']
-            few_o = triple['obj_label']
+            few_o = "; ".join(triple['obj_label'])
             prompt += create_prompt_for_triple(few_s, p)
-            prompt += " {}\n".format(few_o)
+            prompt += " {}.\n".format(few_o)
     prompt += create_prompt_for_triple(s, p)
     return prompt
 
@@ -44,22 +45,28 @@ def write_prediction_file(output_path, predictions):
     with open(output_path, 'w') as f:
         for prediction in predictions:
             json.dump(prediction, f)  # JSON encode each element and write it to the file
-            f.write(",\n")
+            f.write('\n')
 
 
 def predict(s, p):
     prompt = create_fewshot(s, p)
+    # print("Input:")
+    # print(prompt)
     inputs = tokenizer(prompt, return_tensors="pt")
     # get length of input
     input_length = len(inputs["input_ids"].tolist()[0])
 
-    output = model.generate(inputs["input_ids"].to(0), max_length=input_length + LENGTH)
+    output = model.generate(inputs["input_ids"].to(0), eos_token_id=int(tokenizer.convert_tokens_to_ids(".")),
+                            max_length=input_length + LENGTH)
     generated_text = tokenizer.decode(output[0].tolist(), skip_special_tokens=True)
+
     new_text = generated_text.replace(prompt, '')
+    # print("Answer:")
+    # print(new_text)
     # cut off the rest of the prediction.
     # Note: This only works for few shot learning with k > 0. Otherwise we might cut off things correct answers
-    pred = new_text.split('\n')[0]
-    return pred.strip()
+    # pred = new_text.split('\n')[0]
+    return new_text.strip()
 
 
 def read_triples(filepath):
@@ -75,8 +82,9 @@ def read_triples(filepath):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='KAMEL Generative Model Predictions')
     parser.add_argument('--model', help='Put the huggingface model name here', default='gpt2-medium')
-    parser.add_argument('--input', help='Input folder path. It needs to contain subfolders with property names containing train.jsonl and test.jsonl files.')
-    parser.add_argument('--fewshot', help='Number of fewshot examples', default=5)
+    parser.add_argument('--input',
+                        help='Input folder path. It needs to contain subfolders with property names containing train.jsonl and test.jsonl files.')
+    parser.add_argument('--fewshot', help='Number of fewshot examples', default=5, type=int)
     parser.add_argument('--templates', help='Path to template file')
     args = parser.parse_args()
 
@@ -102,13 +110,15 @@ if __name__ == '__main__':
             train = read_triples(os.path.join(f, 'train.jsonl'))
             test = read_triples(os.path.join(f, 'test.jsonl'))
             p = str(subdirectory)
-            print('Evaluate examples for property {}'.format(p))
-            for triple in tqdm(test):
-                prediction = predict(triple['sub_label'], p)
-                result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
-                          'prediction': prediction, 'fewshotk': NUMBER}
-                results.append(result)
-        output_path = os.path.join(f, 'predictions.jsonl')
-        write_prediction_file(output_path, results)
+            if p in templates:
+                print('Evaluate examples for property {}'.format(p))
+                for triple in tqdm(test):
+                    prediction = predict(triple['sub_label'], p)
+                    # print("correct: ", triple["obj_label"])
+                    result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
+                              'prediction': prediction, 'fewshotk': NUMBER}
+                    results.append(result)
+            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
+            write_prediction_file(output_path, results)
     print('Finished evaluation')
 
