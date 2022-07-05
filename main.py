@@ -37,7 +37,7 @@ def create_fewshot(s, p):
             few_s = triple['sub_label']
             few_o = "; ".join(triple['obj_label'])
             prompt += create_prompt_for_triple(few_s, p)
-            prompt += " {}.\n".format(few_o)
+            prompt += " {}%\n".format(few_o)
     prompt += create_prompt_for_triple(s, p)
     return prompt
 
@@ -62,7 +62,7 @@ def predict(batch, p):
     #input_length = len(inputs["input_ids"].tolist()[0])
     #print("Input lengths {}".format(len(inputs)))
     output = model.generate(**inputs,
-                                max_length=256, eos_token_id=int(tokenizer.convert_tokens_to_ids(".")))
+                                max_length=512, eos_token_id=int(tokenizer.convert_tokens_to_ids("%")))
 
     generated_texts = tokenizer.batch_decode(output, skip_special_tokens=True)
 

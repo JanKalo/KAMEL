@@ -37,7 +37,7 @@ def create_fewshot(s, p):
             few_s = triple['sub_label']
             few_o = "; ".join(triple['obj_label'])
             prompt += create_prompt_for_triple(few_s, p)
-            prompt += " {}.\n".format(few_o)
+            prompt += " {}%\n".format(few_o)
     prompt += create_prompt_for_triple(s, p)
     return prompt
 
@@ -53,11 +53,11 @@ def predict(s, p):
     prompt = create_fewshot(s, p)
     # print("Input:")
     # print(prompt)
-    inputs = tokenizer(prompt, return_tensors="pt", use_fast=FAST_TOKENIZATION)
+    inputs = tokenizer(prompt, return_tensors="pt").to(0)
     # get length of input
     input_length = len(inputs["input_ids"].tolist()[0])
 
-    output = model.generate(inputs.to(0), eos_token_id=int(tokenizer.convert_tokens_to_ids(".")),
+    output = model.generate(**inputs, eos_token_id=int(tokenizer.convert_tokens_to_ids("%")),
                             max_length=input_length + LENGTH)
     generated_text = tokenizer.decode(output[0].tolist(), skip_special_tokens=True)
 
@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
     print('Read parameters')
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=FAST_TOKENIZATION)
     print('Loaded {} model from huggingface.'.format(model_name))
     with open(template_path) as f:
         for line in f:
@@ -120,7 +120,7 @@ if __name__ == '__main__':
 
             #parse p from directory name
             p = str(subdirectory)
-
+            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
             if os.path.isfile(output_path):
                 print("Predictions for {} already exist. Skipping file.".format(str(subdirectory)))
                 continue
@@ -136,6 +136,6 @@ if __name__ == '__main__':
                     result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
                               'prediction': prediction, 'fewshotk': NUMBER}
                     results.append(result)
-            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
+
             write_prediction_file(output_path, results)
     print('Finished evaluation')
