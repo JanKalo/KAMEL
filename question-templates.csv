@@ -4,9 +4,9 @@ P1408, What places is [S] broadcasted to?
 P921, What are the main topic of [S]?
 P2416, What disciplines is [S] competing in?
 P54, What teams was [S] a member of?
-P17, In what country is [S] located in?
+P17, What country is [S] located in?
 P7937, What form does the creative work [S] has?
-P530, What countries does [S] has diplomatic relations to?
+P530, What countries does [S] have diplomatic relations with?
 P463, What groups or organizations was [S] a member?
 P108, Who were employers of [S]?
 P1101, How many floors above the ground has [S]?
@@ -75,16 +75,16 @@ P156, What follows [S]?
 P1082, What is the population of [S]?
 P155, What is followed by [S]?
 P140, What is the religion of [S]?
-P585, In what year did [S] take place?
+P585, What year did [S] take place in?
 P410, What is the military rank of [S]?
-P131, In what administrative district is [S] located?
+P131, What administrative district is [S] located in?
 P710, Who participated in [S]?
 P19, Where was [S] born?
-P729, In what year was [S] launched?
-P2032, In what year did the work of [S] end?
-P183, In what location is [S] endemic?
+P729, What year was [S] launched in?
+P2032, What year did the work of [S] end in?
+P183, What location is [S] endemic in?
 P137, Who is the operator of [S]?
-P1619, In what year did [S] officially open?
+P1619, What year did [S] officially open?
 P527, What parts does [S] have?
 P119, Where was [S] buried?
 P57, Who is the director of [S]?
@@ -100,7 +100,7 @@ P177, What crosses [S]?
 P84, Who was the architect of [S]?
 P186, What materials is [S] made from?
 P915, What were the filming locations of [S]?
-P1191, In what year was [S] first performed?
+P1191, What year was [S] first performed?
 P170, Who is the creator of [S]?
 P141, What is the IUCN conservation status of [S]?
 P112, Who founded [S]?
@@ -111,21 +111,21 @@ P180, What is depicted in [S]?
 P171, What is the parent taxon of [S]?
 P103, What is the native language of [S]?
 P355, What are subsidiaries of [S]?
-P1441, In what work is [S] present?
+P1441, What work does [S] appear in?
 P2868, What is the role of [S]?
 P65, Where was [S] discovered?
 P81, What line connects [S]?
-P647, By what team was [S] drafted?
+P647, What team was [S] drafted by?
 P36, What is the original language of [S]?
 P161, Who starred in [S]?
 P427, What is the taxonomic type of [S]?
 P1598, Who was the consecrator of [S]?
-P2348, In what time period did [S] occur?
+P2348, What time period did [S] occur in?
 P286, Who is the head coach of [S]?
 P1142, What is the political ideology of [S]?
 P115, What is the home venue of [S]?
 P6379, What collections have works of [S]?
-P5353, To what school district does [S] belong?
+P5353, What school district does [S] belong to?
 P135, What movement is [S] associated with?
 P674, What characters appear in [S]?
 P611, What order belongs [S] to?
@@ -165,7 +165,7 @@ P366, What are the main usage of [S]?
 P2043, What is the lengths of [S]?
 P1435, What is the heritage designation of [S]?
 P26, Who were spouses of [S]?
-P1365, Who or what replaced [S]?
+P1366, Who or what replaced [S]?
 P706, Where is [S] located in or on?
 P541, What position contested [S] for?
 P802, Who were notable students of [S]?
@@ -195,7 +195,7 @@ P3373, Who were siblings of [S]?
 P1066, Who were students of [S]?
 P1027, Who or what was [S] conferred by?
 P403, Where does [S] flow into?
-P1366, Who was [S] replaced by?
+P1365, Who or what was replaced by [S]?
 P98, Who were the editors of [S]?
 P25, Who was the mother of [S]?
 P708, What diocese has [S] belonged to?
@@ -208,3 +208,32 @@ P196, What minor planet group is [S] a part of?
 P2597, What is the gram stain of [S]?
 P30, What continent is [S] a part of?
 P4884, What court was [S] decided in?
+P4743, What animal breed belongs [S] to?
+P97, What noble title is held by [S]?
+P201, What are outflows of [S]?
+P3764, Who had the pole position in the [S]?
+P6886, What languages has [S] written in?
+P1433, Where was [S] published in?
+P88, Who was the commissioner of [S]?
+P414, What stockexchange is [S] traded on?
+P703, What taxon is [S] found in?
+P1050, What medical conditions has [S]?
+P610, What is the highest point of [S]?
+P113, What is the airline hub of [S]?
+P1877, What work has strongly inspired [S]?
+P1308, Who is the officeholder of [S]?
+P6, Who is the head of government of [S]?
+P4647, Where was [S] first performed?
+P669, What streets is [S] located on?
+P765, What surface is [S] played on?
+P467, Who legislated [S]?
+P200, What river flows into [S]?
+P277, What programming language was [S] developed in?
+P6087, What sports team has [S] coached?
+P37, What is the official language of [S]?
+P2522, What competitions has [S] won?
+P2341, What location is [S] indigenous to?
+P8875, What bibliographic database indexes [S]?
+P126, Who maintains the [S]?
+P2975, What is the host organism for [S]?
+P87, Who is the librettist of [S]?

@@ -11,13 +11,13 @@ import random
 from tqdm import tqdm
 import torch as torch
 
-LENGTH = 90
+LENGTH = 100
+FAST_TOKENIZATION = False
 NUMBER = 5
-BATCH_SIZE = 10
 test = []
 train = []
 templates = {}
-FAST_TOKENIZATION = False
+
 
 # retrieve prompt and create single triple prompt
 def create_prompt_for_triple(s, p):
@@ -49,31 +49,25 @@ def write_prediction_file(output_path, predictions):
             f.write('\n')
 
 
-def predict(batch, p):
-    prompts = []
-    for triple in batch:
-        prompt = create_fewshot(triple['sub_label'], p)
-        prompts.append(prompt)
-    #print("Prompt lengths {}".format(len(prompts)))
+def predict(s, p):
+    prompt = create_fewshot(s, p)
     # print("Input:")
     # print(prompt)
-    inputs = tokenizer(prompts, return_tensors="pt", padding=True).to(0)
+    inputs = tokenizer(prompt, return_tensors="pt", use_fast=FAST_TOKENIZATION)
     # get length of input
-    #input_length = len(inputs["input_ids"].tolist()[0])
-    #print("Input lengths {}".format(len(inputs)))
-    output = model.generate(**inputs,
-                                max_length=256, eos_token_id=int(tokenizer.convert_tokens_to_ids(".")))
+    input_length = len(inputs["input_ids"].tolist()[0])
 
-    generated_texts = tokenizer.batch_decode(output, skip_special_tokens=True)
+    output = model.generate(inputs.to(0), eos_token_id=int(tokenizer.convert_tokens_to_ids(".")),
+                            max_length=input_length + LENGTH)
+    generated_text = tokenizer.decode(output[0].tolist(), skip_special_tokens=True)
 
-
-    #generated_text = tokenizer.decode(output[0].tolist(), skip_special_tokens=True)
-    predictions = []
-    for generated in generated_texts:
-        new_text = generated.replace(prompt, '').strip()
-        predictions.append(new_text)
-
-    return predictions
+    new_text = generated_text.replace(prompt, '')
+    # print("Answer:")
+    # print(new_text)
+    # cut off the rest of the prediction.
+    # Note: This only works for few shot learning with k > 0. Otherwise we might cut off things correct answers
+    # pred = new_text.split('\n')[0]
+    return new_text.strip()
 
 
 def read_triples(filepath):
@@ -85,14 +79,6 @@ def read_triples(filepath):
     return triples
 
 
-def batch(iterable, n):
-    l = len(iterable)
-    for ndx in range(0, l, n):
-        yield iterable[ndx:min(ndx + n, l)]
-
-
-
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='KAMEL Generative Model Predictions')
@@ -101,15 +87,13 @@ if __name__ == '__main__':
     parser.add_argument('--input',
                         help='Input folder path. It needs to contain subfolders with property names containing train.jsonl and test.jsonl files.')
     parser.add_argument('--fewshot', help='Number of fewshot examples', default=5, type=int)
-    parser.add_argument('--batchsize', help='Batchsize', default=10, type=int)
     parser.add_argument('--templates', help='Path to template file')
-
-    parser.add_argument('--fast', help='activates the fast tokenizer. This might not work with OPT.',  action='store_true')
+    parser.add_argument('--fast', help='activates the fast tokenizer. This might not work with OPT.',
+                        action='store_true')
     args = parser.parse_args()
-
     FAST_TOKENIZATION = args.fast
+
     NUMBER = args.fewshot
-    BATCH_SIZE = args.batchsize
     model_name = args.model
     file_path = args.input
     template_path = args.templates
@@ -118,11 +102,7 @@ if __name__ == '__main__':
 
     print('Read parameters')
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
-    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=FAST_TOKENIZATION)
-
-
-    eos_token_id = int(tokenizer.convert_tokens_to_ids(".")),
-    tokenizer.pad_token = tokenizer.eos_token
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
     print('Loaded {} model from huggingface.'.format(model_name))
     with open(template_path) as f:
         for line in f:
@@ -137,24 +117,25 @@ if __name__ == '__main__':
         if os.path.isdir(f):
             train = read_triples(os.path.join(f, 'train.jsonl'))
             test = read_triples(os.path.join(f, 'test.jsonl'))
-            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
+
+            #parse p from directory name
+            p = str(subdirectory)
 
             if os.path.isfile(output_path):
                 print("Predictions for {} already exist. Skipping file.".format(str(subdirectory)))
                 continue
-            p = str(subdirectory)
-            #if property parameter is chosen, continue until in the right subdirectory
+
+            # if property parameter is chosen, continue until in the right subdirectory
             if property != '' and p != str(property):
                 continue
             if p in templates:
                 print('Evaluate examples for property {}'.format(p))
-                for b in tqdm(batch(test, BATCH_SIZE)):
-                    predictions = predict(b, p)
+                for triple in tqdm(test):
+                    prediction = predict(triple['sub_label'], p)
                     # print("correct: ", triple["obj_label"])
-                    for triple, prediction in zip(b,predictions):
-                        result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
+                    result = {'sub_label': triple['sub_label'], 'relation': p, 'obj_label': triple['obj_label'],
                               'prediction': prediction, 'fewshotk': NUMBER}
-                        results.append(result)
+                    results.append(result)
+            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
             write_prediction_file(output_path, results)
     print('Finished evaluation')
-
