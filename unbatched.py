@@ -100,12 +100,15 @@ if __name__ == '__main__':
     model_name = args.model
     file_path = args.input
     template_path = args.templates
-    property = args.property
+    if ',' in args.property:
+        property = args.property.split(',')
+    else:
+        property = [args.property]
     RANDOM = args.random_init
 
 
     print('Read parameters')
-
+    print("Model {}\nShots {}\nProperties {}".format(model_name,NUMBER,property))
     if RANDOM == True:
         config = AutoConfig.from_pretrained(model_name)
         model = AutoModelForCausalLM.from_config(config, torch_dtype=torch.float16).cuda()
@@ -139,7 +142,7 @@ if __name__ == '__main__':
                 continue
 
             # if property parameter is chosen, continue until in the right subdirectory
-            if property != '' and p != str(property):
+            if property != [''] and p not in property:
                 continue
             if p in templates:
                 print('Evaluate examples for property {}'.format(p))

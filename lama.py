@@ -101,6 +101,7 @@ if __name__ == '__main__':
 
 
     print('Read parameters')
+    print("Model {}\nShots {}\nProperties {}".format(model_name,NUMBER,property))
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=FAST_TOKENIZATION)
     print('Loaded {} model from huggingface.'.format(model_name))
@@ -127,6 +128,7 @@ if __name__ == '__main__':
 
             # if property parameter is chosen, continue until in the right subdirectory
             if property != '' and p != str(property):
+
                 continue
             if p in templates:
                 print('Evaluate examples for property {}'.format(p))
