@@ -13,7 +13,6 @@ import torch as torch
 
 LENGTH = 100
 FAST_TOKENIZATION = False
-RANDOM = False
 NUMBER = 5
 test = []
 train = []
@@ -36,7 +35,7 @@ def create_fewshot(s, p):
         sample = random.sample(train, NUMBER)
         for triple in sample:
             few_s = triple['sub_label']
-            few_o = "; ".join(triple['obj_label'])
+            few_o = triple['obj_label']
             prompt += create_prompt_for_triple(few_s, p)
             prompt += " {}%\n".format(few_o)
     prompt += create_prompt_for_triple(s, p)
@@ -91,8 +90,6 @@ if __name__ == '__main__':
     parser.add_argument('--templates', help='Path to template file')
     parser.add_argument('--fast', help='activates the fast tokenizer. This might not work with OPT.',
                         action='store_true')
-    parser.add_argument('--random_init', help='initialize a model with random weights',
-                        action='store_true')
     args = parser.parse_args()
     FAST_TOKENIZATION = args.fast
 
@@ -101,17 +98,10 @@ if __name__ == '__main__':
     file_path = args.input
     template_path = args.templates
     property = args.property
-    RANDOM = args.random_init
 
 
     print('Read parameters')
-
-    if RANDOM == True:
-        config = AutoConfig.from_pretrained(model_name)
-        model = AutoModelForCausalLM.from_config(config, torch_dtype=torch.float16).cuda()
-    else:
-        model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
-
+    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).cuda()
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=FAST_TOKENIZATION)
     print('Loaded {} model from huggingface.'.format(model_name))
     with open(template_path) as f:
@@ -130,10 +120,7 @@ if __name__ == '__main__':
 
             #parse p from directory name
             p = str(subdirectory)
-            if RANDOM:
-                output_path = os.path.join(f, 'random_predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''),                                                                       NUMBER))
-            else:
-                output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
+            output_path = os.path.join(f, 'predictions_{}_fewshot_{}.jsonl'.format(model_name.replace('/', ''), NUMBER))
             if os.path.isfile(output_path):
                 print("Predictions for {} already exist. Skipping file.".format(str(subdirectory)))
                 continue

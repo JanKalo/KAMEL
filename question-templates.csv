@@ -23,7 +23,7 @@ P1001, What jurisdictions does [S] belong to?
 P575, What year was [S] invented in?
 P1532, What countries has [S] played for?
 P641, What sports was [S] playing?
-P69, Was schools was [S] educated at?
+P69, Where was [S] educated at?
 P452, What industries is [S] active in?
 P159, Where is the headquarter of [S] located?
 P59, What constellation is [S] a part of?
@@ -89,14 +89,14 @@ P527, What parts does [S] have?
 P119, Where was [S] buried?
 P57, Who is the director of [S]?
 P461, What is the opposite of [S]?
-P287, What is the postal code of [S]?
+P287, Who designed [S]?
 P1923, What teams participated in [S]?
 P676, Who wrote the lyrics of [S]?
 P800, What are notable works of [S]?
 P945, What country was [S] serving?
 P149, What is the architectural style of [S]?
 P344, Who is the director of photography of [S]?
-P177, What crosses [S]?
+P177, What is crossed by [S]?
 P84, Who was the architect of [S]?
 P186, What materials is [S] made from?
 P915, What were the filming locations of [S]?
@@ -136,12 +136,10 @@ P1444, What is the destination point of [S]?
 P1249, What year was [S] first mentioned?
 P40, Who are children of [S]?
 P1416, What is the affiliation of [S]?
-P2046, What are is occupied by [S]?
 P412, What is the voice type of [S]?
 P86, Who is the composer of [S]?
 P559, What is the train station of the end of [S]?
 P749, What are the parent organizations of [S]?
-P2067, What is the mass of [S]?
 P607, What conflicts did [S] participate in?
 P2936, What languages are used in [S]?
 P162, Who are the producers of [S]?
@@ -153,7 +151,7 @@ P2632, Where was [S] detained?
 P61, Who is the discoverer of [S]?
 P1346, Who is the winner of [S]?
 P58, Who are the screenwriters of [S]?
-P1376, What is the capital of [S]?
+P1376, What state is [S] the capital of?
 P737, Who influenced [S]?
 P415, What radio format has [S]?
 P7153, What significant place is associated with [S]?
@@ -161,8 +159,7 @@ P53, What family belongs [S] to?
 P991, Who was successfully elected in [S]?
 P974, What are tributaries of [S]?
 P1427, Where did [S] start?
-P366, What are the main usage of [S]?
-P2043, What is the lengths of [S]?
+P366, What is the main usage of [S]?
 P1435, What is the heritage designation of [S]?
 P26, Who were spouses of [S]?
 P1366, Who or what replaced [S]?
@@ -170,7 +167,6 @@ P706, Where is [S] located in or on?
 P541, What position contested [S] for?
 P802, Who were notable students of [S]?
 P50, Who were the authors of [S]?
-P460, What or who is said to be the same as [S]?
 P144, What is [S] based on?
 P3450, What competition belongs season [S] to?
 P197, What are adjacent stations to [S]?
@@ -185,7 +181,7 @@ P1344, What did [S] participate in?
 P488, Who is the chairperson of [S]?
 P166, What awards has [S] received?
 P371, Who was the presenter of [S]?
-P1830, Who is the owner of [S]?
+P1830, What is owned by [S]?
 P138, What or who is [S] named after?
 P172, What ethnic group belonged [S] to?
 P178, Who or what was the developer of [S]?
