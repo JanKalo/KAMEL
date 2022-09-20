@@ -24,7 +24,7 @@ KAMEL is described in the following paper:
 
 ```bibtex
 @inproceedings{kalo2022kamel,
-  title={KAMEL :camel: : Knowledge Analysis with Multitoken Entities in Language Models},
+  title={KAMEL: Knowledge Analysis with Multitoken Entities in Language Models},
   author={Kalo, Jan-Christoph and Fichtel, Leandra},
   booktitle={Automated Knowledge Base Construction},
   year={2022}
