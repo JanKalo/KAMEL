@@ -1,0 +1,200 @@
+{"index": [529], "sub_label": "biliverdin", "obj_label": ["bird"]}
+{"index": [2444], "sub_label": "exenatide", "obj_label": ["Gila monster"]}
+{"index": [934, 1276], "sub_label": "actinorhodine", "obj_label": ["Streptomyces", "Streptomyces albidoflavus"]}
+{"index": [2498], "sub_label": "tentoxin", "obj_label": ["Alternaria alternata"]}
+{"index": [1562], "sub_label": "caffeic acid methyl ester", "obj_label": ["Solanum torvum"]}
+{"index": [2264, 2538], "sub_label": "abietic acid", "obj_label": ["Abies grandis", "Pinus strobus"]}
+{"index": [2365, 2375], "sub_label": "shikimic acid", "obj_label": ["Escherichia coli", "Illicium anisatum"]}
+{"index": [2613, 2614], "sub_label": "digitoxin", "obj_label": ["Digitalis lanata", "Digitalis purpurea"]}
+{"index": [1311], "sub_label": "(3R,8S)-Falcarindiol", "obj_label": ["Oplopanax horridus"]}
+{"index": [890, 958, 1020, 1344, 2207, 2501, 2518], "sub_label": "trans-caffeic acid", "obj_label": ["Cichorium intybus", "Alsophila spinulosa", "Hypericum perforatum", "Echinacea purpurea", "Salvinia molesta", "Salvia miltiorrhiza", "Kalanchoe pinnata"]}
+{"index": [153, 154], "sub_label": "Alstonine", "obj_label": ["Catharanthus roseus", "Rauvolfia vomitoria"]}
+{"index": [1221], "sub_label": "Stem bromelain", "obj_label": ["Ananas comosus"]}
+{"index": [825, 1128, 1129, 1130, 1131, 1132, 1440], "sub_label": "citral", "obj_label": ["Curcuma longa", "Backhousia citriodora", "Litsea cubeba", "Aloysia citrodora", "Melissa officinalis", "Citrus \u00d7limon", "Citrus"]}
+{"index": [1343], "sub_label": "alpha,alpha-trehalose", "obj_label": ["Lentinula edodes"]}
+{"index": [2426], "sub_label": "adenosine monophosphate", "obj_label": ["Drosophila melanogaster"]}
+{"index": [1230], "sub_label": "vanabins", "obj_label": ["Ascidiacea"]}
+{"index": [1603, 1604, 1605, 1606, 1607, 1608], "sub_label": "aucubin", "obj_label": ["Aucuba japonica", "Eucommia ulmoides", "Plantago asiatica", "Plantago major", "Plantago lanceolata", "Scrophularia umbrosa"]}
+{"index": [1061, 2513, 2514], "sub_label": "6-methylsalicylic acid", "obj_label": ["Aspergillus terreus", "Penicillium", "Penicillium griseofulvum"]}
+{"index": [447], "sub_label": "nudol", "obj_label": ["Maxillaria densa"]}
+{"index": [1194], "sub_label": "(+/-)-goitrin", "obj_label": ["rapeseed"]}
+{"index": [1415], "sub_label": "HIS3", "obj_label": ["Saccharomyces cerevisiae"]}
+{"index": [974], "sub_label": "Anisodine", "obj_label": ["Anisodus tanguticus"]}
+{"index": [1912], "sub_label": "lunularic acid", "obj_label": ["Hydrangea macrophylla"]}
+{"index": [570], "sub_label": "Cucurbalsaminol B", "obj_label": ["Momordica balsamina"]}
+{"index": [161], "sub_label": "BmKTX", "obj_label": ["Mesobuthus martensii"]}
+{"index": [2399], "sub_label": "Anhalidine", "obj_label": ["Lophophora williamsii"]}
+{"index": [336], "sub_label": "Kahweol", "obj_label": ["Coffea arabica"]}
+{"index": [2183], "sub_label": "genistin", "obj_label": ["Glycine max"]}
+{"index": [1596], "sub_label": "afzelechin", "obj_label": ["Bergenia ligulata"]}
+{"index": [535], "sub_label": "Pukateine", "obj_label": ["Laurelia novae-zelandiae"]}
+{"index": [416], "sub_label": "enterobactin", "obj_label": ["Escherichia coli"]}
+{"index": [84], "sub_label": "mother of vinegar", "obj_label": ["Acetobacter"]}
+{"index": [1710], "sub_label": "brazilin", "obj_label": ["Haematoxylum brasiletto"]}
+{"index": [800], "sub_label": "hydrogen cyanide", "obj_label": ["Manihot esculenta"]}
+{"index": [1323, 1324, 1325, 1326], "sub_label": "Punicalagin", "obj_label": ["Punica granatum", "Terminalia catappa", "Terminalia myriocarpa", "Combretum molle"]}
+{"index": [2521], "sub_label": "petasin", "obj_label": ["Petasites hybridus"]}
+{"index": [542], "sub_label": "variegatorubin", "obj_label": ["Chalciporus piperatus"]}
+{"index": [2608, 2609], "sub_label": "cyclopiazonic acid", "obj_label": ["Penicillium aurantiogriseum", "Aspergillus flavus"]}
+{"index": [785], "sub_label": "leonurine", "obj_label": ["Leonurus sibiricus"]}
+{"index": [275, 989], "sub_label": "glycyrrhizin", "obj_label": ["liquorice", "Glycyrrhiza"]}
+{"index": [164], "sub_label": "strepsilin", "obj_label": ["Cladonia strepsilis"]}
+{"index": [20, 1449, 1450], "sub_label": "lactucopicrin", "obj_label": ["lettuce", "Lactuca virosa", "Cichorium intybus"]}
+{"index": [1466], "sub_label": "wighteone", "obj_label": ["Maclura pomifera"]}
+{"index": [973], "sub_label": "parthenin", "obj_label": ["Parthenium hysterophorus"]}
+{"index": [282], "sub_label": "Fumigaclavine C", "obj_label": ["Aspergillus fumigatus"]}
+{"index": [2519], "sub_label": "syringic acid", "obj_label": ["Kalanchoe pinnata"]}
+{"index": [2141], "sub_label": "7-methoxycoumarin", "obj_label": ["Prunus mahaleb"]}
+{"index": [496], "sub_label": "adaptive immune system", "obj_label": ["Vertebrata"]}
+{"index": [2369], "sub_label": "amurensin K", "obj_label": ["Vitis amurensis"]}
+{"index": [945], "sub_label": "ermanin", "obj_label": ["Tanacetum microphyllum"]}
+{"index": [59, 300, 1451, 1452, 1453, 1454], "sub_label": "harvester ant", "obj_label": ["Pheidole", "Pogonomyrmex", "Aphaenogaster", "Euprenolepis", "Messor", "Carebara"]}
+{"index": [337], "sub_label": "Michellamine", "obj_label": ["Ancistrocladus korupensis"]}
+{"index": [2134], "sub_label": "TAN-1057A", "obj_label": ["Flexibacter"]}
+{"index": [1791], "sub_label": "3-(3,4-dihydroxyphenyl)-2-{[3-(3,4-dihydroxyphenyl)-1-hydroxyprop-2-en-1-ylidene]amino}propanoic acid", "obj_label": ["Trifolium pratense"]}
+{"index": [2205], "sub_label": "Metridin", "obj_label": ["Metridium senile"]}
+{"index": [465], "sub_label": "hordenine", "obj_label": ["Lophophora williamsii"]}
+{"index": [1571, 2570, 2571, 2572], "sub_label": "isoorientin", "obj_label": ["Phlomoides tuberosa", "Gentiana olivieri", "Vitex negundo", "Terminalia myriocarpa"]}
+{"index": [1889], "sub_label": "Pinolenic acid", "obj_label": ["Pinus koraiensis"]}
+{"index": [1407, 1408, 1878], "sub_label": "piceatannol", "obj_label": ["Picea abies", "Aiphanes horrida", "Vaccinium"]}
+{"index": [145], "sub_label": "hectochlorin", "obj_label": ["Bursatella leachii"]}
+{"index": [2021], "sub_label": "Scytonemin", "obj_label": ["Scytonema"]}
+{"index": [256, 257, 258, 259, 1335, 1532], "sub_label": "myrcene", "obj_label": ["Houttuynia", "Pimenta racemosa", "Humulus lupulus", "Cannabis sativa", "Chamaecyparis obtusa", "Pinus ponderosa"]}
+{"index": [1906], "sub_label": "Auxospore", "obj_label": ["Diatomea"]}
+{"index": [194], "sub_label": "viral protein", "obj_label": ["virus"]}
+{"index": [211], "sub_label": "danielone", "obj_label": ["Carica papaya"]}
+{"index": [2478], "sub_label": "cardiotoxin III", "obj_label": ["Chinese cobra"]}
+{"index": [827], "sub_label": "psoralidin", "obj_label": ["Cullen corylifolium"]}
+{"index": [844], "sub_label": "azadirachtin", "obj_label": ["Azadirachta indica"]}
+{"index": [523], "sub_label": "digoxigenin", "obj_label": ["Digitalis purpurea"]}
+{"index": [2376], "sub_label": "Durantin A", "obj_label": ["Duranta erecta"]}
+{"index": [182], "sub_label": "Obovatol", "obj_label": ["Magnolia obovata"]}
+{"index": [5, 6, 7, 497, 498, 1823], "sub_label": "quercetin", "obj_label": ["Hypericum perforatum", "Hypericum hirsutum", "Nelumbo nucifera", "Origanum vulgare", "Pinus sylvestris", "Rhodiola rosea"]}
+{"index": [325], "sub_label": "6,6'-bieckol", "obj_label": ["Ecklonia cava"]}
+{"index": [409], "sub_label": "(\u2013)-norpseudoephedrine", "obj_label": ["Ephedra sinica"]}
+{"index": [688], "sub_label": "Sauvagine", "obj_label": ["Phyllomedusa sauvagii"]}
+{"index": [2089], "sub_label": "cis-3,4-leucopelargonidin", "obj_label": ["Matthiola incana"]}
+{"index": [231, 232, 233, 234, 235, 236], "sub_label": "myristicin", "obj_label": ["Piper nigrum", "Pimpinella anisum", "parsley", "Anethum graveolens", "Pastinaca sativa", "Myristica fragrans"]}
+{"index": [2131, 2132], "sub_label": "viridiflorol", "obj_label": ["Melaleuca quinquenervia", "Melaleuca alternifolia"]}
+{"index": [634], "sub_label": "Daigremontianin", "obj_label": ["Kalanchoe daigremontiana"]}
+{"index": [511], "sub_label": "Gastrol", "obj_label": ["Gastrodia elata"]}
+{"index": [1528, 2685], "sub_label": "securinine", "obj_label": ["Flueggea suffruticosa", "Phyllanthus niruri"]}
+{"index": [1077], "sub_label": "ricinine", "obj_label": ["Ricinus communis"]}
+{"index": [1223], "sub_label": "divinyl sulfide", "obj_label": ["Allium ursinum"]}
+{"index": [1101], "sub_label": "Cytotrienin A", "obj_label": ["Streptomyces"]}
+{"index": [1298], "sub_label": "dihydroxymethoxychalcone", "obj_label": ["Alpinia conchigera"]}
+{"index": [1673], "sub_label": "mitraphylline", "obj_label": ["Uncaria tomentosa"]}
+{"index": [463], "sub_label": "green fluorescent protein", "obj_label": ["Aequorea victoria"]}
+{"index": [631], "sub_label": "alizarin", "obj_label": ["Rubia tinctorum"]}
+{"index": [2624], "sub_label": "5,7,8-trihydroxyflavone", "obj_label": ["Scutellaria baicalensis"]}
+{"index": [1331, 1336, 1442, 2125, 2126, 2307], "sub_label": "(\u00b1)-limonene", "obj_label": ["Cannabis sativa", "Chamaecyparis obtusa", "Mentha spicata", "Salvia officinalis", "corn mint", "Lavandula latifolia"]}
+{"index": [2563, 2564], "sub_label": "phenylethyl alcohol", "obj_label": ["Saccharomyces cerevisiae", "Cananga odorata"]}
+{"index": [2534], "sub_label": "potassium channel toxin alpha-KTx 6.13", "obj_label": ["Heterometrus spinifer"]}
+{"index": [55], "sub_label": "chelidonic acid", "obj_label": ["Chelidonium majus"]}
+{"index": [789, 854, 1032, 1033, 1034, 2523], "sub_label": "genistein", "obj_label": ["Glycine max", "liquorice", "Cicer arietinum", "Medicago sativa", "peanut", "Styphnolobium japonicum"]}
+{"index": [867], "sub_label": "1H-indole", "obj_label": ["Escherichia coli"]}
+{"index": [2496], "sub_label": "glaucarubin", "obj_label": ["Simarouba glauca"]}
+{"index": [2429, 2430], "sub_label": "Perrottetinene", "obj_label": ["Radula perrottetii", "Radula marginata"]}
+{"index": [244], "sub_label": "macronucleus", "obj_label": ["Ciliophora"]}
+{"index": [1697, 1704], "sub_label": "tectorigenin", "obj_label": ["Pueraria montana var. lobata", "Iris domestica"]}
+{"index": [1054, 1055], "sub_label": "jervine", "obj_label": ["Veratrum album", "Veratrum nigrum"]}
+{"index": [2591], "sub_label": "Adenovirus E1B protein", "obj_label": ["Adenoviridae"]}
+{"index": [2277], "sub_label": "RpoS", "obj_label": ["Escherichia coli"]}
+{"index": [872], "sub_label": "agnuside", "obj_label": ["Vitex agnus-castus"]}
+{"index": [2621], "sub_label": "lincomycin", "obj_label": ["Streptomyces lincolnensis"]}
+{"index": [1888], "sub_label": "Pompilidotoxin", "obj_label": ["Pompilidae"]}
+{"index": [192, 319], "sub_label": "paxilline", "obj_label": ["Penicillium paxilli", "Aspergillus desertorum"]}
+{"index": [1709], "sub_label": "coniferin", "obj_label": ["Angelica archangelica"]}
+{"index": [1846], "sub_label": "Drosocin Dmel_CG10816", "obj_label": ["Drosophila melanogaster"]}
+{"index": [51, 52, 1510, 1568, 1821, 1858, 1859, 2586], "sub_label": "apigenin", "obj_label": ["parsley", "celery", "Vitex agnus-castus", "Phlomoides tuberosa", "Echinops echinatus", "Turnera diffusa", "Betula pendula", "Crataegus monogyna"]}
+{"index": [565], "sub_label": "Ciceritol", "obj_label": ["Cicer arietinum"]}
+{"index": [471], "sub_label": "Affinine", "obj_label": ["Tabernaemontana"]}
+{"index": [1933], "sub_label": "tetrandrine", "obj_label": ["Stephania tetrandra"]}
+{"index": [1004], "sub_label": "Trametenolic acid", "obj_label": ["Inonotus obliquus"]}
+{"index": [963, 2644, 2645, 2646], "sub_label": "paeonol", "obj_label": ["Dioscorea japonica", "Paeonia", "tree peony", "Arisaema erubescens"]}
+{"index": [649, 650, 740, 1674, 1675, 2479], "sub_label": "psilocin", "obj_label": ["Psilocybe samuiensis", "Psilocybe", "Panaeolus cambodginiensis", "Conocybe velutipes", "Conocybe cyanopus", "Inocybe aeruginascens"]}
+{"index": [2261], "sub_label": "vincoline", "obj_label": ["Catharanthus roseus"]}
+{"index": [281, 804, 805], "sub_label": "neohesperidin", "obj_label": ["Citrus", "Mandarina", "Citrus \u00d7aurantium"]}
+{"index": [1067], "sub_label": "fingolimod", "obj_label": ["Isaria sinclairii"]}
+{"index": [1202], "sub_label": "Alcohol dehydrogenase, zinc-containing, TM0436", "obj_label": ["Thermotoga maritima"]}
+{"index": [1012], "sub_label": "cinnamoylcocaine", "obj_label": ["Erythroxylum coca"]}
+{"index": [1083], "sub_label": "Eupatolin", "obj_label": ["Ageratina ligustrina"]}
+{"index": [1515], "sub_label": "stachyose", "obj_label": ["Glycine max"]}
+{"index": [255], "sub_label": "jasmonic acid", "obj_label": ["Lasiodiplodia theobromae"]}
+{"index": [701], "sub_label": "salidroside", "obj_label": ["Rhodiola rosea"]}
+{"index": [2284], "sub_label": "Prosopine", "obj_label": ["Prosopis africana"]}
+{"index": [2395], "sub_label": "mayamycin", "obj_label": ["Streptomyces"]}
+{"index": [2151], "sub_label": "Enterotoxin type B", "obj_label": ["Staphylococcus aureus"]}
+{"index": [351], "sub_label": "Smitilbin", "obj_label": ["Smilax glabra"]}
+{"index": [2386], "sub_label": "Pingbeinine", "obj_label": ["Fritillaria"]}
+{"index": [1435], "sub_label": "protoanemonin", "obj_label": ["Helleborus niger"]}
+{"index": [885, 886], "sub_label": "glufosin", "obj_label": ["Streptomyces hygroscopicus", "Streptomyces viridochromeogenes"]}
+{"index": [0], "sub_label": "quassin", "obj_label": ["Quassia amara"]}
+{"index": [1152], "sub_label": "Forkhead box protein O CELE_R13H8.1", "obj_label": ["Caenorhabditis elegans"]}
+{"index": [2003], "sub_label": "fraxetin", "obj_label": ["Fraxinus chinensis"]}
+{"index": [1186], "sub_label": "coniine", "obj_label": ["Conium maculatum"]}
+{"index": [54, 1822, 2574], "sub_label": "apigetrin", "obj_label": ["parsley", "Echinops echinatus", "Teucrium gnaphalodes"]}
+{"index": [1173], "sub_label": "lysergic acid", "obj_label": ["Ergot"]}
+{"index": [2423], "sub_label": "corosolic acid", "obj_label": ["Lagerstroemia speciosa"]}
+{"index": [68], "sub_label": "Knipholone", "obj_label": ["Kniphofia"]}
+{"index": [1158], "sub_label": "BmKAEP", "obj_label": ["Mesobuthus martensii"]}
+{"index": [2606], "sub_label": "serpentine", "obj_label": ["Rauvolfia serpentina"]}
+{"index": [2136], "sub_label": "Isonotholaenic acid", "obj_label": ["Argyrochosma nivea"]}
+{"index": [118, 119], "sub_label": "Nerolidol", "obj_label": ["Zingiber officinale", "Cannabis sativa"]}
+{"index": [2339], "sub_label": "sparassol", "obj_label": ["Sparassis crispa"]}
+{"index": [1514], "sub_label": "riboflavin", "obj_label": ["potato"]}
+{"index": [306, 307, 308], "sub_label": "Juncusol", "obj_label": ["Juncus acutus", "Juncus effusus", "Juncus roemerianus"]}
+{"index": [461], "sub_label": "Fibronectin binding protein A", "obj_label": ["Staphylococcus aureus"]}
+{"index": [221, 335], "sub_label": "reserpine", "obj_label": ["Rauvolfia serpentina", "Alstonia constricta"]}
+{"index": [1983], "sub_label": "solasodine", "obj_label": ["Solanum mauritianum"]}
+{"index": [2582, 2583], "sub_label": "scutellarin", "obj_label": ["Scutellaria barbata", "Scutellaria lateriflora"]}
+{"index": [2416], "sub_label": "Potassium channel toxin alpha-KTx 21.1", "obj_label": ["Tityus serrulatus"]}
+{"index": [2250], "sub_label": "oxymatrine", "obj_label": ["Sophora flavescens"]}
+{"index": [1873], "sub_label": "Taxagifine", "obj_label": ["Taxus"]}
+{"index": [284], "sub_label": "vincristine", "obj_label": ["Catharanthus roseus"]}
+{"index": [1245], "sub_label": "edaxadiene", "obj_label": ["Mycobacterium tuberculosis"]}
+{"index": [1986, 1987], "sub_label": "garbanzol", "obj_label": ["Cicer arietinum", "Pterocarpus marsupium"]}
+{"index": [222], "sub_label": "costaclavin", "obj_label": ["Penicillium chermesinum"]}
+{"index": [1184], "sub_label": "ubenimex", "obj_label": ["Streptomyces abikoensis"]}
+{"index": [1092, 1093, 1949, 1950, 1951, 1952, 1953], "sub_label": "estragole", "obj_label": ["Pimpinella anisum", "tarragon", "fennel", "Pimenta racemosa", "basil", "Clausena anisata", "Syzygium anisatum"]}
+{"index": [2011], "sub_label": "Bukatoxin", "obj_label": ["Mesobuthus martensii"]}
+{"index": [32], "sub_label": "bilobol", "obj_label": ["Ginkgo biloba"]}
+{"index": [1560], "sub_label": "Persin", "obj_label": ["palta"]}
+{"index": [1564], "sub_label": "DCK", "obj_label": ["Homo sapiens"]}
+{"index": [1149], "sub_label": "Lysenin", "obj_label": ["Eisenia fetida"]}
+{"index": [1423, 1424, 1657, 1877], "sub_label": "Hyoscyamine", "obj_label": ["Mandragora officinarum", "Datura stramonium", "Hyoscyamus muticus", "Datura inoxia"]}
+{"index": [975, 2101], "sub_label": "blasticidin S", "obj_label": ["Streptomyces griseochromogenes", "Streptomyces morookaense"]}
+{"index": [981, 1481, 1839, 1876], "sub_label": "L-scopolamine", "obj_label": ["Atropa belladonna", "Duboisia myoporoides", "Scopolia", "Datura inoxia"]}
+{"index": [144], "sub_label": "Alnetin", "obj_label": ["Lindera lucida"]}
+{"index": [1350], "sub_label": "valeric acid", "obj_label": ["Valeriana officinalis"]}
+{"index": [2526], "sub_label": "Nuclear hormone receptor family member daf-12 CELE_F11A1.3", "obj_label": ["Caenorhabditis elegans"]}
+{"index": [845], "sub_label": "lenthionine", "obj_label": ["Lentinula edodes"]}
+{"index": [374], "sub_label": "butylphthalide", "obj_label": ["celery"]}
+{"index": [1294, 1766, 2173, 2362, 2511, 2637, 2665, 2692], "sub_label": "sucrose", "obj_label": ["Linum usitatissimum", "Vigna radiata", "Arabidopsis thaliana", "liquorice", "Eleutherococcus senticosus", "Fragaria \u00d7 ananassa", "Sorghum", "Glycine max"]}
+{"index": [2414], "sub_label": "tityustoxin peptide 2", "obj_label": ["Tityus serrulatus"]}
+{"index": [2380], "sub_label": "Terminaline", "obj_label": ["Sarcococca"]}
+{"index": [852], "sub_label": "xanthoxyline", "obj_label": ["Punica granatum"]}
+{"index": [907], "sub_label": "leinamycin", "obj_label": ["Streptomyces atroolivaceus"]}
+{"index": [881], "sub_label": "nigericin", "obj_label": ["Streptomyces hygroscopicus"]}
+{"index": [1121, 1122, 1123, 1124], "sub_label": "imperatorin", "obj_label": ["Angelica archangelica", "Angelica dahurica", "Glehnia littoralis", "Cnidium monnieri"]}
+{"index": [1253], "sub_label": "prostratin", "obj_label": ["Homalanthus nutans"]}
+{"index": [501, 502, 763, 1040, 1041, 1586, 2355], "sub_label": "eugenol", "obj_label": ["Cinnamon", "Cinnamomum cassia", "Syzygium aromaticum", "Pimenta dioica", "Pimpinella anisum", "Ocimum gratissimum", "Cinnamomum"]}
+{"index": [588], "sub_label": "thiolutin", "obj_label": ["Streptomyces kasugaensis"]}
+{"index": [356], "sub_label": "(-)-canadine", "obj_label": ["Hydrastis canadensis"]}
+{"index": [2100], "sub_label": "Debromoaplysiatoxin", "obj_label": ["Lyngbya majuscula"]}
+{"index": [1241], "sub_label": "Gmelanone", "obj_label": ["Gmelina arborea"]}
+{"index": [2554], "sub_label": "Neurotoxin B-IV", "obj_label": ["Cerebratulus lacteus"]}
+{"index": [1375, 1376], "sub_label": "irilone", "obj_label": ["Trifolium pratense", "Iris germanica"]}
+{"index": [1659], "sub_label": "1,2,6-Trigalloyl glucose", "obj_label": ["Cornus officinalis"]}
+{"index": [97], "sub_label": "cannabinoids", "obj_label": ["Cannabis sativa"]}
+{"index": [1558], "sub_label": "(8E,10E,12Z)-octadecatrienoic acid", "obj_label": ["Calendula officinalis"]}
+{"index": [283], "sub_label": "Vinblastine", "obj_label": ["Catharanthus roseus"]}
+{"index": [2673, 2674], "sub_label": "Ageliferin", "obj_label": ["Agelas", "Agelas conifera"]}
+{"index": [2, 3, 4], "sub_label": "querciturone", "obj_label": ["Hypericum perforatum", "Hypericum hirsutum", "Nelumbo nucifera"]}
+{"index": [2541], "sub_label": "isoliquiritigenin", "obj_label": ["liquorice"]}
+{"index": [41, 819, 899, 920, 1547, 1548, 1549, 1550, 1551, 2155], "sub_label": "caffeine", "obj_label": ["Citrus \u00d7aurantium", "guarana", "Camellia sinensis", "yerba mate", "Camellia", "Camellia ptilophylla", "Coffea arabica", "Coffea canephora", "Theobroma cacao", "Ilex guayusa"]}
+{"index": [1508], "sub_label": "nordihydroguaiaretic acid", "obj_label": ["Larrea tridentata"]}
+{"index": [1354], "sub_label": "PfATP6", "obj_label": ["Plasmodium falciparum"]}
+{"index": [2360], "sub_label": "Isocomene", "obj_label": ["Isocoma pluriflora"]}
+{"index": [1456], "sub_label": "\u03b1-viniferin", "obj_label": ["Caragana sinica"]}
+{"index": [1003], "sub_label": "Hypholomine B", "obj_label": ["Phellinus linteus"]}

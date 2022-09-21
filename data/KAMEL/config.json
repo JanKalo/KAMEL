@@ -1,0 +1,12 @@
+{
+    "dataset": "/data/wikipedia/crocodile/enwiki_all_articles",
+    "count_train_facts": 1000,
+    "count_dev_facts": 200,
+    "count_test_facts": 200,
+    "label_type": [
+        "rdf",
+        null
+    ],
+    "count_max_answers": 10,
+    "number_of_relations": 245
+}

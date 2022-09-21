@@ -1,0 +1,200 @@
+{"index": [7174], "sub_label": "\u00c4ngelholm-Helsingborg Airport", "obj_uri": ["Q54755"], "obj_label": [{"alternative": [], "rdf": "\u00c4ngelholm", "chosen": "\u00c4ngelholm"}]}
+{"index": [1395], "sub_label": "Zurich Airport", "obj_uri": ["Q72"], "obj_label": [{"alternative": ["City of Zurich", "Zurich", "ZH", "Stadt Z\u00fcrich"], "rdf": "Z\u00fcrich", "chosen": "Z\u00fcrich"}]}
+{"index": [7512], "sub_label": "Luzamba Airport", "obj_uri": ["Q1620710"], "obj_label": [{"alternative": ["Kuango"], "rdf": "Cuango", "chosen": "Cuango"}]}
+{"index": [978], "sub_label": "Pleasant Valley Airport", "obj_uri": ["Q51686"], "obj_label": [{"alternative": ["Peoria, Arizona"], "rdf": "Peoria", "chosen": "Peoria"}]}
+{"index": [6787], "sub_label": "Batajnica Air Base", "obj_uri": ["Q3711"], "obj_label": [{"alternative": ["City of Belgrade", "Belgrade, Serbia", "Beograd", "\u0411\u0435\u043e\u0433\u0440\u0430\u0434"], "rdf": "Belgrade", "chosen": "Belgrade"}]}
+{"index": [62], "sub_label": "Chubu Centrair International Airport", "obj_uri": ["Q11751"], "obj_label": [{"alternative": [], "rdf": "Nagoya", "chosen": "Nagoya"}]}
+{"index": [6988], "sub_label": "Clinton-Sampson County Airport", "obj_uri": ["Q305349"], "obj_label": [{"alternative": ["Clinton, North Carolina"], "rdf": "Clinton", "chosen": "Clinton"}]}
+{"index": [1487], "sub_label": "Alpine County Airport", "obj_uri": ["Q1019532"], "obj_label": [{"alternative": ["Markleeville, California"], "rdf": "Markleeville", "chosen": "Markleeville"}]}
+{"index": [1751], "sub_label": "Mataveri International Airport", "obj_uri": ["Q233369"], "obj_label": [{"alternative": [], "rdf": "Hanga Roa", "chosen": "Hanga Roa"}]}
+{"index": [3880], "sub_label": "Huangshan Tunxi International Airport", "obj_uri": ["Q180470"], "obj_label": [{"alternative": [], "rdf": "Huangshan City", "chosen": "Huangshan City"}]}
+{"index": [6366], "sub_label": "Harnett Regional Jetport", "obj_uri": ["Q2029466"], "obj_label": [{"alternative": ["Erwin, North Carolina"], "rdf": "Erwin", "chosen": "Erwin"}]}
+{"index": [1561], "sub_label": "Cincinnati/Northern Kentucky International Airport", "obj_uri": ["Q43196"], "obj_label": [{"alternative": ["Cincy", "Cincinnati, Ohio", "Cinti", "Cincinnati, OH", "Cin City"], "rdf": "Cincinnati", "chosen": "Cincinnati"}]}
+{"index": [6741], "sub_label": "Agua Buena Airport", "obj_uri": ["Q3843"], "obj_label": [{"alternative": [], "rdf": "Collipulli", "chosen": "Collipulli"}]}
+{"index": [7171], "sub_label": "Catarman National Airport", "obj_uri": ["Q13864"], "obj_label": [{"alternative": ["Province of Northern Samar"], "rdf": "Northern Samar", "chosen": "Northern Samar"}]}
+{"index": [7518], "sub_label": "Cluj International Airport", "obj_uri": ["Q100188"], "obj_label": [{"alternative": ["Kolozsv\u00e1r", "Klausenburg", "Cluj", "Claudiopolis", "Kolozsvar", "Kluyzenburg", "Napoca", "Klu\u017e", "Kluzh", "Kolozhvar", "Kolozvar"], "rdf": "Cluj-Napoca", "chosen": "Cluj-Napoca"}]}
+{"index": [4394], "sub_label": "Prickett-Grooms Field", "obj_uri": ["Q7508896"], "obj_label": [{"alternative": ["Sidnaw, Michigan"], "rdf": "Sidnaw", "chosen": "Sidnaw"}]}
+{"index": [6300], "sub_label": "Rusk County Airport", "obj_uri": ["Q664723"], "obj_label": [{"alternative": ["Henderson, Texas"], "rdf": "Henderson", "chosen": "Henderson"}]}
+{"index": [2916], "sub_label": "O\u011fuzeli Airport", "obj_uri": ["Q93338"], "obj_label": [{"alternative": ["Antep"], "rdf": "Gaziantep", "chosen": "Gaziantep"}]}
+{"index": [7207], "sub_label": "Echo Bay Airport", "obj_uri": ["Q546108"], "obj_label": [{"alternative": ["Overton, Nevada"], "rdf": "Overton", "chosen": "Overton"}]}
+{"index": [3561], "sub_label": "Marambio Airport", "obj_uri": ["Q141493"], "obj_label": [{"alternative": ["Marambio Station", "Vicecomodoro Marambio", "Base Marambio"], "rdf": "Marambio Station", "chosen": "Marambio Station"}]}
+{"index": [5930], "sub_label": "Mohe Gulian Airport", "obj_uri": ["Q163094"], "obj_label": [{"alternative": ["Mohe Xian"], "rdf": "Mohe City", "chosen": "Mohe City"}]}
+{"index": [7479], "sub_label": "J-Z Airport", "obj_uri": ["Q1512535"], "obj_label": [{"alternative": [], "rdf": "Almira", "chosen": "Almira"}]}
+{"index": [1306], "sub_label": "Moorabbin Airport", "obj_uri": ["Q3141"], "obj_label": [{"alternative": ["Melbourne, Victoria", "Melbourne, Australia", "Greater Melbourne"], "rdf": "Melbourne", "chosen": "Melbourne"}]}
+{"index": [4882], "sub_label": "Aeropuerto Los Perales", "obj_uri": ["Q2749246"], "obj_label": [{"alternative": ["Bahia de Caraquez", "Bah\u00eda", "Bahia", "San Antonio de Morga de la Bah\u00eda de Car\u00e1quez"], "rdf": "Bah\u00eda de Car\u00e1quez", "chosen": "Bah\u00eda de Car\u00e1quez"}]}
+{"index": [2718], "sub_label": "General Rafael Buelna International Airport", "obj_uri": ["Q40194"], "obj_label": [{"alternative": ["Mazatl\u00e1n"], "rdf": "Mazatlan", "chosen": "Mazatlan"}]}
+{"index": [2808], "sub_label": "Turkmenabat Airport", "obj_uri": ["Q487684"], "obj_label": [{"alternative": [], "rdf": "T\u00fcrkmenabat", "chosen": "T\u00fcrkmenabat"}]}
+{"index": [2020], "sub_label": "Holly Springs-Marshall County Airport", "obj_uri": ["Q2273202"], "obj_label": [{"alternative": ["Holly Springs, Mississippi"], "rdf": "Holly Springs", "chosen": "Holly Springs"}]}
+{"index": [6672], "sub_label": "Callipulli Airport", "obj_uri": ["Q51059"], "obj_label": [{"alternative": ["Osorno, Chile"], "rdf": "Osorno", "chosen": "Osorno"}]}
+{"index": [171], "sub_label": "Ranchaero Airport", "obj_uri": ["Q432152"], "obj_label": [{"alternative": ["Chico, California", "Chico (California)"], "rdf": "Chico", "chosen": "Chico"}]}
+{"index": [4345], "sub_label": "Isiro-Ville Airport", "obj_uri": ["Q899873"], "obj_label": [{"alternative": ["Paulis"], "rdf": "Isiro", "chosen": "Isiro"}]}
+{"index": [1053], "sub_label": "Hawksburn", "obj_uri": ["Q2304617"], "obj_label": [{"alternative": ["South Yarra, Victoria", "South Yarra, Victoria, Australia"], "rdf": "South Yarra", "chosen": "South Yarra"}]}
+{"index": [2251], "sub_label": "Princeton-Kauffman Memorial Airport", "obj_uri": ["Q964799"], "obj_label": [{"alternative": ["Princeton, Missouri"], "rdf": "Princeton", "chosen": "Princeton"}]}
+{"index": [6572], "sub_label": "Futaleufu Airport", "obj_uri": ["Q13060"], "obj_label": [{"alternative": ["Futaleufu"], "rdf": "Futaleuf\u00fa", "chosen": "Futaleuf\u00fa"}]}
+{"index": [6854], "sub_label": "Sherbro International Airport", "obj_uri": ["Q892886"], "obj_label": [{"alternative": [], "rdf": "Bonthe", "chosen": "Bonthe"}]}
+{"index": [2145], "sub_label": "Nassau Boulevard Airfield", "obj_uri": ["Q739452"], "obj_label": [{"alternative": ["Garden City, New York", "Garden City, NY", "Garden City (NY)", "Garden City, Long Island"], "rdf": "Garden City", "chosen": "Garden City"}]}
+{"index": [4762], "sub_label": "Greenlee County Airport", "obj_uri": ["Q691583"], "obj_label": [{"alternative": ["Clifton, Arizona"], "rdf": "Clifton", "chosen": "Clifton"}]}
+{"index": [4716], "sub_label": "Hafar Al-Batin Domestic Airport", "obj_uri": ["Q27400"], "obj_label": [{"alternative": ["Hafar al Batin"], "rdf": "Hafar Al-Batin governorate", "chosen": "Hafar Al-Batin governorate"}]}
+{"index": [1092], "sub_label": "Erie-Ottawa International Airport", "obj_uri": ["Q1925091"], "obj_label": [{"alternative": ["Port Clinton, Ohio"], "rdf": "Port Clinton", "chosen": "Port Clinton"}]}
+{"index": [2340], "sub_label": "Richmond", "obj_uri": ["Q5184107"], "obj_label": [{"alternative": ["Cremorne, Victoria", "Cremorne, Victoria, Australia"], "rdf": "Cremorne", "chosen": "Cremorne"}]}
+{"index": [2970], "sub_label": "General Lucio Blanco International Airport", "obj_uri": ["Q738303"], "obj_label": [{"alternative": [], "rdf": "Reynosa", "chosen": "Reynosa"}]}
+{"index": [5422], "sub_label": "Syndal", "obj_uri": ["Q3108712"], "obj_label": [{"alternative": ["Glen Waverley, Victoria", "Glen Waverley, Victoria, Australia"], "rdf": "Glen Waverley", "chosen": "Glen Waverley"}]}
+{"index": [7257], "sub_label": "Angwin-Parrett Field", "obj_uri": ["Q2277678"], "obj_label": [{"alternative": ["Angwin, California"], "rdf": "Angwin", "chosen": "Angwin"}]}
+{"index": [2374], "sub_label": "Owasco Airport", "obj_uri": ["Q3476346"], "obj_label": [{"alternative": [], "rdf": "Moravia (village), New York", "chosen": "Moravia (village), New York"}]}
+{"index": [739], "sub_label": "Dolna Mitropolia Air Base", "obj_uri": ["Q405829"], "obj_label": [{"alternative": [], "rdf": "Dolna Mitropoliya", "chosen": "Dolna Mitropoliya"}]}
+{"index": [2101], "sub_label": "Peawanuck Airport", "obj_uri": ["Q7158493"], "obj_label": [{"alternative": [], "rdf": "Peawanuck First Nation", "chosen": "Peawanuck First Nation"}]}
+{"index": [3513], "sub_label": "Ambalabe Airport", "obj_uri": ["Q609567"], "obj_label": [{"alternative": [], "rdf": "Antsohihy", "chosen": "Antsohihy"}]}
+{"index": [39], "sub_label": "Maya-Maya Airport", "obj_uri": ["Q3844"], "obj_label": [{"alternative": [], "rdf": "Brazzaville", "chosen": "Brazzaville"}]}
+{"index": [4322], "sub_label": "Reigle Field", "obj_uri": ["Q1185870"], "obj_label": [{"alternative": ["Palmyra, Pennsylvania"], "rdf": "Palmyra", "chosen": "Palmyra"}]}
+{"index": [378], "sub_label": "Adisucipto International Airport", "obj_uri": ["Q7568"], "obj_label": [{"alternative": ["Yogyakarta City"], "rdf": "Yogyakarta", "chosen": "Yogyakarta"}]}
+{"index": [123], "sub_label": "Mara Serena Airport", "obj_uri": ["Q207724"], "obj_label": [{"alternative": ["Maasai Mara"], "rdf": "Masai Mara", "chosen": "Masai Mara"}]}
+{"index": [5916], "sub_label": "Reeves Airport", "obj_uri": ["Q79215"], "obj_label": [{"alternative": ["Tallassee, Alabama"], "rdf": "Tallassee", "chosen": "Tallassee"}]}
+{"index": [2962], "sub_label": "Mawlamyaing Airport", "obj_uri": ["Q685941"], "obj_label": [{"alternative": ["Moulmein"], "rdf": "Mawlamyine", "chosen": "Mawlamyine"}]}
+{"index": [4520], "sub_label": "Rarotonga International Airport", "obj_uri": ["Q170482"], "obj_label": [{"alternative": [], "rdf": "Avarua", "chosen": "Avarua"}]}
+{"index": [3759], "sub_label": "Stanly County Airport", "obj_uri": ["Q921689"], "obj_label": [{"alternative": ["Albemarle, North Carolina"], "rdf": "Albemarle", "chosen": "Albemarle"}]}
+{"index": [4591], "sub_label": "Joondalup railway line", "obj_uri": ["Q3183"], "obj_label": [{"alternative": ["Perth, Western Australia", "Perth, Australia", "Perth, W.A."], "rdf": "Perth", "chosen": "Perth"}]}
+{"index": [4356], "sub_label": "Palcasa Airport", "obj_uri": ["Q581121"], "obj_label": [{"alternative": [], "rdf": "El Castillo", "chosen": "El Castillo"}]}
+{"index": [1047], "sub_label": "Mulatupo Airport", "obj_uri": ["Q14225928"], "obj_label": [{"alternative": ["Mulatupo"], "rdf": "Mulatupo o Sasardi", "chosen": "Mulatupo o Sasardi"}]}
+{"index": [3063], "sub_label": "Hassan I Airport", "obj_uri": ["Q47837"], "obj_label": [{"alternative": ["La\u00e2youne"], "rdf": "Laayoune", "chosen": "Laayoune"}]}
+{"index": [5034], "sub_label": "David Wayne Hooks Memorial Airport", "obj_uri": ["Q16555"], "obj_label": [{"alternative": ["Houston, Texas", "Space City", "H-Town", "City of Houston", "USHOU", "Houston, TX", "Houston TX"], "rdf": "Houston", "chosen": "Houston"}]}
+{"index": [3818], "sub_label": "Boundary Bay Airport", "obj_uri": ["Q851838"], "obj_label": [{"alternative": ["Delta, British Columbia"], "rdf": "Delta", "chosen": "Delta"}]}
+{"index": [6348], "sub_label": "Tambov Donskoye Airport", "obj_uri": ["Q4166381"], "obj_label": [{"alternative": [], "rdf": "Donskoye, Tambov Oblast", "chosen": "Donskoye, Tambov Oblast"}]}
+{"index": [5122], "sub_label": "Soummam \u2013 Abane Ramdane Airport", "obj_uri": ["Q59975"], "obj_label": [{"alternative": [], "rdf": "Beja\u00efa", "chosen": "Beja\u00efa"}]}
+{"index": [277], "sub_label": "Henry E. Rohlsen Airport", "obj_uri": ["Q642481"], "obj_label": [{"alternative": ["Saint Croix, U.S. Virgin Islands", "Saint Croix, US Virgin Islands", "St Croix, U.S. Virgin Islands", "St Croix, United States Virgin Islands", "St Croix", "St. Croix", "Saint Croix Island", "St. Croix Island", "Santa Cruz"], "rdf": "Saint Croix", "chosen": "Saint Croix"}]}
+{"index": [4406], "sub_label": "Eagle Creek Airpark", "obj_uri": ["Q6346"], "obj_label": [{"alternative": ["Circle City", "Indy", "Naptown", "Crossroads of America", "Racing Capital of the World", "Amateur Sports Capital of the World", "INDPLS", "Indianapolis, Indiana", "India-no-place", "Railroad City"], "rdf": "Indianapolis", "chosen": "Indianapolis"}]}
+{"index": [5576], "sub_label": "Bokungu Airport", "obj_uri": ["Q2909259"], "obj_label": [{"alternative": [], "rdf": "Bokungo", "chosen": "Bokungo"}]}
+{"index": [6009], "sub_label": "Likiep Airport", "obj_uri": ["Q518353"], "obj_label": [{"alternative": ["Likiep", "Likiep Atoll, Marshall Islands"], "rdf": "Likiep Atoll", "chosen": "Likiep Atoll"}]}
+{"index": [7490], "sub_label": "Kobler Field", "obj_uri": ["Q51679"], "obj_label": [{"alternative": ["Saipan, Northern Mariana Islands", "Saipan Island"], "rdf": "Saipan", "chosen": "Saipan"}]}
+{"index": [383], "sub_label": "Seattle\u2013Tacoma International Airport", "obj_uri": ["Q5083"], "obj_label": [{"alternative": ["Seattle, Washington", "Seattle, WA", "Duwamps", "New York Alki"], "rdf": "Seattle", "chosen": "Seattle"}]}
+{"index": [7295], "sub_label": "Lidk\u00f6ping-Hovby Airport", "obj_uri": ["Q29988"], "obj_label": [{"alternative": [], "rdf": "Lidk\u00f6ping", "chosen": "Lidk\u00f6ping"}]}
+{"index": [7373], "sub_label": "Josefa Camejo International Airport", "obj_uri": ["Q1020279"], "obj_label": [{"alternative": [], "rdf": "Punto Fijo", "chosen": "Punto Fijo"}]}
+{"index": [5803], "sub_label": "Fond-des-Blancs Airport", "obj_uri": ["Q3075313"], "obj_label": [{"alternative": ["Fond-des-Blancs"], "rdf": "Fond des Blancs", "chosen": "Fond des Blancs"}]}
+{"index": [1814], "sub_label": "Sikorsky Memorial Airport", "obj_uri": ["Q49174"], "obj_label": [{"alternative": ["Bridgeport, Connecticut"], "rdf": "Bridgeport", "chosen": "Bridgeport"}]}
+{"index": [2685], "sub_label": "Marechal Cunha Machado International Airport", "obj_uri": ["Q28441"], "obj_label": [{"alternative": ["Sao Luis"], "rdf": "S\u00e3o Lu\u00eds", "chosen": "S\u00e3o Lu\u00eds"}]}
+{"index": [3510], "sub_label": "Antsirabato Airport", "obj_uri": ["Q570816"], "obj_label": [{"alternative": [], "rdf": "Antalaha", "chosen": "Antalaha"}]}
+{"index": [6038], "sub_label": "Lancang Airport", "obj_uri": ["Q1200512"], "obj_label": [{"alternative": [], "rdf": "Lancang Lahu Autonomous County", "chosen": "Lancang Lahu Autonomous County"}]}
+{"index": [3831], "sub_label": "Cullingford Field", "obj_uri": ["Q1019607"], "obj_label": [{"alternative": ["Cabo Rojo, Puerto Rico", "Cabo Rojo Municipio"], "rdf": "Cabo Rojo", "chosen": "Cabo Rojo"}]}
+{"index": [3925], "sub_label": "El Tari Airport", "obj_uri": ["Q14155"], "obj_label": [{"alternative": ["Kota Kupang"], "rdf": "Kupang", "chosen": "Kupang"}]}
+{"index": [6267], "sub_label": "Eddie Dew Memorial Airpark", "obj_uri": ["Q736775"], "obj_label": [{"alternative": ["Toronto, Ohio"], "rdf": "Toronto", "chosen": "Toronto"}]}
+{"index": [1195], "sub_label": "Del Bonita/Whetstone International Airport", "obj_uri": ["Q5252869"], "obj_label": [{"alternative": ["Del Bonita, Montana"], "rdf": "Del Bonita", "chosen": "Del Bonita"}]}
+{"index": [566], "sub_label": "Alejandro Velasco Astete International Airport", "obj_uri": ["Q5582862"], "obj_label": [{"alternative": ["Capital \u200b\u200bof the Inca empire", "City Imperial of the Cuzco", "Imperial city of Cuzco", "Empire city of Cuzco", "Cultural heritage city of Peru", "World heritage city", "Rome of America", "Cusco", "Imperial city of Cusco", "Imperial city of the Cusco", "Empire city of Cusco", "Rome of the Americas", "Cuzco World Heritage Site", "Cuzco", "City of Cuzco", "Historic Centre of Cuzco"], "rdf": "Cuzco", "chosen": "Cuzco"}]}
+{"index": [2904], "sub_label": "Sioux Gateway Airport", "obj_uri": ["Q489255"], "obj_label": [{"alternative": ["Sioux City, Iowa"], "rdf": "Sioux City", "chosen": "Sioux City"}]}
+{"index": [1065], "sub_label": "Buffalo Range Airport", "obj_uri": ["Q1074697"], "obj_label": [{"alternative": [], "rdf": "Chiredzi", "chosen": "Chiredzi"}]}
+{"index": [1031], "sub_label": "Fort St. James/Stuart River Water Aerodrome", "obj_uri": ["Q177800"], "obj_label": [{"alternative": [], "rdf": "Fort St. James", "chosen": "Fort St. James"}]}
+{"index": [1709], "sub_label": "Manzhouli Xijiao Airport", "obj_uri": ["Q890671"], "obj_label": [{"alternative": ["Manzhouli"], "rdf": "Manchouli", "chosen": "Manchouli"}]}
+{"index": [913], "sub_label": "Girona-Costa Brava Airport", "obj_uri": ["Q7038"], "obj_label": [{"alternative": ["Girona, Spain", "G\u00e9rone", "Gerone", "Gerona", "Gerona, Spain", "Girona, Catalonia"], "rdf": "Girona", "chosen": "Girona"}]}
+{"index": [3355], "sub_label": "Milford Sound Airport", "obj_uri": ["Q187197"], "obj_label": [{"alternative": ["Piopiotahi", "Milford Sound"], "rdf": "Milford Sound / Piopiotahi", "chosen": "Milford Sound / Piopiotahi"}]}
+{"index": [847], "sub_label": "Sankt Georgen Airport", "obj_uri": ["Q580642"], "obj_label": [{"alternative": [], "rdf": "Sankt Georgen am Ybbsfelde", "chosen": "Sankt Georgen am Ybbsfelde"}]}
+{"index": [10], "sub_label": "Toncont\u00edn International Airport", "obj_uri": ["Q3238"], "obj_label": [{"alternative": [], "rdf": "Tegucigalpa", "chosen": "Tegucigalpa"}]}
+{"index": [1959], "sub_label": "Beale Air Force Base", "obj_uri": ["Q950966"], "obj_label": [{"alternative": ["Marysville, California"], "rdf": "Marysville", "chosen": "Marysville"}]}
+{"index": [5688], "sub_label": "Parlin Field", "obj_uri": ["Q286753"], "obj_label": [{"alternative": ["Newport, New Hampshire", "Newport NH", "Newport N.H."], "rdf": "Newport", "chosen": "Newport"}]}
+{"index": [240], "sub_label": "Skyway Manor Airport", "obj_uri": ["Q982550"], "obj_label": [{"alternative": ["Pearland, Texas", "Pearland, TX"], "rdf": "Pearland", "chosen": "Pearland"}]}
+{"index": [5611], "sub_label": "Aktion National Airport", "obj_uri": ["Q213898"], "obj_label": [{"alternative": [], "rdf": "Preveza", "chosen": "Preveza"}]}
+{"index": [7201], "sub_label": "Burnett County Airport", "obj_uri": ["Q2671451"], "obj_label": [{"alternative": ["Village of Siren"], "rdf": "Siren", "chosen": "Siren"}]}
+{"index": [1513], "sub_label": "Rendani Airport", "obj_uri": ["Q848672"], "obj_label": [{"alternative": [], "rdf": "Manokwari", "chosen": "Manokwari"}]}
+{"index": [409], "sub_label": "Mosteiros Airport", "obj_uri": ["Q494854"], "obj_label": [{"alternative": ["Porto dos Mosteiros"], "rdf": "Mosteiros, Cape Verde", "chosen": "Mosteiros, Cape Verde"}]}
+{"index": [1648], "sub_label": "Playa de Oro International Airport", "obj_uri": ["Q739908"], "obj_label": [{"alternative": [], "rdf": "Manzanillo", "chosen": "Manzanillo"}]}
+{"index": [5716], "sub_label": "La Gomera Airport", "obj_uri": ["Q383213"], "obj_label": [{"alternative": ["Playa de Santiago"], "rdf": "Playa Santiago", "chosen": "Playa Santiago"}]}
+{"index": [3013], "sub_label": "Santpoort Noord railway station", "obj_uri": ["Q20011950"], "obj_label": [{"alternative": [], "rdf": "Santpoort-Noord", "chosen": "Santpoort-Noord"}]}
+{"index": [7296], "sub_label": "Johan Pienaar Airport", "obj_uri": ["Q1025965"], "obj_label": [{"alternative": [], "rdf": "Kuruman", "chosen": "Kuruman"}]}
+{"index": [3184], "sub_label": "Jos\u00e9 Celestino Mutis Airport", "obj_uri": ["Q1579457"], "obj_label": [{"alternative": ["Bahia Solano"], "rdf": "Bah\u00eda Solano", "chosen": "Bah\u00eda Solano"}]}
+{"index": [564], "sub_label": "Pioneer Airport", "obj_uri": ["Q936741"], "obj_label": [{"alternative": ["Oshkosh, Wisconsin", "City of Oshkosh"], "rdf": "Oshkosh", "chosen": "Oshkosh"}]}
+{"index": [2877], "sub_label": "Chobe Safari Lodge Airport", "obj_uri": ["Q1893242"], "obj_label": [{"alternative": ["Kabelaga National Park"], "rdf": "Murchison Falls National Park", "chosen": "Murchison Falls National Park"}]}
+{"index": [6097], "sub_label": "C. David Campbell Field", "obj_uri": ["Q939602"], "obj_label": [{"alternative": ["Corsicana, Texas"], "rdf": "Corsicana", "chosen": "Corsicana"}]}
+{"index": [3722], "sub_label": "St. Louis Downtown Airport", "obj_uri": ["Q944269"], "obj_label": [{"alternative": ["Greater Saint Louis", "St. Louis metropolitan area", "St. Louis metro area", "St. Louis area", "Saint Louis metropolitan area", "Saint Louis metro area", "Saint Louis area", "St. Louis, MO-IL", "Greater St. Louis Metropolitan Area", "Greater Saint Louis Metropolitan Area", "Saint Louis, MO-IL"], "rdf": "Greater St. Louis", "chosen": "Greater St. Louis"}]}
+{"index": [7604], "sub_label": "Dayrestan Airport", "obj_uri": ["Q240719"], "obj_label": [{"alternative": ["Keshm", "Kishm"], "rdf": "Qeshm Island", "chosen": "Qeshm Island"}]}
+{"index": [1280], "sub_label": "Porto Trombetas Airport", "obj_uri": ["Q2011919"], "obj_label": [{"alternative": ["Oriximina"], "rdf": "Oriximin\u00e1", "chosen": "Oriximin\u00e1"}]}
+{"index": [4924], "sub_label": "Edward F Johnson Airport", "obj_uri": ["Q2432500"], "obj_label": [{"alternative": ["Ishpeming, Michigan"], "rdf": "Ishpeming", "chosen": "Ishpeming"}]}
+{"index": [2634], "sub_label": "Marsa Matruh International Airport", "obj_uri": ["Q393829"], "obj_label": [{"alternative": [], "rdf": "Mersa Matruh", "chosen": "Mersa Matruh"}]}
+{"index": [1283], "sub_label": "Erie County Airport", "obj_uri": ["Q1184138"], "obj_label": [{"alternative": [], "rdf": "Wattsburg", "chosen": "Wattsburg"}]}
+{"index": [2471], "sub_label": "Kyongsong Chuul Airport", "obj_uri": ["Q704834"], "obj_label": [{"alternative": [], "rdf": "Kyongsong County", "chosen": "Kyongsong County"}]}
+{"index": [6127], "sub_label": "Richard Arthur Field", "obj_uri": ["Q79370"], "obj_label": [{"alternative": ["Fayette, Alabama"], "rdf": "Fayette", "chosen": "Fayette"}]}
+{"index": [1140], "sub_label": "Autec Heliport", "obj_uri": ["Q1771818"], "obj_label": [{"alternative": [], "rdf": "Andros Town", "chosen": "Andros Town"}]}
+{"index": [6563], "sub_label": "Thimarafushi Airport", "obj_uri": ["Q1893801"], "obj_label": [{"alternative": ["Kolhumadulu Atholhu"], "rdf": "Kolhumadulhu Atoll", "chosen": "Kolhumadulhu Atoll"}]}
+{"index": [1787], "sub_label": "Harford Field", "obj_uri": ["Q223177"], "obj_label": [{"alternative": ["Casper, Wyoming", "Red Hill City"], "rdf": "Casper", "chosen": "Casper"}]}
+{"index": [2518], "sub_label": "Bradley International Airport", "obj_uri": ["Q33486"], "obj_label": [{"alternative": ["Hartford, Connecticut"], "rdf": "Hartford", "chosen": "Hartford"}]}
+{"index": [6357], "sub_label": "White Sands Space Harbor", "obj_uri": ["Q618540"], "obj_label": [{"alternative": [], "rdf": "White Sands Test Facility", "chosen": "White Sands Test Facility"}]}
+{"index": [5066], "sub_label": "Ubombo Ranches Airfield", "obj_uri": ["Q858539"], "obj_label": [{"alternative": [], "rdf": "Big Bend", "chosen": "Big Bend"}]}
+{"index": [6386], "sub_label": "Sarn\u0131\u00e7 railway station", "obj_uri": ["Q1496685"], "obj_label": [{"alternative": [], "rdf": "Gaziemir", "chosen": "Gaziemir"}]}
+{"index": [7284], "sub_label": "Los Garzones Airport", "obj_uri": ["Q852725"], "obj_label": [{"alternative": ["Monteria"], "rdf": "Monter\u00eda", "chosen": "Monter\u00eda"}]}
+{"index": [300], "sub_label": "Kansai International Airport", "obj_uri": ["Q35765"], "obj_label": [{"alternative": ["\u014csaka"], "rdf": "Osaka", "chosen": "Osaka"}]}
+{"index": [7378], "sub_label": "Jandakot Airport", "obj_uri": ["Q3183"], "obj_label": [{"alternative": ["Perth, Western Australia", "Perth, Australia", "Perth, W.A."], "rdf": "Perth", "chosen": "Perth"}]}
+{"index": [1458], "sub_label": "William R. Pogue Municipal Airport", "obj_uri": ["Q2220501"], "obj_label": [{"alternative": ["Sand Springs, Oklahoma"], "rdf": "Sand Springs", "chosen": "Sand Springs"}]}
+{"index": [6762], "sub_label": "The Eastern Iowa Airport", "obj_uri": ["Q486439"], "obj_label": [{"alternative": ["Cedar Rapids, Iowa"], "rdf": "Cedar Rapids", "chosen": "Cedar Rapids"}]}
+{"index": [1972], "sub_label": "Prince Nayef bin Abdulaziz Regional Airport", "obj_uri": ["Q1105411"], "obj_label": [{"alternative": ["Al Qassim Region", "Al-Qassim Region", "Qassim Province", "Qassim Region", "Al-Qaseem", "Al-Qasim Province"], "rdf": "Al-Qassim Province", "chosen": "Al-Qassim Province"}]}
+{"index": [5481, 5482], "sub_label": "Glenhuntly", "obj_uri": ["Q5567817", "Q5043870"], "obj_label": [{"alternative": ["Glen Huntly, Victoria", "Glen Huntly, Victoria, Australia"], "rdf": "Glen Huntly", "chosen": "Glen Huntly"}, {"alternative": ["Carnegie, Victoria", "Carnegie, Victoria, Australia"], "rdf": "Carnegie", "chosen": "Carnegie"}]}
+{"index": [1338], "sub_label": "Charing Cross railway station", "obj_uri": ["Q84"], "obj_label": [{"alternative": ["London, UK", "London, United Kingdom", "London, England", "Modern Babylon"], "rdf": "London", "chosen": "London"}]}
+{"index": [2678], "sub_label": "Dhusamareb Airport", "obj_uri": ["Q634063"], "obj_label": [{"alternative": ["Dusmareeb"], "rdf": "Dusmareb", "chosen": "Dusmareb"}]}
+{"index": [408], "sub_label": "Es\u00e9ka Airport", "obj_uri": ["Q3591508"], "obj_label": [{"alternative": ["Eseka", "Es\u00e9ka"], "rdf": "\u00c9s\u00e9ka", "chosen": "\u00c9s\u00e9ka"}]}
+{"index": [84], "sub_label": "Ain Arnat Airport", "obj_uri": ["Q244004"], "obj_label": [{"alternative": ["Setif"], "rdf": "S\u00e9tif", "chosen": "S\u00e9tif"}]}
+{"index": [6159], "sub_label": "Abu Simbel Airport", "obj_uri": ["Q134140"], "obj_label": [{"alternative": ["Great and Small Temples of Abu Simbel", "Temples at Abu Simbel", "Abu Simbel temples"], "rdf": "Temples of Abu Simbel", "chosen": "Temples of Abu Simbel"}]}
+{"index": [7134], "sub_label": "Chalon \u2013 Champforgeuil Airport", "obj_uri": ["Q203645"], "obj_label": [{"alternative": ["Chalon-sur-Saone", "Saint-Cosme (r\u00e9unie \u00e0 Chalon-sur-Sa\u00f4ne)", "C\u00f4me-la-Montagne", "Saint-Jean-des-Vignes (r\u00e9unie \u00e0 Chalon-sur-Sa\u00f4ne)", "Port-la-Montagne", "Saint-Martin-des-Champs (r\u00e9unie \u00e0 Chalon-sur-Sa\u00f4ne)", "Montagne-l\u00e8s-Chalon", "Rochefort-la-Vigne (ou Rochefort-des-Vignes)", "Champfleury", "La Montagne"], "rdf": "Chalon-sur-Sa\u00f4ne", "chosen": "Chalon-sur-Sa\u00f4ne"}]}
+{"index": [4651], "sub_label": "Chambers County-Winnie Stowell Airport", "obj_uri": ["Q981438"], "obj_label": [{"alternative": [], "rdf": "Winnie", "chosen": "Winnie"}]}
+{"index": [3126], "sub_label": "Flying W Airport", "obj_uri": ["Q1072761"], "obj_label": [{"alternative": ["Lumberton Township, New Jersey"], "rdf": "Lumberton Township", "chosen": "Lumberton Township"}]}
+{"index": [428], "sub_label": "Beverlo Airport", "obj_uri": ["Q736120"], "obj_label": [{"alternative": ["Bourg-Leopold"], "rdf": "Leopoldsburg", "chosen": "Leopoldsburg"}]}
+{"index": [1200], "sub_label": "Prince Rupert Airport", "obj_uri": ["Q1224589"], "obj_label": [{"alternative": [], "rdf": "Digby Island", "chosen": "Digby Island"}]}
+{"index": [6477], "sub_label": "Yellowstone Regional Airport", "obj_uri": ["Q916603"], "obj_label": [{"alternative": ["Cody, Wyoming"], "rdf": "Cody", "chosen": "Cody"}]}
+{"index": [2912], "sub_label": "Baldwin County Airport", "obj_uri": ["Q1885071"], "obj_label": [{"alternative": ["Milledgeville, Georgia"], "rdf": "Milledgeville", "chosen": "Milledgeville"}]}
+{"index": [7421], "sub_label": "Bermuda Dunes Airport", "obj_uri": ["Q488004"], "obj_label": [{"alternative": ["Palm Springs, California", "Palm City"], "rdf": "Palm Springs", "chosen": "Palm Springs"}]}
+{"index": [7505], "sub_label": "Obidos Airport", "obj_uri": ["Q577167"], "obj_label": [{"alternative": ["Obidos"], "rdf": "\u00d3bidos", "chosen": "\u00d3bidos"}]}
+{"index": [318], "sub_label": "Ipatinga Airport", "obj_uri": ["Q929590"], "obj_label": [{"alternative": ["Santana do Paraiso"], "rdf": "Santana do Para\u00edso", "chosen": "Santana do Para\u00edso"}]}
+{"index": [1067], "sub_label": "Jorge Enrique Gonz\u00e1lez Torres Airport", "obj_uri": ["Q864675"], "obj_label": [{"alternative": ["San Jose del Guaviare"], "rdf": "San Jos\u00e9 del Guaviare", "chosen": "San Jos\u00e9 del Guaviare"}]}
+{"index": [4787], "sub_label": "Paintsville-Prestonsburg Combs Field", "obj_uri": ["Q1012330"], "obj_label": [{"alternative": ["Paintsville, Kentucky"], "rdf": "Paintsville", "chosen": "Paintsville"}]}
+{"index": [494], "sub_label": "Zhukovsky International Airport", "obj_uri": ["Q649"], "obj_label": [{"alternative": ["Moskva", "Moscow, Russia", "Moskva Federal City, Russia", "Moscow, USSR", "Moskva, Russia", "City of Moscow", "Moscow, Russian Federation", "Moscow, Soviet Union", "Moscow, Russian SFSR", "Muscovite", "Moscovite"], "rdf": "Moscow", "chosen": "Moscow"}]}
+{"index": [5859], "sub_label": "Rongelap Airport", "obj_uri": ["Q542619"], "obj_label": [{"alternative": ["Rongelap Atoll, Marshall Islands"], "rdf": "Rongelap Atoll", "chosen": "Rongelap Atoll"}]}
+{"index": [97], "sub_label": "Ovda Airport", "obj_uri": ["Q134762"], "obj_label": [{"alternative": [], "rdf": "Eilat", "chosen": "Eilat"}]}
+{"index": [2965], "sub_label": "Shache Airport", "obj_uri": ["Q857618"], "obj_label": [{"alternative": ["Yarkand", "Shache"], "rdf": "Yarkant County", "chosen": "Yarkant County"}]}
+{"index": [5152], "sub_label": "Fox Harbour Airport", "obj_uri": ["Q5476730"], "obj_label": [{"alternative": [], "rdf": "Fox Harbour, Nova Scotia", "chosen": "Fox Harbour, Nova Scotia"}]}
+{"index": [3300], "sub_label": "Miguel Urdaneta Fern\u00e1ndez Airport", "obj_uri": ["Q7419262"], "obj_label": [{"alternative": ["Santa Barbara del Zulia"], "rdf": "Santa B\u00e1rbara del Zulia", "chosen": "Santa B\u00e1rbara del Zulia"}]}
+{"index": [3547], "sub_label": "Dembidolo Airport", "obj_uri": ["Q2563156"], "obj_label": [{"alternative": [], "rdf": "Dembi Dollo", "chosen": "Dembi Dollo"}]}
+{"index": [718], "sub_label": "Elkins Field", "obj_uri": ["Q2025031"], "obj_label": [{"alternative": ["Clarkton, North Carolina"], "rdf": "Clarkton", "chosen": "Clarkton"}]}
+{"index": [1382], "sub_label": "Shri Guru Gobind Singh Ji Airport", "obj_uri": ["Q855122"], "obj_label": [{"alternative": [], "rdf": "Nanded", "chosen": "Nanded"}]}
+{"index": [2016], "sub_label": "James G. Whiting Memorial Field", "obj_uri": ["Q651053"], "obj_label": [{"alternative": ["Mapleton, Iowa"], "rdf": "Mapleton", "chosen": "Mapleton"}]}
+{"index": [3975], "sub_label": "Gustavo Rizo Airport", "obj_uri": ["Q94775"], "obj_label": [{"alternative": [], "rdf": "Baracoa", "chosen": "Baracoa"}]}
+{"index": [550], "sub_label": "Garner Field", "obj_uri": ["Q868860"], "obj_label": [{"alternative": ["Uvalde, Texas"], "rdf": "Uvalde", "chosen": "Uvalde"}]}
+{"index": [1383], "sub_label": "Gandhinagar Airport", "obj_uri": ["Q200235"], "obj_label": [{"alternative": ["Nasik"], "rdf": "Nashik", "chosen": "Nashik"}]}
+{"index": [7133], "sub_label": "Bourg \u2013 Ceyz\u00e9riat Airport", "obj_uri": ["Q133069"], "obj_label": [{"alternative": ["Bourg-\u00c9pur\u00e9", "Bourg-R\u00e9g\u00e9n\u00e9r\u00e9", "\u00c9pi-d'Ain", "\u00c9pi-d'Or (ou \u00c9pidor)", "\u00c9py-d'Ain (ou \u00c9pi-d'Ain)", "Bledvin", "Commune-Neuve (ou Commune-Nouvelle)", "Commune-Affranchie"], "rdf": "Bourg-en-Bresse", "chosen": "Bourg-en-Bresse"}]}
+{"index": [2918], "sub_label": "Sky Park Airport", "obj_uri": ["Q1020238"], "obj_label": [{"alternative": ["Red Hook"], "rdf": "Red Hook (village), New York", "chosen": "Red Hook (village), New York"}]}
+{"index": [5219], "sub_label": "Ustupu-Ogobsucum Airport", "obj_uri": ["Q3254645"], "obj_label": [{"alternative": [], "rdf": "Ustupo", "chosen": "Ustupo"}]}
+{"index": [937], "sub_label": "Governor Francisco Gabrielli International Airport", "obj_uri": ["Q44237"], "obj_label": [{"alternative": [], "rdf": "Mendoza", "chosen": "Mendoza"}]}
+{"index": [6815], "sub_label": "Perpignan\u2013Rivesaltes Airport", "obj_uri": ["Q6730"], "obj_label": [{"alternative": ["Perpiny\u00e0"], "rdf": "Perpignan", "chosen": "Perpignan"}]}
+{"index": [6583], "sub_label": "Inapari Airport", "obj_uri": ["Q1899785"], "obj_label": [{"alternative": ["Inapari", "City of I\u00f1apari"], "rdf": "I\u00f1apari", "chosen": "I\u00f1apari"}]}
+{"index": [5990], "sub_label": "S\u00e3o Jacinto Airport", "obj_uri": ["Q485581"], "obj_label": [{"alternative": ["Aveiro Municipality"], "rdf": "Aveiro", "chosen": "Aveiro"}]}
+{"index": [5545], "sub_label": "Pingtung Airport", "obj_uri": ["Q713377"], "obj_label": [{"alternative": ["Pingtung"], "rdf": "Pingtung City", "chosen": "Pingtung City"}]}
+{"index": [4015], "sub_label": "Fabio Alberto Le\u00f3n Bentley Airport", "obj_uri": ["Q130242"], "obj_label": [{"alternative": ["Mitu"], "rdf": "Mit\u00fa", "chosen": "Mit\u00fa"}]}
+{"index": [445], "sub_label": "Maubray Airport", "obj_uri": ["Q173219"], "obj_label": [{"alternative": ["Doornik"], "rdf": "Tournai", "chosen": "Tournai"}]}
+{"index": [337], "sub_label": "Baltimore Airpark", "obj_uri": ["Q754681"], "obj_label": [{"alternative": ["Perry Hall, Maryland"], "rdf": "Perry Hall", "chosen": "Perry Hall"}]}
+{"index": [2834], "sub_label": "Beaufort County Airport", "obj_uri": ["Q6469863"], "obj_label": [{"alternative": ["Combee Island", "Ile Des Dammes", "Island of Our Lady", "Islas Dames", "Ladies Island", "Lady Blakes Islandv", "Lady's Island", "Lady's Isle", "Our Lakies Island", "Saint Helena Island"], "rdf": "Ladys Island", "chosen": "Ladys Island"}]}
+{"index": [7427], "sub_label": "William Robert Johnston Municipal Airport", "obj_uri": ["Q984601"], "obj_label": [{"alternative": ["Mendota, California"], "rdf": "Mendota", "chosen": "Mendota"}]}
+{"index": [2802], "sub_label": "Buffalo-Lancaster Regional Airport", "obj_uri": ["Q609191"], "obj_label": [{"alternative": ["Lancaster, New York", "Village of Lancaster, New York", "Lancaster (village), New York"], "rdf": "Lancaster", "chosen": "Lancaster"}]}
+{"index": [2337], "sub_label": "Yangyang International Airport", "obj_uri": ["Q50254"], "obj_label": [{"alternative": [], "rdf": "Yangyang County", "chosen": "Yangyang County"}]}
+{"index": [2626], "sub_label": "Iloilo International Airport", "obj_uri": ["Q459787"], "obj_label": [{"alternative": ["Iloilo", "City of Iloilo", "Iloilo, Iloilo", "Iloilo City, Iloilo"], "rdf": "Iloilo City", "chosen": "Iloilo City"}]}
+{"index": [5943], "sub_label": "Chilhowee Gliderport", "obj_uri": ["Q3287506"], "obj_label": [{"alternative": [], "rdf": "Benton", "chosen": "Benton"}]}
+{"index": [1038], "sub_label": "Jackson-Evers International Airport", "obj_uri": ["Q28198"], "obj_label": [{"alternative": ["Jackson, Mississippi", "City of Jackson"], "rdf": "Jackson", "chosen": "Jackson"}]}
+{"index": [7517], "sub_label": "Neuville Airport", "obj_uri": ["Q2145"], "obj_label": [{"alternative": ["Quebec", "Ville de Qu\u00e9bec", "Qu\u00e9bec", "City of Qu\u00e9bec", "City of Quebec", "Ville de Quebec", "3rd Summit of the Americas"], "rdf": "Quebec City", "chosen": "Quebec City"}]}
+{"index": [2649], "sub_label": "Lower Chattahoochee Regional Airport", "obj_uri": ["Q2369328"], "obj_label": [{"alternative": ["Cuthbert, Georgia"], "rdf": "Cuthbert", "chosen": "Cuthbert"}]}
+{"index": [3647], "sub_label": "Prague-Kbely Airport", "obj_uri": ["Q1085"], "obj_label": [{"alternative": ["Praha", "Hlavn\u00ed m\u011bsto Praha", "City of Prague"], "rdf": "Prague", "chosen": "Prague"}]}
+{"index": [1213], "sub_label": "Texada/Gillies Bay Airport", "obj_uri": ["Q1569350"], "obj_label": [{"alternative": [], "rdf": "Texada Island", "chosen": "Texada Island"}]}
+{"index": [4019], "sub_label": "Los Pozos Airport", "obj_uri": ["Q1294128"], "obj_label": [{"alternative": [], "rdf": "San Gil", "chosen": "San Gil"}]}
+{"index": [5442], "sub_label": "Tottenham", "obj_uri": ["Q7985168"], "obj_label": [{"alternative": ["West Footscray, Victoria", "West Footscray, Victoria, Australia"], "rdf": "West Footscray", "chosen": "West Footscray"}]}
+{"index": [4943], "sub_label": "Woensdrecht Air Base", "obj_uri": ["Q192508"], "obj_label": [{"alternative": [], "rdf": "Bergen op Zoom", "chosen": "Bergen op Zoom"}]}
+{"index": [4726], "sub_label": "Hrodna Airport", "obj_uri": ["Q181376"], "obj_label": [{"alternative": ["Hrodna", "Grodne", "Gardinas", "Garten", "Hurodno", "Horodne"], "rdf": "Grodno", "chosen": "Grodno"}]}
+{"index": [3311], "sub_label": "Tinak Airport", "obj_uri": ["Q694057"], "obj_label": [{"alternative": ["Arno", "Arno Atoll, Marshall Islands"], "rdf": "Arno Atoll", "chosen": "Arno Atoll"}]}
+{"index": [2928], "sub_label": "DeKalb-Peachtree Airport", "obj_uri": ["Q23556"], "obj_label": [{"alternative": ["Terminus", "Atlanta, Georgia", "The Big Peach", "Hotlanta", "The ATL", "The A", "Atlanta, GA"], "rdf": "Atlanta", "chosen": "Atlanta"}]}
+{"index": [3396], "sub_label": "Valley International Airport", "obj_uri": ["Q868869"], "obj_label": [{"alternative": ["Harlingen, Texas"], "rdf": "Harlingen", "chosen": "Harlingen"}]}
+{"index": [1371], "sub_label": "Flying Dollar Airport", "obj_uri": ["Q5029625"], "obj_label": [{"alternative": ["Canadensis, Pennsylvania"], "rdf": "Canadensis", "chosen": "Canadensis"}]}
+{"index": [6316], "sub_label": "Belaya Gora Airport", "obj_uri": ["Q2602383"], "obj_label": [{"alternative": [], "rdf": "Belaja Gora", "chosen": "Belaja Gora"}]}
+{"index": [6392], "sub_label": "RNAS Yeovilton", "obj_uri": ["Q550110"], "obj_label": [{"alternative": ["Yeovil, Somerset"], "rdf": "Yeovil", "chosen": "Yeovil"}]}
+{"index": [4792], "sub_label": "Valence-Chabeuil Airport", "obj_uri": ["Q8848"], "obj_label": [{"alternative": [], "rdf": "Valence", "chosen": "Valence"}]}
+{"index": [4683], "sub_label": "Capit\u00e1n Vicente Almandos Almonacid Airport", "obj_uri": ["Q44236"], "obj_label": [{"alternative": ["La Rioja, Argentina", "Ciudad de La Rioja"], "rdf": "La Rioja", "chosen": "La Rioja"}]}
+{"index": [4961], "sub_label": "O'Hare International Airport", "obj_uri": ["Q1754965"], "obj_label": [{"alternative": ["Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area", "Chicago\u2013Naperville, IL\u2013IN\u2013WI Combined Statistical Area", "Greater Chicago", "Chicagoland"], "rdf": "Chicago metropolitan area", "chosen": "Chicago metropolitan area"}]}
+{"index": [4950], "sub_label": "Bellavista Airport (Peru)", "obj_uri": ["Q27094722"], "obj_label": [{"alternative": [], "rdf": "Jeberos", "chosen": "Jeberos"}]}
+{"index": [5460], "sub_label": "Royal Park", "obj_uri": ["Q3427921"], "obj_label": [{"alternative": ["Parkville, Victoria", "Parkville, Victoria, Australia"], "rdf": "Parkville", "chosen": "Parkville"}]}
+{"index": [809], "sub_label": "Muqur airport", "obj_uri": ["Q15260273"], "obj_label": [{"alternative": [], "rdf": "Muqur, Ghazni", "chosen": "Muqur, Ghazni"}]}
+{"index": [4966], "sub_label": "Persan-Beaumont Airport", "obj_uri": ["Q923191"], "obj_label": [{"alternative": [], "rdf": "Persan", "chosen": "Persan"}]}
+{"index": [7627], "sub_label": "Parsabad-Moghan Airport", "obj_uri": ["Q720064"], "obj_label": [{"alternative": ["Farsabad", "Parsabad-Moghan", "Pars Abad"], "rdf": "Parsabad", "chosen": "Parsabad"}]}
+{"index": [1134], "sub_label": "Wheeler Airport", "obj_uri": ["Q2198053"], "obj_label": [{"alternative": ["Knox, Indiana"], "rdf": "Knox", "chosen": "Knox"}]}
+{"index": [5974], "sub_label": "Seppe Airport", "obj_uri": ["Q2183962"], "obj_label": [{"alternative": [], "rdf": "Hoeven", "chosen": "Hoeven"}]}
+{"index": [1789], "sub_label": "Fisantekraal Airfield", "obj_uri": ["Q3041548"], "obj_label": [{"alternative": [], "rdf": "Durbanville", "chosen": "Durbanville"}]}
+{"index": [826], "sub_label": "Hofkirchen Airport", "obj_uri": ["Q339705"], "obj_label": [{"alternative": [], "rdf": "Hofkirchen im Traunkreis", "chosen": "Hofkirchen im Traunkreis"}]}
+{"index": [4254], "sub_label": "K\u00e9bir Airport", "obj_uri": ["Q2416510"], "obj_label": [{"alternative": ["Ounianga Kebir"], "rdf": "Ounianga K\u00e9bir", "chosen": "Ounianga K\u00e9bir"}]}

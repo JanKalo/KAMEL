@@ -1,0 +1,200 @@
+{"index": [16249], "sub_label": "North Kosovo", "obj_uri": ["Q178168"], "obj_label": [{"alternative": [], "rdf": "Mitrovica", "chosen": "Mitrovica"}]}
+{"index": [12543], "sub_label": "Kingdom of Slavonia", "obj_uri": ["Q1640"], "obj_label": [{"alternative": [], "rdf": "Osijek", "chosen": "Osijek"}]}
+{"index": [4121], "sub_label": "Intibuc\u00e1 Department", "obj_uri": ["Q2561304"], "obj_label": [{"alternative": [], "rdf": "La Esperanza", "chosen": "La Esperanza"}]}
+{"index": [7447], "sub_label": "Polesie Voivodeship", "obj_uri": ["Q140147"], "obj_label": [{"alternative": ["Brest-on-the-Bug", "Brest-Litovsk", "Brisk", "Biera\u015bcie"], "rdf": "Brest", "chosen": "Brest"}]}
+{"index": [14123], "sub_label": "Val-du-Layon", "obj_uri": ["Q1385428"], "obj_label": [{"alternative": [], "rdf": "Saint-Lambert-du-Lattay", "chosen": "Saint-Lambert-du-Lattay"}]}
+{"index": [17229], "sub_label": "Inzhavinsky District", "obj_uri": ["Q3801025"], "obj_label": [{"alternative": [], "rdf": "Inzhavino", "chosen": "Inzhavino"}]}
+{"index": [17270], "sub_label": "Savannah Region", "obj_uri": ["Q1158732"], "obj_label": [{"alternative": [], "rdf": "Damongo", "chosen": "Damongo"}]}
+{"index": [8915], "sub_label": "Klepp", "obj_uri": ["Q1769308"], "obj_label": [{"alternative": [], "rdf": "Kleppe", "chosen": "Kleppe"}]}
+{"index": [10926], "sub_label": "Pedro G\u00e1lvez District", "obj_uri": ["Q3348299"], "obj_label": [{"alternative": [], "rdf": "San Marcos", "chosen": "San Marcos"}]}
+{"index": [6704], "sub_label": "Kagalnitsky District", "obj_uri": ["Q3391409"], "obj_label": [{"alternative": [], "rdf": "Kagalnitskaya", "chosen": "Kagalnitskaya"}]}
+{"index": [1032], "sub_label": "Shu Han", "obj_uri": ["Q30002"], "obj_label": [{"alternative": ["Chengtu", "Chengdou"], "rdf": "Chengdu", "chosen": "Chengdu"}]}
+{"index": [10122], "sub_label": "Alger Department", "obj_uri": ["Q3561"], "obj_label": [{"alternative": ["\u0644\u062c\u0632\u0627\u0626\u0631", "\u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54", "Alger"], "rdf": "Algiers", "chosen": "Algiers"}]}
+{"index": [11192], "sub_label": "Kirovsky District, Republic of North Ossetia\u2013Alania", "obj_uri": ["Q119559"], "obj_label": [{"alternative": [], "rdf": "Elchotovo", "chosen": "Elchotovo"}]}
+{"index": [7973], "sub_label": "Ca\u00f1ar Province", "obj_uri": ["Q786758"], "obj_label": [{"alternative": ["San Francisco de Peleus\u00ed de Azogues"], "rdf": "Azogues", "chosen": "Azogues"}]}
+{"index": [3935], "sub_label": "Republic of Hungary", "obj_uri": ["Q1781"], "obj_label": [{"alternative": ["Buda Pest", "Buda-Pest", "Budape\u0161\u0165", "Budapesta", "Budapeszt", "Buda", "Ofen", "Bud\u00edn", "Budim", "Budon", "Pest", "Pe\u0161\u0165", "Pe\u0161ta", "\u00d3buda", "Alt-Ofen", "K\u0151b\u00e1nya"], "rdf": "Budapest", "chosen": "Budapest"}]}
+{"index": [6405], "sub_label": "Muranga County", "obj_uri": ["Q974323"], "obj_label": [{"alternative": ["Muranga"], "rdf": "Murang'a", "chosen": "Murang'a"}]}
+{"index": [786], "sub_label": "Suffolk", "obj_uri": ["Q184775"], "obj_label": [{"alternative": ["Ipswich (parish)"], "rdf": "Ipswich", "chosen": "Ipswich"}]}
+{"index": [1310], "sub_label": "Saint Kitts and Nevis", "obj_uri": ["Q41295"], "obj_label": [{"alternative": [], "rdf": "Basseterre", "chosen": "Basseterre"}]}
+{"index": [7831], "sub_label": "North Uist", "obj_uri": ["Q1738877"], "obj_label": [{"alternative": [], "rdf": "Lochmaddy", "chosen": "Lochmaddy"}]}
+{"index": [5799], "sub_label": "Idukki district", "obj_uri": ["Q1025278"], "obj_label": [{"alternative": [], "rdf": "Painavu", "chosen": "Painavu"}]}
+{"index": [1773], "sub_label": "Sakha Republic", "obj_uri": ["Q6610"], "obj_label": [{"alternative": ["Ykt"], "rdf": "Yakutsk", "chosen": "Yakutsk"}]}
+{"index": [1910], "sub_label": "John Taolo Gaetsewe District Municipality", "obj_uri": ["Q1025965"], "obj_label": [{"alternative": [], "rdf": "Kuruman", "chosen": "Kuruman"}]}
+{"index": [14022, 14023, 19542], "sub_label": "Zirid dynasty", "obj_uri": ["Q179570", "Q466054", "Q2401317"], "obj_label": [{"alternative": ["Kirwan", "Al-Qayrawan", "Kairwan"], "rdf": "Kairouan", "chosen": "Kairouan"}, {"alternative": [], "rdf": "Mahdia", "chosen": "Mahdia"}, {"alternative": [], "rdf": "Achir", "chosen": "Achir"}]}
+{"index": [15879], "sub_label": "Douglas County", "obj_uri": ["Q680911"], "obj_label": [{"alternative": ["Minden, Nevada"], "rdf": "Minden", "chosen": "Minden"}]}
+{"index": [14846], "sub_label": "Panfilov District", "obj_uri": ["Q2231416"], "obj_label": [{"alternative": [], "rdf": "Zharkent", "chosen": "Zharkent"}]}
+{"index": [12688], "sub_label": "Kizhinginsky District", "obj_uri": ["Q4220289"], "obj_label": [{"alternative": ["Khejenge"], "rdf": "Kizhinga", "chosen": "Kizhinga"}]}
+{"index": [13180], "sub_label": "Laconia", "obj_uri": ["Q2308046"], "obj_label": [{"alternative": ["Sparta"], "rdf": "Sparti", "chosen": "Sparti"}]}
+{"index": [8498], "sub_label": "Jarar Zone", "obj_uri": ["Q1182807"], "obj_label": [{"alternative": [], "rdf": "Degehabur", "chosen": "Degehabur"}]}
+{"index": [16261], "sub_label": "Francisco Linares Alc\u00e1ntara", "obj_uri": ["Q1027004"], "obj_label": [{"alternative": ["Santa Rita, Venezuela"], "rdf": "Santa Rita", "chosen": "Santa Rita"}]}
+{"index": [2969], "sub_label": "Knyagininsky Uyezd", "obj_uri": ["Q153734"], "obj_label": [{"alternative": [], "rdf": "Knyaginino", "chosen": "Knyaginino"}]}
+{"index": [8221], "sub_label": "Crow Wing County", "obj_uri": ["Q897435"], "obj_label": [{"alternative": ["Brainerd, Minnesota"], "rdf": "Brainerd", "chosen": "Brainerd"}]}
+{"index": [9689], "sub_label": "Assa-Zag Province", "obj_uri": ["Q685870"], "obj_label": [{"alternative": [], "rdf": "Assa, Morocco", "chosen": "Assa, Morocco"}]}
+{"index": [1173], "sub_label": "Barima-Waini", "obj_uri": ["Q597458"], "obj_label": [{"alternative": [], "rdf": "Mabaruma", "chosen": "Mabaruma"}]}
+{"index": [4080, 5860], "sub_label": "Kingdom of Laos", "obj_uri": ["Q190165", "Q9326"], "obj_label": [{"alternative": ["Louangphabang", "Louangphrabang"], "rdf": "Luang Prabang", "chosen": "Luang Prabang"}, {"alternative": ["Bientani", "Viangchan", "Vientane", "Wei-t'ien", "Vie\u1e45 \u010can", "Vie\u1e45g-\u010c\u0103n", "W\u012bang\u010dhan", "Viang chan", "Vyentyan", "Wiangcan", "Vienchan", "Viengchan", "Nakhon Viangchan", "Vien Chang", "Vieng-C\u00e6n"], "rdf": "Vientiane", "chosen": "Vientiane"}]}
+{"index": [5345], "sub_label": "Alpine County", "obj_uri": ["Q1019532"], "obj_label": [{"alternative": ["Markleeville, California"], "rdf": "Markleeville", "chosen": "Markleeville"}]}
+{"index": [5042], "sub_label": "Mongala District", "obj_uri": ["Q371532"], "obj_label": [{"alternative": [], "rdf": "Lisala", "chosen": "Lisala"}]}
+{"index": [8602], "sub_label": "Trigg County", "obj_uri": ["Q2438851"], "obj_label": [{"alternative": ["Cadiz, Kentucky"], "rdf": "Cadiz", "chosen": "Cadiz"}]}
+{"index": [9644], "sub_label": "Tandridge", "obj_uri": ["Q2189348"], "obj_label": [{"alternative": ["Oxted, Surrey"], "rdf": "Oxted", "chosen": "Oxted"}]}
+{"index": [5770], "sub_label": "Garfield County", "obj_uri": ["Q984361"], "obj_label": [{"alternative": ["Enid, Oklahoma"], "rdf": "Enid", "chosen": "Enid"}]}
+{"index": [11861], "sub_label": "Scotts Bluff County", "obj_uri": ["Q967351"], "obj_label": [{"alternative": ["Gering, Nebraska"], "rdf": "Gering", "chosen": "Gering"}]}
+{"index": [2479], "sub_label": "Duchy of Prussia", "obj_uri": ["Q4120832"], "obj_label": [{"alternative": ["K\u00f6nigsberg i. Pr.", "Konigsberg", "K\u00f6nigsberg in Preu\u00dfen"], "rdf": "K\u00f6nigsberg", "chosen": "K\u00f6nigsberg"}]}
+{"index": [14105], "sub_label": "SAO Bosanska Krajina", "obj_uri": ["Q131127"], "obj_label": [{"alternative": ["Banjaluka"], "rdf": "Banja Luka", "chosen": "Banja Luka"}]}
+{"index": [4308], "sub_label": "Pr\u00e4ttigau/Davos District", "obj_uri": ["Q68097"], "obj_label": [{"alternative": ["Davos GR"], "rdf": "Davos", "chosen": "Davos"}]}
+{"index": [7399], "sub_label": "Uintah County", "obj_uri": ["Q482828"], "obj_label": [{"alternative": ["Vernal, Utah"], "rdf": "Vernal", "chosen": "Vernal"}]}
+{"index": [3878], "sub_label": "Zmeinogorsky District", "obj_uri": ["Q141260"], "obj_label": [{"alternative": [], "rdf": "Zmeinogorsk", "chosen": "Zmeinogorsk"}]}
+{"index": [2173], "sub_label": "Bol\u00edvar Department", "obj_uri": ["Q657461"], "obj_label": [{"alternative": ["Cartagena of the Indies"], "rdf": "Cartagena", "chosen": "Cartagena"}]}
+{"index": [14115], "sub_label": "Lafayette", "obj_uri": ["Q337417"], "obj_label": [{"alternative": ["The Heart of Acadiana", "L'Acadiane"], "rdf": "Acadiana", "chosen": "Acadiana"}]}
+{"index": [16375], "sub_label": "Isatay District", "obj_uri": ["Q3312325"], "obj_label": [{"alternative": [], "rdf": "Akkystau", "chosen": "Akkystau"}]}
+{"index": [7024], "sub_label": "ZF Mgcawu District Municipality", "obj_uri": ["Q575780"], "obj_label": [{"alternative": [], "rdf": "Upington", "chosen": "Upington"}]}
+{"index": [17142], "sub_label": "Yermishinsky District", "obj_uri": ["Q4176556"], "obj_label": [{"alternative": [], "rdf": "Yermish", "chosen": "Yermish"}]}
+{"index": [17968], "sub_label": "Commune of the Working People of Estonia", "obj_uri": ["Q102158"], "obj_label": [{"alternative": [], "rdf": "Narva", "chosen": "Narva"}]}
+{"index": [494], "sub_label": "Port Phillip District", "obj_uri": ["Q3141"], "obj_label": [{"alternative": ["Melbourne, Victoria", "Melbourne, Australia", "Greater Melbourne"], "rdf": "Melbourne", "chosen": "Melbourne"}]}
+{"index": [5185], "sub_label": "Frankfurt Government Region", "obj_uri": ["Q4024"], "obj_label": [{"alternative": ["Frankfurt an der Oder", "Frankfurt", "Frankfurt/Oder", "Frankfurt on the Oder", "Franckf. an der Oder", "Franckforth", "Frankfurt, Brandenburg", "Frankfurt a. d. Oder"], "rdf": "Frankfurt (Oder)", "chosen": "Frankfurt (Oder)"}]}
+{"index": [5646], "sub_label": "Nduga", "obj_uri": ["Q11293777"], "obj_label": [{"alternative": [], "rdf": "Kenyam", "chosen": "Kenyam"}]}
+{"index": [6675, 7978], "sub_label": "Clay County", "obj_uri": ["Q79478", "Q80077"], "obj_label": [{"alternative": ["Corning, Arkansas"], "rdf": "Corning", "chosen": "Corning"}, {"alternative": ["Piggott, Arkansas"], "rdf": "Piggott", "chosen": "Piggott"}]}
+{"index": [10808], "sub_label": "Later Shu", "obj_uri": ["Q30002"], "obj_label": [{"alternative": ["Chengtu", "Chengdou"], "rdf": "Chengdu", "chosen": "Chengdu"}]}
+{"index": [10680], "sub_label": "\u00c5rdal", "obj_uri": ["Q2311858"], "obj_label": [{"alternative": [], "rdf": "\u00c5rdalstangen", "chosen": "\u00c5rdalstangen"}]}
+{"index": [3649], "sub_label": "Ni\u0161ava District", "obj_uri": ["Q129259"], "obj_label": [{"alternative": ["Nis", "Naissus"], "rdf": "Ni\u0161", "chosen": "Ni\u0161"}]}
+{"index": [6000], "sub_label": "Nueva Vizcaya", "obj_uri": ["Q51480"], "obj_label": [{"alternative": [], "rdf": "Bayombong", "chosen": "Bayombong"}]}
+{"index": [4851, 11182, 13708, 13709], "sub_label": "Serbian Vojvodina", "obj_uri": ["Q271922", "Q189419", "Q201125", "Q83404"], "obj_label": [{"alternative": [], "rdf": "Sremski Karlovci", "chosen": "Sremski Karlovci"}, {"alternative": [], "rdf": "Zemun", "chosen": "Zemun"}, {"alternative": ["Be\u010dkerek"], "rdf": "Zrenjanin", "chosen": "Zrenjanin"}, {"alternative": ["Timi\u015foara", "Timisoara", "Temesv\u00e1r", "Temeswar", "Temesvar"], "rdf": "Timi\u0219oara", "chosen": "Timi\u0219oara"}]}
+{"index": [9514], "sub_label": "Bell County", "obj_uri": ["Q744550"], "obj_label": [{"alternative": ["Belton, Texas"], "rdf": "Belton", "chosen": "Belton"}]}
+{"index": [13323], "sub_label": "Trier-Saarburg", "obj_uri": ["Q3138"], "obj_label": [{"alternative": ["Treveris", "Augusta Treverorum"], "rdf": "Trier", "chosen": "Trier"}]}
+{"index": [18979], "sub_label": "Brze\u015b\u0107 District", "obj_uri": ["Q140147"], "obj_label": [{"alternative": ["Brest-on-the-Bug", "Brest-Litovsk", "Brisk", "Biera\u015bcie"], "rdf": "Brest", "chosen": "Brest"}]}
+{"index": [57], "sub_label": "Nova Scotia", "obj_uri": ["Q2141"], "obj_label": [{"alternative": ["HRM", "Halifax, Nova Scotia", "Halifax Regional Municipality"], "rdf": "Halifax", "chosen": "Halifax"}]}
+{"index": [4876], "sub_label": "Czech Silesia", "obj_uri": ["Q156080"], "obj_label": [{"alternative": [], "rdf": "Opava", "chosen": "Opava"}]}
+{"index": [1337], "sub_label": "Babylonia", "obj_uri": ["Q5684"], "obj_label": [{"alternative": [], "rdf": "Babylon", "chosen": "Babylon"}]}
+{"index": [2602], "sub_label": "Kadamba Dynasty", "obj_uri": ["Q2427885"], "obj_label": [{"alternative": [], "rdf": "Banavasi", "chosen": "Banavasi"}]}
+{"index": [13472], "sub_label": "General S\u00e1nchez Cerro Province", "obj_uri": ["Q3322634"], "obj_label": [{"alternative": [], "rdf": "Omate", "chosen": "Omate"}]}
+{"index": [15294], "sub_label": "D\u00f8nna", "obj_uri": ["Q3489376"], "obj_label": [{"alternative": ["Solfjellsjyen"], "rdf": "Solfjellsj\u00f8en", "chosen": "Solfjellsj\u00f8en"}]}
+{"index": [8060], "sub_label": "Commonwealth of Independent States", "obj_uri": ["Q2280"], "obj_label": [{"alternative": ["\u041c\u0456\u043d\u0441\u043a", "\u041c\u0435\u043d\u0441\u043a", "\u041c\u0438\u043d\u0441\u043a", "Mi\u0144sk", "Minskas", "Mensk", "Miensk"], "rdf": "Minsk", "chosen": "Minsk"}]}
+{"index": [11187], "sub_label": "Skiptvet", "obj_uri": ["Q6809994"], "obj_label": [{"alternative": ["Skiptvet"], "rdf": "Meieribyen", "chosen": "Meieribyen"}]}
+{"index": [15686], "sub_label": "Promyshlennovsky District", "obj_uri": ["Q773103"], "obj_label": [{"alternative": [], "rdf": "Promyshlennaya", "chosen": "Promyshlennaya"}]}
+{"index": [11427], "sub_label": "Gmina Wierzchlas", "obj_uri": ["Q985709"], "obj_label": [{"alternative": [], "rdf": "Wierzchlas, \u0141\u00f3d\u017a Voivodeship", "chosen": "Wierzchlas, \u0141\u00f3d\u017a Voivodeship"}]}
+{"index": [6724], "sub_label": "Krishna district", "obj_uri": ["Q845662"], "obj_label": [{"alternative": ["Masulipatnam", "Bandar", "Masulipathnam", "Masulipatam"], "rdf": "Machilipatnam", "chosen": "Machilipatnam"}]}
+{"index": [970], "sub_label": "Elba", "obj_uri": ["Q157856"], "obj_label": [{"alternative": [], "rdf": "Portoferraio", "chosen": "Portoferraio"}]}
+{"index": [12976], "sub_label": "Sysolsky District", "obj_uri": ["Q660786"], "obj_label": [{"alternative": ["Vizin"], "rdf": "Vizinga", "chosen": "Vizinga"}]}
+{"index": [15267], "sub_label": "Bavanat County", "obj_uri": ["Q888754"], "obj_label": [{"alternative": ["Bavanat"], "rdf": "Surian", "chosen": "Surian"}]}
+{"index": [9559], "sub_label": "Palestinian National Authority", "obj_uri": ["Q158119"], "obj_label": [{"alternative": [], "rdf": "Ramallah", "chosen": "Ramallah"}]}
+{"index": [17771], "sub_label": "Mittelsachsen", "obj_uri": ["Q14819"], "obj_label": [{"alternative": ["Freiberg/Sachsen"], "rdf": "Freiberg", "chosen": "Freiberg"}]}
+{"index": [12634], "sub_label": "Lagansky District", "obj_uri": ["Q156614"], "obj_label": [{"alternative": [], "rdf": "Lagan", "chosen": "Lagan"}]}
+{"index": [7976], "sub_label": "Rezatkreis", "obj_uri": ["Q14859"], "obj_label": [{"alternative": [], "rdf": "Ansbach", "chosen": "Ansbach"}]}
+{"index": [1904], "sub_label": "Washington County", "obj_uri": ["Q514160"], "obj_label": [{"alternative": ["Weiser, Idaho"], "rdf": "Weiser", "chosen": "Weiser"}]}
+{"index": [19187], "sub_label": "Ilyinsky District, Ivanovo Oblast", "obj_uri": ["Q3792530"], "obj_label": [{"alternative": [], "rdf": "Ilyinskoe-Khovanskoe", "chosen": "Ilyinskoe-Khovanskoe"}]}
+{"index": [2114], "sub_label": "Shakhovskoy District", "obj_uri": ["Q2037942"], "obj_label": [{"alternative": ["Shakhovskaya"], "rdf": "Shakhovskaya, Moscow Oblast", "chosen": "Shakhovskaya, Moscow Oblast"}]}
+{"index": [17263], "sub_label": "Suvorovsky District", "obj_uri": ["Q196501"], "obj_label": [{"alternative": [], "rdf": "Suvorov", "chosen": "Suvorov"}]}
+{"index": [15020], "sub_label": "Hardy County", "obj_uri": ["Q2786065"], "obj_label": [{"alternative": ["Moorefield, West Virginia"], "rdf": "Moorefield", "chosen": "Moorefield"}]}
+{"index": [9015], "sub_label": "Sawyer County", "obj_uri": ["Q289042"], "obj_label": [{"alternative": ["City of Hayward", "Hayward, Wisconsin"], "rdf": "Hayward", "chosen": "Hayward"}]}
+{"index": [18105], "sub_label": "Shelby County", "obj_uri": ["Q79539"], "obj_label": [{"alternative": ["Columbiana, Alabama"], "rdf": "Columbiana", "chosen": "Columbiana"}]}
+{"index": [17102], "sub_label": "Wabash County", "obj_uri": ["Q575526"], "obj_label": [{"alternative": ["Mt. Carmel", "Mount Carmel, Illinois"], "rdf": "Mount Carmel", "chosen": "Mount Carmel"}]}
+{"index": [9543], "sub_label": "Prignitz District", "obj_uri": ["Q498540"], "obj_label": [{"alternative": [], "rdf": "Perleberg", "chosen": "Perleberg"}]}
+{"index": [738], "sub_label": "Samoa", "obj_uri": ["Q36260"], "obj_label": [{"alternative": [], "rdf": "Apia", "chosen": "Apia"}]}
+{"index": [7690], "sub_label": "Charlotte County", "obj_uri": ["Q1376592"], "obj_label": [{"alternative": ["Charlotte Court House, Virginia"], "rdf": "Charlotte Court House", "chosen": "Charlotte Court House"}]}
+{"index": [3417], "sub_label": "South Jeolla", "obj_uri": ["Q50241"], "obj_label": [{"alternative": [], "rdf": "Muan County", "chosen": "Muan County"}]}
+{"index": [696], "sub_label": "Scotland", "obj_uri": ["Q23436"], "obj_label": [{"alternative": ["Edinburg", "Edinburgh, Scotland", "City of Edinburgh", "Edina", "Modern Athens"], "rdf": "Edinburgh", "chosen": "Edinburgh"}]}
+{"index": [13908], "sub_label": "Gmina Z\u0119bowice", "obj_uri": ["Q189284"], "obj_label": [{"alternative": [], "rdf": "Z\u0119bowice, Opole Voivodeship", "chosen": "Z\u0119bowice, Opole Voivodeship"}]}
+{"index": [11146], "sub_label": "Lez\u00edria do Tejo Subregion", "obj_uri": ["Q273877"], "obj_label": [{"alternative": ["Santarem", "Santar\u00e9m Municipality"], "rdf": "Santar\u00e9m", "chosen": "Santar\u00e9m"}]}
+{"index": [7368], "sub_label": "Puducherry", "obj_uri": ["Q639421"], "obj_label": [{"alternative": ["Puducherry"], "rdf": "Pondicherry", "chosen": "Pondicherry"}]}
+{"index": [9613], "sub_label": "canton of Cholet-1", "obj_uri": ["Q185066"], "obj_label": [{"alternative": [], "rdf": "Cholet", "chosen": "Cholet"}]}
+{"index": [14466], "sub_label": "Jackson County", "obj_uri": ["Q2532316"], "obj_label": [{"alternative": ["Ripley, West Virginia"], "rdf": "Ripley", "chosen": "Ripley"}]}
+{"index": [3815], "sub_label": "Lower Austria", "obj_uri": ["Q82500"], "obj_label": [{"alternative": ["Sankt P\u00f6lten"], "rdf": "St. P\u00f6lten", "chosen": "St. P\u00f6lten"}]}
+{"index": [609], "sub_label": "Shanxi", "obj_uri": ["Q72778"], "obj_label": [{"alternative": ["B\u012bng", "J\u00ecny\u00e1ng"], "rdf": "Taiyuan", "chosen": "Taiyuan"}]}
+{"index": [1002, 7103], "sub_label": "Timurid Empire", "obj_uri": ["Q5753", "Q45313"], "obj_label": [{"alternative": ["Samarqand", "Samarcand"], "rdf": "Samarkand", "chosen": "Samarkand"}, {"alternative": [], "rdf": "Herat", "chosen": "Herat"}]}
+{"index": [883], "sub_label": "Brunei-Muara District", "obj_uri": ["Q9279"], "obj_label": [{"alternative": ["Bandar", "BSB", "Seri Begawan", "Brunei Town", "Bandar Brunei"], "rdf": "Bandar Seri Begawan", "chosen": "Bandar Seri Begawan"}]}
+{"index": [3249], "sub_label": "Dr\u00f4me", "obj_uri": ["Q8848"], "obj_label": [{"alternative": [], "rdf": "Valence", "chosen": "Valence"}]}
+{"index": [7372], "sub_label": "canton of Rennes-Centre-Sud", "obj_uri": ["Q647"], "obj_label": [{"alternative": [], "rdf": "Rennes", "chosen": "Rennes"}]}
+{"index": [13504], "sub_label": "Gmina Gzy", "obj_uri": ["Q2479132"], "obj_label": [{"alternative": [], "rdf": "Gzy, Masovian Voivodeship", "chosen": "Gzy, Masovian Voivodeship"}]}
+{"index": [17977], "sub_label": "Krolevetsky Uyezd", "obj_uri": ["Q2235501"], "obj_label": [{"alternative": [], "rdf": "Krolevets", "chosen": "Krolevets"}]}
+{"index": [5647], "sub_label": "Itum-Kalinsky District", "obj_uri": ["Q2429233"], "obj_label": [{"alternative": [], "rdf": "Itum-Kale", "chosen": "Itum-Kale"}]}
+{"index": [8239], "sub_label": "Omsukchansky District", "obj_uri": ["Q985293"], "obj_label": [{"alternative": [], "rdf": "Omsukchan", "chosen": "Omsukchan"}]}
+{"index": [6301], "sub_label": "La Bruy\u00e8re", "obj_uri": ["Q3429515"], "obj_label": [{"alternative": [], "rdf": "Rhisnes", "chosen": "Rhisnes"}]}
+{"index": [8695], "sub_label": "Derbyshire Dales", "obj_uri": ["Q1337703"], "obj_label": [{"alternative": [], "rdf": "Matlock", "chosen": "Matlock"}]}
+{"index": [9915], "sub_label": "Republic of Baja California", "obj_uri": ["Q214215"], "obj_label": [{"alternative": [], "rdf": "La Paz", "chosen": "La Paz"}]}
+{"index": [13482], "sub_label": "Gmina Ple\u015bna", "obj_uri": ["Q7204926"], "obj_label": [{"alternative": [], "rdf": "Ple\u015bna, Lesser Poland Voivodeship", "chosen": "Ple\u015bna, Lesser Poland Voivodeship"}]}
+{"index": [3693], "sub_label": "Ibaraki Prefecture", "obj_uri": ["Q204249"], "obj_label": [{"alternative": [], "rdf": "Mito", "chosen": "Mito"}]}
+{"index": [6611], "sub_label": "Lucas County", "obj_uri": ["Q988728"], "obj_label": [{"alternative": ["Chariton, Iowa"], "rdf": "Chariton", "chosen": "Chariton"}]}
+{"index": [8296], "sub_label": "Longshan culture", "obj_uri": ["Q1070056"], "obj_label": [{"alternative": [], "rdf": "Chengziya", "chosen": "Chengziya"}]}
+{"index": [11837], "sub_label": "Darvoz District", "obj_uri": ["Q2995628"], "obj_label": [{"alternative": [], "rdf": "Qal'ai Khumb", "chosen": "Qal'ai Khumb"}]}
+{"index": [13991], "sub_label": "Privolzhsky District", "obj_uri": ["Q183208"], "obj_label": [{"alternative": [], "rdf": "Privolzhsk", "chosen": "Privolzhsk"}]}
+{"index": [15113], "sub_label": "Shiselweni District", "obj_uri": ["Q2029702"], "obj_label": [{"alternative": [], "rdf": "Nhlangano", "chosen": "Nhlangano"}]}
+{"index": [18616], "sub_label": "Monroe County", "obj_uri": ["Q1185729"], "obj_label": [{"alternative": ["Stroudsburg, Pennsylvania"], "rdf": "Stroudsburg", "chosen": "Stroudsburg"}]}
+{"index": [11063], "sub_label": "Guanacaste Province", "obj_uri": ["Q1387526"], "obj_label": [{"alternative": ["Liberia, Costa Rica", "Liberia de Liberia"], "rdf": "Liberia", "chosen": "Liberia"}]}
+{"index": [5885], "sub_label": "Voss", "obj_uri": ["Q2715598"], "obj_label": [{"alternative": [], "rdf": "Vossevangen", "chosen": "Vossevangen"}]}
+{"index": [16994], "sub_label": "Andropovsky District", "obj_uri": ["Q3334753"], "obj_label": [{"alternative": [], "rdf": "Kursavka", "chosen": "Kursavka"}]}
+{"index": [15505], "sub_label": "Carter County", "obj_uri": ["Q961306"], "obj_label": [{"alternative": ["Ekalaka, Montana", "Puptown"], "rdf": "Ekalaka", "chosen": "Ekalaka"}]}
+{"index": [4146], "sub_label": "Franklin County", "obj_uri": ["Q1373443"], "obj_label": [{"alternative": [], "rdf": "Rocky Mount", "chosen": "Rocky Mount"}]}
+{"index": [4631], "sub_label": "Hualien County", "obj_uri": ["Q713310"], "obj_label": [{"alternative": [], "rdf": "Hualien City", "chosen": "Hualien City"}]}
+{"index": [2046], "sub_label": "Analamanga", "obj_uri": ["Q3915"], "obj_label": [{"alternative": ["Tananarive", "Iarivo", "Analamanga"], "rdf": "Antananarivo", "chosen": "Antananarivo"}]}
+{"index": [4763], "sub_label": "Seine-et-Marne", "obj_uri": ["Q41139"], "obj_label": [{"alternative": [], "rdf": "Melun", "chosen": "Melun"}]}
+{"index": [11745], "sub_label": "Gmina Koz\u0142\u00f3w", "obj_uri": ["Q2847280"], "obj_label": [{"alternative": [], "rdf": "Koz\u0142\u00f3w, Miech\u00f3w County", "chosen": "Koz\u0142\u00f3w, Miech\u00f3w County"}]}
+{"index": [7055], "sub_label": "Idaho Territory", "obj_uri": ["Q505539"], "obj_label": [{"alternative": ["Lewiston, Idaho", "Lewiston, ID"], "rdf": "Lewiston", "chosen": "Lewiston"}]}
+{"index": [3741], "sub_label": "Asunci\u00f3n Province", "obj_uri": ["Q2423013"], "obj_label": [{"alternative": [], "rdf": "Chacas", "chosen": "Chacas"}]}
+{"index": [8030], "sub_label": "Tanum Municipality", "obj_uri": ["Q670220"], "obj_label": [{"alternative": [], "rdf": "Tanumshede", "chosen": "Tanumshede"}]}
+{"index": [3025], "sub_label": "Krasnoslobodsky Uyezd", "obj_uri": ["Q155745"], "obj_label": [{"alternative": [], "rdf": "Krasnoslobodsk", "chosen": "Krasnoslobodsk"}]}
+{"index": [10552], "sub_label": "uMngeni Local Municipality", "obj_uri": ["Q1503458"], "obj_label": [{"alternative": ["Howick, KwaZulu-Natal"], "rdf": "Howick", "chosen": "Howick"}]}
+{"index": [15241], "sub_label": "Neftekumsky District", "obj_uri": ["Q172608"], "obj_label": [{"alternative": [], "rdf": "Neftekumsk", "chosen": "Neftekumsk"}]}
+{"index": [115], "sub_label": "McCurtain County", "obj_uri": ["Q2106941"], "obj_label": [{"alternative": ["Idabel, Oklahoma"], "rdf": "Idabel", "chosen": "Idabel"}]}
+{"index": [17299], "sub_label": "Muromtsevsky District", "obj_uri": ["Q1953795"], "obj_label": [{"alternative": [], "rdf": "Muromtsevo", "chosen": "Muromtsevo"}]}
+{"index": [108], "sub_label": "Belarus", "obj_uri": ["Q2280"], "obj_label": [{"alternative": ["\u041c\u0456\u043d\u0441\u043a", "\u041c\u0435\u043d\u0441\u043a", "\u041c\u0438\u043d\u0441\u043a", "Mi\u0144sk", "Minskas", "Mensk", "Miensk"], "rdf": "Minsk", "chosen": "Minsk"}]}
+{"index": [16602], "sub_label": "Santa Rosa District", "obj_uri": ["Q21077097"], "obj_label": [{"alternative": ["Mazo Cruz"], "rdf": "Mazocruz", "chosen": "Mazocruz"}]}
+{"index": [6450], "sub_label": "Torkaman County", "obj_uri": ["Q643394"], "obj_label": [{"alternative": [], "rdf": "Bandar Torkaman", "chosen": "Bandar Torkaman"}]}
+{"index": [19461], "sub_label": "Catalan State (1873)", "obj_uri": ["Q1492"], "obj_label": [{"alternative": ["BCN", "B'na", "Barcelona, Spain"], "rdf": "Barcelona", "chosen": "Barcelona"}]}
+{"index": [9051], "sub_label": "Klein-Venedig", "obj_uri": ["Q1134454"], "obj_label": [{"alternative": ["Santa Ana de Coro"], "rdf": "Coro", "chosen": "Coro"}]}
+{"index": [14707], "sub_label": "S\u00f8r-Aurdal", "obj_uri": ["Q50644"], "obj_label": [{"alternative": [], "rdf": "Bagn", "chosen": "Bagn"}]}
+{"index": [1882], "sub_label": "West Flanders", "obj_uri": ["Q12994"], "obj_label": [{"alternative": ["Brugge"], "rdf": "Bruges", "chosen": "Bruges"}]}
+{"index": [12389], "sub_label": "El Dorado Province", "obj_uri": ["Q11034041"], "obj_label": [{"alternative": [], "rdf": "San Jos\u00e9 de Sisa", "chosen": "San Jos\u00e9 de Sisa"}]}
+{"index": [14134], "sub_label": "Tolna County", "obj_uri": ["Q189761"], "obj_label": [{"alternative": ["Szekszard"], "rdf": "Szeksz\u00e1rd", "chosen": "Szeksz\u00e1rd"}]}
+{"index": [9821], "sub_label": "G\u00eanes", "obj_uri": ["Q1449"], "obj_label": [{"alternative": ["Genoa, Italy", "Genova, Italy", "Genova"], "rdf": "Genoa", "chosen": "Genoa"}]}
+{"index": [13763], "sub_label": "Centrocaspian Dictatorship", "obj_uri": ["Q9248"], "obj_label": [{"alternative": ["City of Winds"], "rdf": "Baku", "chosen": "Baku"}]}
+{"index": [12047], "sub_label": "Kamaraj Rural District", "obj_uri": ["Q5786777"], "obj_label": [{"alternative": [], "rdf": "Nuhi", "chosen": "Nuhi"}]}
+{"index": [12207], "sub_label": "Free People's State of W\u00fcrttemberg", "obj_uri": ["Q1022"], "obj_label": [{"alternative": [], "rdf": "Stuttgart", "chosen": "Stuttgart"}]}
+{"index": [19491], "sub_label": "Tahirid dynasty", "obj_uri": ["Q193325"], "obj_label": [{"alternative": [], "rdf": "Merv", "chosen": "Merv"}]}
+{"index": [5504], "sub_label": "Grand Duchy of Posen", "obj_uri": ["Q268"], "obj_label": [{"alternative": ["Poznan", "Posen"], "rdf": "Pozna\u0144", "chosen": "Pozna\u0144"}]}
+{"index": [633], "sub_label": "Piedmont", "obj_uri": ["Q495"], "obj_label": [{"alternative": ["Torino", "Turin, Italy"], "rdf": "Turin", "chosen": "Turin"}]}
+{"index": [9680], "sub_label": "Kingsbury County", "obj_uri": ["Q2625666"], "obj_label": [{"alternative": ["De Smet, South Dakota"], "rdf": "De Smet", "chosen": "De Smet"}]}
+{"index": [7448], "sub_label": "Hohenzollern-Sigmaringen", "obj_uri": ["Q82858"], "obj_label": [{"alternative": [], "rdf": "Sigmaringen", "chosen": "Sigmaringen"}]}
+{"index": [6825], "sub_label": "Kalaburgi district", "obj_uri": ["Q37112"], "obj_label": [{"alternative": ["Kalaburagi"], "rdf": "Gulbarga", "chosen": "Gulbarga"}]}
+{"index": [8005], "sub_label": "Ulster", "obj_uri": ["Q10686"], "obj_label": [{"alternative": ["B\u00e9al Feirste", "Beal Feirste", "Belfast, Ireland"], "rdf": "Belfast", "chosen": "Belfast"}]}
+{"index": [11206], "sub_label": "Bolshesoldatsky District", "obj_uri": ["Q4092444"], "obj_label": [{"alternative": [], "rdf": "Bolshoye Soldatskoye", "chosen": "Bolshoye Soldatskoye"}]}
+{"index": [2729], "sub_label": "Panam\u00e1 District", "obj_uri": ["Q3306"], "obj_label": [{"alternative": ["Panam\u00e1", "Panama", "Ciudad de Panam\u00e1", "Ciudad de Panama"], "rdf": "Panama City", "chosen": "Panama City"}]}
+{"index": [2798], "sub_label": "Kasimovsky District", "obj_uri": ["Q145457"], "obj_label": [{"alternative": [], "rdf": "Kasimov", "chosen": "Kasimov"}]}
+{"index": [12011], "sub_label": "Ben S'Rour District", "obj_uri": ["Q2895563"], "obj_label": [{"alternative": [], "rdf": "Ben Srour", "chosen": "Ben Srour"}]}
+{"index": [2428], "sub_label": "Anhalt-Dessau", "obj_uri": ["Q487070"], "obj_label": [{"alternative": [], "rdf": "Dessau", "chosen": "Dessau"}]}
+{"index": [17318], "sub_label": "Ileksky District", "obj_uri": ["Q4199219"], "obj_label": [{"alternative": [], "rdf": "Ilek, Orenburg Oblast", "chosen": "Ilek, Orenburg Oblast"}]}
+{"index": [11564], "sub_label": "Roberts County", "obj_uri": ["Q1026188"], "obj_label": [{"alternative": ["Sisseton, South Dakota"], "rdf": "Sisseton", "chosen": "Sisseton"}]}
+{"index": [16431, 16487], "sub_label": "Kingdom of the Burgundians", "obj_uri": ["Q456", "Q3852"], "obj_label": [{"alternative": ["Lyons", "Commune-Affranchie", "Lyon, Rh\u00f4ne"], "rdf": "Lyon", "chosen": "Lyon"}, {"alternative": ["Worms, Germany"], "rdf": "Worms", "chosen": "Worms"}]}
+{"index": [14839], "sub_label": "Adama Zuria", "obj_uri": ["Q3567274"], "obj_label": [{"alternative": [], "rdf": "Wenji Gefersa", "chosen": "Wenji Gefersa"}]}
+{"index": [8416], "sub_label": "Kiowa County", "obj_uri": ["Q2275127"], "obj_label": [{"alternative": ["Eads, USA", "Eads, Colorado"], "rdf": "Eads", "chosen": "Eads"}]}
+{"index": [4359], "sub_label": "Dhanusha District", "obj_uri": ["Q378649"], "obj_label": [{"alternative": ["Janakpurdham, Province No. 2, Nepal", "Janakpur", "Janak Pur", "Janakpur Dham", "Janakpurdham Upmahanagarpalika", "Janakpur Upmahanagarpalika"], "rdf": "Janakpurdham", "chosen": "Janakpurdham"}]}
+{"index": [2564], "sub_label": "Isto\u010dno Novo Sarajevo", "obj_uri": ["Q3181078"], "obj_label": [{"alternative": [], "rdf": "Lukavica", "chosen": "Lukavica"}]}
+{"index": [19098], "sub_label": "Vall\u00e9e-du-Ntem", "obj_uri": ["Q2841553"], "obj_label": [{"alternative": [], "rdf": "Ambam", "chosen": "Ambam"}]}
+{"index": [1387], "sub_label": "North East Lincolnshire", "obj_uri": ["Q179406"], "obj_label": [{"alternative": ["Great Grimsby"], "rdf": "Grimsby", "chosen": "Grimsby"}]}
+{"index": [17754], "sub_label": "Calhoun County", "obj_uri": ["Q982477"], "obj_label": [{"alternative": ["Port Lavaca, Texas"], "rdf": "Port Lavaca", "chosen": "Port Lavaca"}]}
+{"index": [18270], "sub_label": "Baix Empord\u00e0", "obj_uri": ["Q13460"], "obj_label": [{"alternative": [], "rdf": "La Bisbal d'Empord\u00e0", "chosen": "La Bisbal d'Empord\u00e0"}]}
+{"index": [13343], "sub_label": "Tropoj\u00eb District", "obj_uri": ["Q18705"], "obj_label": [{"alternative": ["Bajram Curri (Albania)"], "rdf": "Bajram Curri", "chosen": "Bajram Curri"}]}
+{"index": [15470], "sub_label": "Irbeysky District", "obj_uri": ["Q13640146"], "obj_label": [{"alternative": [], "rdf": "Irbeyskoye", "chosen": "Irbeyskoye"}]}
+{"index": [10751], "sub_label": "Untsukulsky District", "obj_uri": ["Q2043683"], "obj_label": [{"alternative": ["Untsukul'"], "rdf": "Untsukul", "chosen": "Untsukul"}]}
+{"index": [15812], "sub_label": "Sergachsky District", "obj_uri": ["Q194030"], "obj_label": [{"alternative": [], "rdf": "Sergach", "chosen": "Sergach"}]}
+{"index": [2919], "sub_label": "Taitung County", "obj_uri": ["Q713381"], "obj_label": [{"alternative": [], "rdf": "Taitung City", "chosen": "Taitung City"}]}
+{"index": [1891], "sub_label": "Zala County", "obj_uri": ["Q60037"], "obj_label": [{"alternative": [], "rdf": "Zalaegerszeg", "chosen": "Zalaegerszeg"}]}
+{"index": [13799, 13800], "sub_label": "Isaac Region", "obj_uri": ["Q1100620", "Q4302346"], "obj_label": [{"alternative": ["Clermont, Queensland", "Clermont, Queensland, Australia"], "rdf": "Clermont", "chosen": "Clermont"}, {"alternative": ["Moranbah, Queensland", "Moranbah, Queensland, Australia"], "rdf": "Moranbah", "chosen": "Moranbah"}]}
+{"index": [6913], "sub_label": "Nawa Region", "obj_uri": ["Q1587131"], "obj_label": [{"alternative": ["Soubre"], "rdf": "Soubr\u00e9", "chosen": "Soubr\u00e9"}]}
+{"index": [10487], "sub_label": "Woodbury County", "obj_uri": ["Q489255"], "obj_label": [{"alternative": ["Sioux City, Iowa"], "rdf": "Sioux City", "chosen": "Sioux City"}]}
+{"index": [6489], "sub_label": "Qu'aiti Sultanate", "obj_uri": ["Q310772"], "obj_label": [{"alternative": ["Al Mukalla"], "rdf": "Mukalla", "chosen": "Mukalla"}]}
+{"index": [11906], "sub_label": "Adair County", "obj_uri": ["Q1911143"], "obj_label": [{"alternative": ["Greenfield, Iowa"], "rdf": "Greenfield", "chosen": "Greenfield"}]}
+{"index": [4775], "sub_label": "Columbia County", "obj_uri": ["Q1133544"], "obj_label": [{"alternative": ["The Only Town in Pennsylvania", "Eyersburg"], "rdf": "Bloomsburg", "chosen": "Bloomsburg"}]}
+{"index": [10760], "sub_label": "Khafr County", "obj_uri": ["Q4811070"], "obj_label": [{"alternative": [], "rdf": "Bab Anar", "chosen": "Bab Anar"}]}
+{"index": [64], "sub_label": "Calderdale", "obj_uri": ["Q826561"], "obj_label": [{"alternative": [], "rdf": "Halifax", "chosen": "Halifax"}]}
+{"index": [13282], "sub_label": "Ombella-M'Poko Prefecture", "obj_uri": ["Q863461"], "obj_label": [{"alternative": [], "rdf": "Bimbo", "chosen": "Bimbo"}]}
+{"index": [1999], "sub_label": "Varnavinskij County", "obj_uri": ["Q3739708"], "obj_label": [{"alternative": [], "rdf": "Varnavino", "chosen": "Varnavino"}]}
+{"index": [2963], "sub_label": "Yaransky Uyezd", "obj_uri": ["Q198977"], "obj_label": [{"alternative": ["Yaransk (Russia)"], "rdf": "Yaransk", "chosen": "Yaransk"}]}
+{"index": [3782], "sub_label": "London Borough of Waltham Forest", "obj_uri": ["Q2321784"], "obj_label": [{"alternative": ["Wilcumestowe"], "rdf": "Walthamstow", "chosen": "Walthamstow"}]}
+{"index": [2997], "sub_label": "Yekatrinburg uezd", "obj_uri": ["Q887"], "obj_label": [{"alternative": ["Sverdlovsk", "Ekaterinburg"], "rdf": "Yekaterinburg", "chosen": "Yekaterinburg"}]}
+{"index": [5773], "sub_label": "Enga Province", "obj_uri": ["Q2482803"], "obj_label": [{"alternative": [], "rdf": "Wabag", "chosen": "Wabag"}]}
+{"index": [8206], "sub_label": "Kohgiluyeh and Boyer-Ahmad Province", "obj_uri": ["Q383129"], "obj_label": [{"alternative": ["Yasouj"], "rdf": "Yasuj", "chosen": "Yasuj"}]}
+{"index": [10053], "sub_label": "Akhtubinsky District", "obj_uri": ["Q104201"], "obj_label": [{"alternative": ["Vladimirovka"], "rdf": "Akhtubinsk", "chosen": "Akhtubinsk"}]}
+{"index": [18750], "sub_label": "Akshinsky District", "obj_uri": ["Q2378119"], "obj_label": [{"alternative": [], "rdf": "Aksha", "chosen": "Aksha"}]}
+{"index": [16603], "sub_label": "Vilna Governorate-General", "obj_uri": ["Q216"], "obj_label": [{"alternative": ["Vilna", "Wilno", "Vilne", "Wilna", "Vi\u013c\u0146a", "Vilnia", "Vilno", "Vilnyus"], "rdf": "Vilnius", "chosen": "Vilnius"}]}
+{"index": [4764], "sub_label": "Lewis County", "obj_uri": ["Q2366795"], "obj_label": [{"alternative": ["Vanceburg, Kentucky"], "rdf": "Vanceburg", "chosen": "Vanceburg"}]}
+{"index": [658], "sub_label": "Minnehaha County", "obj_uri": ["Q131335"], "obj_label": [{"alternative": ["Sioux Falls, South Dakota", "SFSD", "Sioux Falls, SD", "Sioux Falls, S.D."], "rdf": "Sioux Falls", "chosen": "Sioux Falls"}]}
+{"index": [13445], "sub_label": "Gmina Z\u0142ota", "obj_uri": ["Q2048781"], "obj_label": [{"alternative": [], "rdf": "Z\u0142ota, Pi\u0144cz\u00f3w County", "chosen": "Z\u0142ota, Pi\u0144cz\u00f3w County"}]}

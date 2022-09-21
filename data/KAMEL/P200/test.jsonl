@@ -1,0 +1,200 @@
+{"index": [1708], "sub_label": "Lake Siskiyou", "obj_uri": ["Q335575"], "obj_label": [{"alternative": [], "rdf": "Sacramento River", "chosen": "Sacramento River"}]}
+{"index": [1504], "sub_label": "Lake Santeetlah", "obj_uri": ["Q5091574"], "obj_label": [{"alternative": [], "rdf": "Cheoah River", "chosen": "Cheoah River"}]}
+{"index": [983], "sub_label": "Fontana Lake", "obj_uri": ["Q1137567"], "obj_label": [{"alternative": [], "rdf": "Little Tennessee River", "chosen": "Little Tennessee River"}]}
+{"index": [189, 441, 452, 747], "sub_label": "Hinlopenstretet", "obj_uri": ["Q3441731", "Q7908726", "Q2280627", "Q3441965"], "obj_label": [{"alternative": [], "rdf": "Lomfjorden", "chosen": "Lomfjorden"}, {"alternative": [], "rdf": "Vaigattbogen", "chosen": "Vaigattbogen"}, {"alternative": ["Waalenburg Bay"], "rdf": "Wahlenbergfjorden", "chosen": "Wahlenbergfjorden"}, {"alternative": [], "rdf": "Murchisonfjorden", "chosen": "Murchisonfjorden"}]}
+{"index": [530], "sub_label": "Flathead Lake", "obj_uri": ["Q268532"], "obj_label": [{"alternative": ["Flathead Creek", "Flathead River North Fork", "North Fork Flathead", "North Fork of Flathead River", "North Fork of the Flathead River"], "rdf": "Flathead River", "chosen": "Flathead River"}]}
+{"index": [548, 549], "sub_label": "Lake Zway", "obj_uri": ["Q4783858", "Q4783815"], "obj_label": [{"alternative": [], "rdf": "Meki River", "chosen": "Meki River"}, {"alternative": [], "rdf": "Katar River", "chosen": "Katar River"}]}
+{"index": [1487], "sub_label": "Laguna de F\u00faquene", "obj_uri": ["Q7876430"], "obj_label": [{"alternative": ["Ubate River"], "rdf": "Ubat\u00e9 River", "chosen": "Ubat\u00e9 River"}]}
+{"index": [1540], "sub_label": "Navajo Lake", "obj_uri": ["Q1542874"], "obj_label": [{"alternative": [], "rdf": "San Juan River", "chosen": "San Juan River"}]}
+{"index": [1001, 1768, 1964, 2242], "sub_label": "Vistula Lagoon", "obj_uri": ["Q661087", "Q6977719", "Q5611", "Q501450"], "obj_label": [{"alternative": [], "rdf": "Elbl\u0105g", "chosen": "Elbl\u0105g"}, {"alternative": [], "rdf": "Szkarpawa", "chosen": "Szkarpawa"}, {"alternative": ["River Pregolya", "Pregolya River", "Pregel", "River Pregel", "Pregel River"], "rdf": "Pregolya", "chosen": "Pregolya"}, {"alternative": ["Prokhladnaya"], "rdf": "\u015awie\u017ca", "chosen": "\u015awie\u017ca"}]}
+{"index": [1650], "sub_label": "Remi Lake", "obj_uri": ["Q22437052"], "obj_label": [{"alternative": [], "rdf": "Kitigan River", "chosen": "Kitigan River"}]}
+{"index": [146], "sub_label": "Khar-Us Lake", "obj_uri": ["Q2426540"], "obj_label": [{"alternative": [], "rdf": "Khovd River", "chosen": "Khovd River"}]}
+{"index": [910], "sub_label": "Selbusj\u00f8", "obj_uri": ["Q1860746"], "obj_label": [{"alternative": ["Ganka", "Nean"], "rdf": "Nea", "chosen": "Nea"}]}
+{"index": [965], "sub_label": "Lac au Go\u00e9land", "obj_uri": ["Q1376034"], "obj_label": [{"alternative": ["Rivi\u00e8re Waswanipi", "Riviere Waswanipi"], "rdf": "Waswanipi River", "chosen": "Waswanipi River"}]}
+{"index": [518], "sub_label": "Harrison Lake", "obj_uri": ["Q268952"], "obj_label": [{"alternative": [], "rdf": "Lillooet River", "chosen": "Lillooet River"}]}
+{"index": [1486], "sub_label": "Brno Reservoir", "obj_uri": ["Q45254"], "obj_label": [{"alternative": [], "rdf": "Svratka", "chosen": "Svratka"}]}
+{"index": [1804], "sub_label": "Vygozero", "obj_uri": ["Q1506596"], "obj_label": [{"alternative": ["Vyg River"], "rdf": "Vyg", "chosen": "Vyg"}]}
+{"index": [688], "sub_label": "Esnagi Lake", "obj_uri": ["Q1884687"], "obj_label": [{"alternative": [], "rdf": "Magpie River", "chosen": "Magpie River"}]}
+{"index": [1044], "sub_label": "Hayward Lake", "obj_uri": ["Q7604798"], "obj_label": [{"alternative": [], "rdf": "Stave River", "chosen": "Stave River"}]}
+{"index": [1451], "sub_label": "Lake Innisfree", "obj_uri": ["Q12060632"], "obj_label": [{"alternative": [], "rdf": "Hutchinson River", "chosen": "Hutchinson River"}]}
+{"index": [627, 728], "sub_label": "Flagstaff Lake", "obj_uri": ["Q7566367", "Q7054245"], "obj_label": [{"alternative": [], "rdf": "South Branch Dead River", "chosen": "South Branch Dead River"}, {"alternative": [], "rdf": "North Branch Dead River", "chosen": "North Branch Dead River"}]}
+{"index": [1149], "sub_label": "Morrow Point Reservoir", "obj_uri": ["Q558645"], "obj_label": [{"alternative": [], "rdf": "Gunnison River", "chosen": "Gunnison River"}]}
+{"index": [22], "sub_label": "Lake George", "obj_uri": ["Q1677915"], "obj_label": [{"alternative": [], "rdf": "St. Johns River", "chosen": "St. Johns River"}]}
+{"index": [925], "sub_label": "Dnieper-Bug Estuary", "obj_uri": ["Q40855"], "obj_label": [{"alternative": ["Dnipro", "Dnieper", "Dnipro River"], "rdf": "Dnieper River", "chosen": "Dnieper River"}]}
+{"index": [485, 631, 1267, 1915, 1990], "sub_label": "Kati Thanda\u2013Lake Eyre", "obj_uri": ["Q432278", "Q1509393", "Q956882", "Q1208608", "Q21911442"], "obj_label": [{"alternative": [], "rdf": "Cooper Creek", "chosen": "Cooper Creek"}, {"alternative": [], "rdf": "Georgina River", "chosen": "Georgina River"}, {"alternative": ["Warburton Creek"], "rdf": "Warburton River", "chosen": "Warburton River"}, {"alternative": [], "rdf": "Diamantina River", "chosen": "Diamantina River"}, {"alternative": [], "rdf": "Frome River", "chosen": "Frome River"}]}
+{"index": [1901], "sub_label": "Lake Merwin", "obj_uri": ["Q829832"], "obj_label": [{"alternative": [], "rdf": "Lewis River", "chosen": "Lewis River"}]}
+{"index": [1923], "sub_label": "R\u00e9servoir Kiamika", "obj_uri": ["Q15867665"], "obj_label": [{"alternative": [], "rdf": "Kiamika river", "chosen": "Kiamika river"}]}
+{"index": [2146], "sub_label": "Winthrop Rockefeller Lake", "obj_uri": ["Q8319"], "obj_label": [{"alternative": [], "rdf": "Arkansas River", "chosen": "Arkansas River"}]}
+{"index": [1970], "sub_label": "Zaovine Lake", "obj_uri": ["Q2060975"], "obj_label": [{"alternative": [], "rdf": "Rzav", "chosen": "Rzav"}]}
+{"index": [1880], "sub_label": "Attabad Lake", "obj_uri": ["Q1362563"], "obj_label": [{"alternative": [], "rdf": "Hunza River", "chosen": "Hunza River"}]}
+{"index": [1998], "sub_label": "Arlington Mill Reservoir", "obj_uri": ["Q7576951"], "obj_label": [{"alternative": [], "rdf": "Spicket River", "chosen": "Spicket River"}]}
+{"index": [1602], "sub_label": "Du M\u00e2le Lake", "obj_uri": ["Q22420283"], "obj_label": [{"alternative": [], "rdf": "Flapjack River", "chosen": "Flapjack River"}]}
+{"index": [2124], "sub_label": "Muskegon Lake", "obj_uri": ["Q6942769"], "obj_label": [{"alternative": [], "rdf": "Muskegon River", "chosen": "Muskegon River"}]}
+{"index": [1197], "sub_label": "Lake of the Poet", "obj_uri": ["Q2155719"], "obj_label": [{"alternative": [], "rdf": "M\u00e9giscane River", "chosen": "M\u00e9giscane River"}]}
+{"index": [1298], "sub_label": "Nottawasaga Bay", "obj_uri": ["Q7063551"], "obj_label": [{"alternative": [], "rdf": "Nottawasaga River", "chosen": "Nottawasaga River"}]}
+{"index": [909], "sub_label": "Pine Flat Lake", "obj_uri": ["Q1264687"], "obj_label": [{"alternative": ["El Rio De Los Reyes", "El Rio De Los Santos Reyes", "King River", "King's River", "Lake Fork", "Rio De Reyes", "Rio Reyes", "Rio de los Santos Reyes", "River of the Lake", "South Fork", "South Fork Kings River", "Wilmilche", "Wim-mel-che", "Wimmilche River", "Winmiche River"], "rdf": "Kings River", "chosen": "Kings River"}]}
+{"index": [1967], "sub_label": "IJmeer", "obj_uri": ["Q338137"], "obj_label": [{"alternative": ["Y", "Het IJ", "Ye"], "rdf": "IJ", "chosen": "IJ"}]}
+{"index": [1926], "sub_label": "Lake Nagambie", "obj_uri": ["Q609096"], "obj_label": [{"alternative": [], "rdf": "Goulburn River", "chosen": "Goulburn River"}]}
+{"index": [377], "sub_label": "Zeuthener See", "obj_uri": ["Q161455"], "obj_label": [{"alternative": ["Dahme (river)"], "rdf": "Dahme", "chosen": "Dahme"}]}
+{"index": [2171], "sub_label": "Kakat Lake", "obj_uri": ["Q17109944"], "obj_label": [{"alternative": [], "rdf": "Mistik Creek", "chosen": "Mistik Creek"}]}
+{"index": [1067], "sub_label": "Lake Diefenbaker", "obj_uri": ["Q2242"], "obj_label": [{"alternative": [], "rdf": "South Saskatchewan River", "chosen": "South Saskatchewan River"}]}
+{"index": [846], "sub_label": "\u0160t\u011bchovice Reservoir", "obj_uri": ["Q131574"], "obj_label": [{"alternative": ["Moldau"], "rdf": "Vltava", "chosen": "Vltava"}]}
+{"index": [760], "sub_label": "Lac Chensagi", "obj_uri": ["Q22411042"], "obj_label": [{"alternative": [], "rdf": "Chensagi River", "chosen": "Chensagi River"}]}
+{"index": [566], "sub_label": "Katepwa Lake", "obj_uri": ["Q391566"], "obj_label": [{"alternative": [], "rdf": "Qu'Appelle River", "chosen": "Qu'Appelle River"}]}
+{"index": [2319], "sub_label": "Knee Lake", "obj_uri": ["Q72673"], "obj_label": [{"alternative": [], "rdf": "Hayes River", "chosen": "Hayes River"}]}
+{"index": [414], "sub_label": "Lake Abashiri", "obj_uri": ["Q3650456"], "obj_label": [{"alternative": [], "rdf": "Abashiri River", "chosen": "Abashiri River"}]}
+{"index": [475, 672], "sub_label": "Argentino Lake", "obj_uri": ["Q367943", "Q6463365"], "obj_label": [{"alternative": ["Glaciar Perito Moreno"], "rdf": "Perito Moreno Glacier", "chosen": "Perito Moreno Glacier"}, {"alternative": [], "rdf": "La Leona River", "chosen": "La Leona River"}]}
+{"index": [1586], "sub_label": "Nicholls Lake", "obj_uri": ["Q7996230"], "obj_label": [{"alternative": [], "rdf": "Whitesand River", "chosen": "Whitesand River"}]}
+{"index": [999], "sub_label": "Dow's Lake", "obj_uri": ["Q651323"], "obj_label": [{"alternative": [], "rdf": "Rideau Canal", "chosen": "Rideau Canal"}]}
+{"index": [721, 2282], "sub_label": "Chilliwack Lake", "obj_uri": ["Q13429283", "Q5260795"], "obj_label": [{"alternative": ["Chilliwack River"], "rdf": "Vedder River", "chosen": "Vedder River"}, {"alternative": [], "rdf": "Depot Creek", "chosen": "Depot Creek"}]}
+{"index": [1094], "sub_label": "Lake Atsion", "obj_uri": ["Q6934231"], "obj_label": [{"alternative": [], "rdf": "Mullica River", "chosen": "Mullica River"}]}
+{"index": [753], "sub_label": "Lac \u00e0 l'\u00c9paule", "obj_uri": ["Q83199672"], "obj_label": [{"alternative": [], "rdf": "Rivi\u00e8re \u00e0 l'\u00c9paule", "chosen": "Rivi\u00e8re \u00e0 l'\u00c9paule"}]}
+{"index": [1570], "sub_label": "Brandy Pond", "obj_uri": ["Q5118371"], "obj_label": [{"alternative": [], "rdf": "Chute River", "chosen": "Chute River"}]}
+{"index": [1888], "sub_label": "Port San Juan", "obj_uri": ["Q279846"], "obj_label": [{"alternative": [], "rdf": "San Juan River", "chosen": "San Juan River"}]}
+{"index": [1369], "sub_label": "Serpentine", "obj_uri": ["Q1760573"], "obj_label": [{"alternative": ["River Westbourne"], "rdf": "Westbourne", "chosen": "Westbourne"}]}
+{"index": [493], "sub_label": "Jyrh\u00e4m\u00e4j\u00e4rvi", "obj_uri": ["Q1091838"], "obj_label": [{"alternative": ["Vuosnayoki"], "rdf": "Vuosnajoki", "chosen": "Vuosnajoki"}]}
+{"index": [1588], "sub_label": "Cheddar Reservoir", "obj_uri": ["Q12054675"], "obj_label": [{"alternative": [], "rdf": "Cheddar Yeo", "chosen": "Cheddar Yeo"}]}
+{"index": [1798], "sub_label": "Tomasee", "obj_uri": ["Q500935"], "obj_label": [{"alternative": [], "rdf": "Rein da Tuma", "chosen": "Rein da Tuma"}]}
+{"index": [25, 26, 1496, 1497], "sub_label": "Williston Lake", "obj_uri": ["Q280696", "Q2220", "Q270894", "Q15115530"], "obj_label": [{"alternative": [], "rdf": "Finlay River", "chosen": "Finlay River"}, {"alternative": [], "rdf": "Peace River", "chosen": "Peace River"}, {"alternative": [], "rdf": "Omineca River", "chosen": "Omineca River"}, {"alternative": [], "rdf": "Ingenika River", "chosen": "Ingenika River"}]}
+{"index": [628], "sub_label": "Sebkha el Melah", "obj_uri": ["Q3358050"], "obj_label": [{"alternative": ["Wadi Saoura", "Saoura River"], "rdf": "Oued Saoura", "chosen": "Oued Saoura"}]}
+{"index": [2332], "sub_label": "Losna", "obj_uri": ["Q927499"], "obj_label": [{"alternative": [], "rdf": "Gudbrandsdalsl\u00e5gen", "chosen": "Gudbrandsdalsl\u00e5gen"}]}
+{"index": [1098], "sub_label": "Angove Lake", "obj_uri": ["Q4763885"], "obj_label": [{"alternative": [], "rdf": "Angove River", "chosen": "Angove River"}]}
+{"index": [1076], "sub_label": "Lake Red Rock", "obj_uri": ["Q492787"], "obj_label": [{"alternative": [], "rdf": "Des Moines River", "chosen": "Des Moines River"}]}
+{"index": [1531], "sub_label": "Umbagog Lake", "obj_uri": ["Q6729644"], "obj_label": [{"alternative": [], "rdf": "Magalloway River", "chosen": "Magalloway River"}]}
+{"index": [920], "sub_label": "Brokopondo Reservoir", "obj_uri": ["Q635545"], "obj_label": [{"alternative": [], "rdf": "Suriname River", "chosen": "Suriname River"}]}
+{"index": [99], "sub_label": "Lake Murten", "obj_uri": ["Q870065"], "obj_label": [{"alternative": [], "rdf": "Broye", "chosen": "Broye"}]}
+{"index": [1618, 1659], "sub_label": "Lake Baringo", "obj_uri": ["Q4785207", "Q4785203"], "obj_label": [{"alternative": [], "rdf": "Perkerra River", "chosen": "Perkerra River"}, {"alternative": [], "rdf": "Ol Arabel", "chosen": "Ol Arabel"}]}
+{"index": [923], "sub_label": "Zavoj Lake", "obj_uri": ["Q2670544"], "obj_label": [{"alternative": [], "rdf": "Tem\u0161tica", "chosen": "Tem\u0161tica"}]}
+{"index": [1118], "sub_label": "Lake Schwielowsee", "obj_uri": ["Q1682"], "obj_label": [{"alternative": [], "rdf": "Havel", "chosen": "Havel"}]}
+{"index": [1965], "sub_label": "Lake Ka\u0146ieris", "obj_uri": ["Q7541246"], "obj_label": [{"alternative": [], "rdf": "Slocene", "chosen": "Slocene"}]}
+{"index": [880], "sub_label": "Aursund", "obj_uri": ["Q214535"], "obj_label": [{"alternative": ["Gl\u00e5ma", "Glommen", "Stor-Elv"], "rdf": "Glomma", "chosen": "Glomma"}]}
+{"index": [2090], "sub_label": "Lake Conroe", "obj_uri": ["Q1186581"], "obj_label": [{"alternative": [], "rdf": "San Jacinto River", "chosen": "San Jacinto River"}]}
+{"index": [1627], "sub_label": "Sarsfield Lake", "obj_uri": ["Q7424600"], "obj_label": [{"alternative": [], "rdf": "Sarsfield Creek", "chosen": "Sarsfield Creek"}]}
+{"index": [268], "sub_label": "Elephant Butte Reservoir", "obj_uri": ["Q160636"], "obj_label": [{"alternative": ["R\u00edo Bravo del Norte", "R\u00edo Bravo", "Rio Bravo del Norte", "Rio Bravo", "R\u00edo Grande", "Rio Grande River"], "rdf": "Rio Grande", "chosen": "Rio Grande"}]}
+{"index": [2323], "sub_label": "Jiangkou Reservoir", "obj_uri": ["Q5509700"], "obj_label": [{"alternative": ["Furong Jiang"], "rdf": "Furong River", "chosen": "Furong River"}]}
+{"index": [152], "sub_label": "Lake of the cross", "obj_uri": ["Q2155664"], "obj_label": [{"alternative": [], "rdf": "Batiscan River", "chosen": "Batiscan River"}]}
+{"index": [1237], "sub_label": "H\u00fcbnerbreen", "obj_uri": ["Q4568000"], "obj_label": [{"alternative": [], "rdf": "Barentsj\u00f8kulen", "chosen": "Barentsj\u00f8kulen"}]}
+{"index": [1834], "sub_label": "Bautzen Reservoir", "obj_uri": ["Q1684"], "obj_label": [{"alternative": [], "rdf": "Spree", "chosen": "Spree"}]}
+{"index": [2055], "sub_label": "Schwedtsee", "obj_uri": ["Q1682"], "obj_label": [{"alternative": [], "rdf": "Havel", "chosen": "Havel"}]}
+{"index": [2127], "sub_label": "Stillhouse Hollow Lake", "obj_uri": ["Q6482389"], "obj_label": [{"alternative": [], "rdf": "Lampasas River", "chosen": "Lampasas River"}]}
+{"index": [469], "sub_label": "Lac Nicabau", "obj_uri": ["Q22432306"], "obj_label": [{"alternative": [], "rdf": "Normandin river", "chosen": "Normandin river"}]}
+{"index": [71], "sub_label": "Trinity Lake", "obj_uri": ["Q499797"], "obj_label": [{"alternative": [], "rdf": "Trinity River", "chosen": "Trinity River"}]}
+{"index": [2093], "sub_label": "Hector Lake", "obj_uri": ["Q895385"], "obj_label": [{"alternative": ["Bow"], "rdf": "Bow River", "chosen": "Bow River"}]}
+{"index": [1000], "sub_label": "Truman Reservoir", "obj_uri": ["Q1619907"], "obj_label": [{"alternative": [], "rdf": "Osage River", "chosen": "Osage River"}]}
+{"index": [912], "sub_label": "Satpara Lake", "obj_uri": ["Q7426444"], "obj_label": [{"alternative": ["Satpura Cho", "Sadpara Stream", "Satpara River", "Sadpara River"], "rdf": "Satpara Stream", "chosen": "Satpara Stream"}]}
+{"index": [693], "sub_label": "Kamaniskeg Lake", "obj_uri": ["Q1594722"], "obj_label": [{"alternative": [], "rdf": "Madawaska River", "chosen": "Madawaska River"}]}
+{"index": [2191], "sub_label": "McIndoes Reservoir", "obj_uri": ["Q379648"], "obj_label": [{"alternative": [], "rdf": "Connecticut River", "chosen": "Connecticut River"}]}
+{"index": [1078], "sub_label": "Lake Crabtree", "obj_uri": ["Q5180286"], "obj_label": [{"alternative": [], "rdf": "Crabtree Creek", "chosen": "Crabtree Creek"}]}
+{"index": [495], "sub_label": "Lake Umatilla", "obj_uri": ["Q2251"], "obj_label": [{"alternative": [], "rdf": "Columbia River", "chosen": "Columbia River"}]}
+{"index": [375], "sub_label": "Menindee Lakes", "obj_uri": ["Q181482"], "obj_label": [{"alternative": [], "rdf": "Darling River", "chosen": "Darling River"}]}
+{"index": [1714], "sub_label": "\u015awidwie", "obj_uri": ["Q1546726"], "obj_label": [{"alternative": [], "rdf": "Gunica", "chosen": "Gunica"}]}
+{"index": [102, 103], "sub_label": "Lake Biel", "obj_uri": ["Q1675", "Q385243"], "obj_label": [{"alternative": ["Aar"], "rdf": "Aare", "chosen": "Aare"}, {"alternative": [], "rdf": "Suze", "chosen": "Suze"}]}
+{"index": [1189], "sub_label": "Nisqually Reach", "obj_uri": ["Q829444"], "obj_label": [{"alternative": ["Nisqually"], "rdf": "Nisqually River", "chosen": "Nisqually River"}]}
+{"index": [977, 978], "sub_label": "Masurian Canal", "obj_uri": ["Q5620", "Q1330800"], "obj_label": [{"alternative": ["\u0141yna River", "Lava"], "rdf": "\u0141yna", "chosen": "\u0141yna"}, {"alternative": [], "rdf": "Lake Mamry", "chosen": "Lake Mamry"}]}
+{"index": [1503], "sub_label": "Lake Awoonga", "obj_uri": ["Q18208207"], "obj_label": [{"alternative": [], "rdf": "Boyne River", "chosen": "Boyne River"}]}
+{"index": [1110], "sub_label": "Lewis Lake", "obj_uri": ["Q4271220"], "obj_label": [{"alternative": [], "rdf": "Lewis River", "chosen": "Lewis River"}]}
+{"index": [795, 1374, 1630, 1973], "sub_label": "Lake Urmia", "obj_uri": ["Q5872598", "Q7516332", "Q3773325", "Q5826282"], "obj_label": [{"alternative": ["Tatahu River", "Tatavi River"], "rdf": "Simineh River", "chosen": "Simineh River"}, {"alternative": ["Zarrin\u00e9-R\u016bd"], "rdf": "Zarrineh River", "chosen": "Zarrineh River"}, {"alternative": ["Talkheh Rud", "Aji Chay"], "rdf": "Talkheh River", "chosen": "Talkheh River"}, {"alternative": ["R\u016bdkh\u0101neh-ye Fa\u015fl\u012b-ye Z\u016bl\u0101 Ch\u0101y"], "rdf": "Zola River", "chosen": "Zola River"}]}
+{"index": [1682], "sub_label": "Tomwool Lake", "obj_uri": ["Q22514634"], "obj_label": [{"alternative": [], "rdf": "Tomwool Creek", "chosen": "Tomwool Creek"}]}
+{"index": [1969], "sub_label": "Lake Aldwell", "obj_uri": ["Q1334367"], "obj_label": [{"alternative": [], "rdf": "Elwha River", "chosen": "Elwha River"}]}
+{"index": [1099], "sub_label": "Chester Morse Lake", "obj_uri": ["Q1052529"], "obj_label": [{"alternative": [], "rdf": "Cedar River", "chosen": "Cedar River"}]}
+{"index": [2097], "sub_label": "Bear Lake", "obj_uri": ["Q813008"], "obj_label": [{"alternative": ["Miller River"], "rdf": "Bear River", "chosen": "Bear River"}]}
+{"index": [1960], "sub_label": "Chestermere Lake", "obj_uri": ["Q895385"], "obj_label": [{"alternative": ["Bow"], "rdf": "Bow River", "chosen": "Bow River"}]}
+{"index": [1427], "sub_label": "Lake Zaysan", "obj_uri": ["Q128102"], "obj_label": [{"alternative": ["Ertix river", "Irtysh river", "Irtish"], "rdf": "Irtysh", "chosen": "Irtysh"}]}
+{"index": [1201], "sub_label": "Lake Qaraoun", "obj_uri": ["Q456415"], "obj_label": [{"alternative": ["Leontes"], "rdf": "Litani River", "chosen": "Litani River"}]}
+{"index": [259, 283, 488, 943, 975, 1307, 2001], "sub_label": "Lake Superior", "obj_uri": ["Q1273955", "Q1888146", "Q1524764", "Q1485122", "Q6990897", "Q2566970", "Q1710848"], "obj_label": [{"alternative": ["St. Louis River"], "rdf": "Saint Louis River", "chosen": "Saint Louis River"}, {"alternative": [], "rdf": "Kaministiquia River", "chosen": "Kaministiquia River"}, {"alternative": [], "rdf": "Michipicoten River", "chosen": "Michipicoten River"}, {"alternative": [], "rdf": "Pigeon River", "chosen": "Pigeon River"}, {"alternative": [], "rdf": "Nemadji River", "chosen": "Nemadji River"}, {"alternative": ["rivi\u00e8re White"], "rdf": "White River", "chosen": "White River"}, {"alternative": [], "rdf": "Pic River", "chosen": "Pic River"}]}
+{"index": [2049], "sub_label": "Lake Pl\u00e9tipi", "obj_uri": ["Q601302"], "obj_label": [{"alternative": [], "rdf": "Rivi\u00e8re aux Outardes", "chosen": "Rivi\u00e8re aux Outardes"}]}
+{"index": [801], "sub_label": "Lake Musconetcong", "obj_uri": ["Q6940356"], "obj_label": [{"alternative": [], "rdf": "Musconetcong River", "chosen": "Musconetcong River"}]}
+{"index": [697], "sub_label": "Steel Lake", "obj_uri": ["Q7605703"], "obj_label": [{"alternative": [], "rdf": "Steel River", "chosen": "Steel River"}]}
+{"index": [1671], "sub_label": "Lake Pyh\u00e4selk\u00e4", "obj_uri": ["Q1636182"], "obj_label": [{"alternative": ["Pielis \u00e4lv"], "rdf": "Pielisjoki", "chosen": "Pielisjoki"}]}
+{"index": [1780], "sub_label": "Magdalenefjorden", "obj_uri": ["Q16891934"], "obj_label": [{"alternative": [], "rdf": "Gullybukta", "chosen": "Gullybukta"}]}
+{"index": [1944], "sub_label": "Quesnel Lake", "obj_uri": ["Q268202"], "obj_label": [{"alternative": [], "rdf": "Horsefly River", "chosen": "Horsefly River"}]}
+{"index": [203, 1564], "sub_label": "Bay of Quinte", "obj_uri": ["Q175816", "Q1379758"], "obj_label": [{"alternative": [], "rdf": "Trent River", "chosen": "Trent River"}, {"alternative": [], "rdf": "Moira River", "chosen": "Moira River"}]}
+{"index": [465, 466], "sub_label": "Berthelot Lake", "obj_uri": ["Q22427746", "Q2155719"], "obj_label": [{"alternative": [], "rdf": "Macho River", "chosen": "Macho River"}, {"alternative": [], "rdf": "M\u00e9giscane River", "chosen": "M\u00e9giscane River"}]}
+{"index": [486], "sub_label": "Lake Burrendong", "obj_uri": ["Q621609"], "obj_label": [{"alternative": ["Wambuul"], "rdf": "Macquarie River", "chosen": "Macquarie River"}]}
+{"index": [52], "sub_label": "Lake Erie", "obj_uri": ["Q318435"], "obj_label": [{"alternative": [], "rdf": "Detroit River", "chosen": "Detroit River"}]}
+{"index": [1951], "sub_label": "Lac Musquaro", "obj_uri": ["Q1412484"], "obj_label": [{"alternative": [], "rdf": "Musquaro River", "chosen": "Musquaro River"}]}
+{"index": [2165], "sub_label": "Lake DeForest", "obj_uri": ["Q3125487"], "obj_label": [{"alternative": [], "rdf": "Hackensack River", "chosen": "Hackensack River"}]}
+{"index": [1188], "sub_label": "Dongping Lake", "obj_uri": ["Q163339"], "obj_label": [{"alternative": ["Dawen He"], "rdf": "Dawen River", "chosen": "Dawen River"}]}
+{"index": [1938], "sub_label": "Frentress Lake", "obj_uri": ["Q1497"], "obj_label": [{"alternative": ["Mississippi", "The Mississippi"], "rdf": "Mississippi River", "chosen": "Mississippi River"}]}
+{"index": [128], "sub_label": "Lake Alakol", "obj_uri": ["Q1337665"], "obj_label": [{"alternative": ["Emin River", "Emin He"], "rdf": "Emil River", "chosen": "Emil River"}]}
+{"index": [386], "sub_label": "Lac de Coiselet", "obj_uri": ["Q405836"], "obj_label": [{"alternative": [], "rdf": "Ain", "chosen": "Ain"}]}
+{"index": [2320], "sub_label": "Oxford Lake", "obj_uri": ["Q72673"], "obj_label": [{"alternative": [], "rdf": "Hayes River", "chosen": "Hayes River"}]}
+{"index": [1056], "sub_label": "Lake Springfield", "obj_uri": ["Q14687788"], "obj_label": [{"alternative": [], "rdf": "Lick Creek (Sangamon River tributary)", "chosen": "Lick Creek (Sangamon River tributary)"}]}
+{"index": [1657], "sub_label": "Optic Lake", "obj_uri": ["Q22466440"], "obj_label": [{"alternative": [], "rdf": "Rostoul River", "chosen": "Rostoul River"}]}
+{"index": [638], "sub_label": "Hernandez Reservoir", "obj_uri": ["Q7413412"], "obj_label": [{"alternative": [], "rdf": "San Benito River", "chosen": "San Benito River"}]}
+{"index": [1782, 1883], "sub_label": "Bellsund", "obj_uri": ["Q1586804", "Q3441657"], "obj_label": [{"alternative": [], "rdf": "Van Mijenfjorden", "chosen": "Van Mijenfjorden"}, {"alternative": [], "rdf": "Van Keulenfjorden", "chosen": "Van Keulenfjorden"}]}
+{"index": [1129], "sub_label": "Lancaster Sound", "obj_uri": ["Q3740577"], "obj_label": [{"alternative": [], "rdf": "Admiralty Inlet", "chosen": "Admiralty Inlet"}]}
+{"index": [928], "sub_label": "Kamianske Reservoir", "obj_uri": ["Q40855"], "obj_label": [{"alternative": ["Dnipro", "Dnieper", "Dnipro River"], "rdf": "Dnieper River", "chosen": "Dnieper River"}]}
+{"index": [2118], "sub_label": "Foremark Reservoir", "obj_uri": ["Q3038272"], "obj_label": [{"alternative": [], "rdf": "River Dove", "chosen": "River Dove"}]}
+{"index": [862], "sub_label": "Lake Nacimiento", "obj_uri": ["Q6957248"], "obj_label": [{"alternative": [], "rdf": "Nacimiento River", "chosen": "Nacimiento River"}]}
+{"index": [2050], "sub_label": "Lake Waswanipi", "obj_uri": ["Q1376034"], "obj_label": [{"alternative": ["Rivi\u00e8re Waswanipi", "Riviere Waswanipi"], "rdf": "Waswanipi River", "chosen": "Waswanipi River"}]}
+{"index": [833], "sub_label": "Stillwater Reservoir", "obj_uri": ["Q4878158"], "obj_label": [{"alternative": [], "rdf": "Beaver River", "chosen": "Beaver River"}]}
+{"index": [560], "sub_label": "Taganrog Bay", "obj_uri": ["Q1165587"], "obj_label": [{"alternative": ["Mius River"], "rdf": "Mius", "chosen": "Mius"}]}
+{"index": [635], "sub_label": "V\u011bstonice Reservoir", "obj_uri": ["Q660208"], "obj_label": [{"alternative": ["Dyje"], "rdf": "Thaya", "chosen": "Thaya"}]}
+{"index": [2304], "sub_label": "Malchiner See", "obj_uri": ["Q1658"], "obj_label": [{"alternative": [], "rdf": "Peene", "chosen": "Peene"}]}
+{"index": [1423], "sub_label": "Walensee", "obj_uri": ["Q14335"], "obj_label": [{"alternative": [], "rdf": "Linth", "chosen": "Linth"}]}
+{"index": [1943], "sub_label": "Deerock Lake", "obj_uri": ["Q7140818"], "obj_label": [{"alternative": [], "rdf": "Partridge Creek", "chosen": "Partridge Creek"}]}
+{"index": [1591], "sub_label": "Prien Lake", "obj_uri": ["Q5018710"], "obj_label": [{"alternative": [], "rdf": "Calcasieu Ship Channel", "chosen": "Calcasieu Ship Channel"}]}
+{"index": [2040], "sub_label": "Lake Lub\u0101ns", "obj_uri": ["Q1773319"], "obj_label": [{"alternative": ["R\u0113zekne"], "rdf": "R\u0113zekne River", "chosen": "R\u0113zekne River"}]}
+{"index": [744, 1294, 1295], "sub_label": "Lagoa dos Patos", "obj_uri": ["Q3432357", "Q614720", "Q581307"], "obj_label": [{"alternative": [], "rdf": "Camaqu\u00e3 River", "chosen": "Camaqu\u00e3 River"}, {"alternative": ["Guaiba Lake", "Lago Gua\u00edba", "Gua\u00edba river"], "rdf": "Lake Gua\u00edba", "chosen": "Lake Gua\u00edba"}, {"alternative": [], "rdf": "S\u00e3o Gon\u00e7alo Channel", "chosen": "S\u00e3o Gon\u00e7alo Channel"}]}
+{"index": [917, 1274, 1286], "sub_label": "Gulf of Finland", "obj_uri": ["Q1714829", "Q645", "Q890526"], "obj_label": [{"alternative": ["J\u00e4gala"], "rdf": "J\u00e4gala River", "chosen": "J\u00e4gala River"}, {"alternative": ["River Neva", "Neva River"], "rdf": "Neva", "chosen": "Neva"}, {"alternative": ["Kymijoki", "Kymmene \u00e4lv", "Kymi"], "rdf": "Kymi River", "chosen": "Kymi River"}]}
+{"index": [800], "sub_label": "Mavrovo Lake", "obj_uri": ["Q2720677"], "obj_label": [{"alternative": [], "rdf": "Radika", "chosen": "Radika"}]}
+{"index": [195], "sub_label": "Lake Chivero", "obj_uri": ["Q1638278"], "obj_label": [{"alternative": [], "rdf": "Manyame River", "chosen": "Manyame River"}]}
+{"index": [878], "sub_label": "Mitchinamecus Reservoir", "obj_uri": ["Q15867666"], "obj_label": [{"alternative": ["Rivi\u00e8re Mitchinamecus"], "rdf": "Mitchinamecus River", "chosen": "Mitchinamecus River"}]}
+{"index": [984], "sub_label": "John Martin Reservoir", "obj_uri": ["Q8319"], "obj_label": [{"alternative": [], "rdf": "Arkansas River", "chosen": "Arkansas River"}]}
+{"index": [1075, 2007], "sub_label": "Wijdefjorden", "obj_uri": ["Q3441682", "Q3441776"], "obj_label": [{"alternative": [], "rdf": "Vestfjorden", "chosen": "Vestfjorden"}, {"alternative": [], "rdf": "Austfjorden", "chosen": "Austfjorden"}]}
+{"index": [1544], "sub_label": "Lac de Joux", "obj_uri": ["Q53746"], "obj_label": [{"alternative": [], "rdf": "Orbe", "chosen": "Orbe"}]}
+{"index": [1508], "sub_label": "Qamanirjuaq Lake", "obj_uri": ["Q1406237"], "obj_label": [{"alternative": [], "rdf": "Ferguson River", "chosen": "Ferguson River"}]}
+{"index": [785], "sub_label": "Lake Forsyth (Wairewa)", "obj_uri": ["Q7678392"], "obj_label": [{"alternative": [], "rdf": "Takiritawai River", "chosen": "Takiritawai River"}]}
+{"index": [2000], "sub_label": "Dnieper Reservoir", "obj_uri": ["Q40855"], "obj_label": [{"alternative": ["Dnipro", "Dnieper", "Dnipro River"], "rdf": "Dnieper River", "chosen": "Dnieper River"}]}
+{"index": [2233], "sub_label": "Lake Cach\u00ed jiuston", "obj_uri": ["Q11997691"], "obj_label": [{"alternative": [], "rdf": "Reventaz\u00f3n River", "chosen": "Reventaz\u00f3n River"}]}
+{"index": [1826], "sub_label": "Neusiedl Lake", "obj_uri": ["Q877542"], "obj_label": [{"alternative": [], "rdf": "Wulka", "chosen": "Wulka"}]}
+{"index": [567, 1889], "sub_label": "Lough Derg", "obj_uri": ["Q4852118", "Q6991527"], "obj_label": [{"alternative": [], "rdf": "Ballyfinboy River", "chosen": "Ballyfinboy River"}, {"alternative": [], "rdf": "Nenagh River", "chosen": "Nenagh River"}]}
+{"index": [1651, 1652], "sub_label": "Rostoul Lake", "obj_uri": ["Q22466440", "Q22604306"], "obj_label": [{"alternative": [], "rdf": "Rostoul River", "chosen": "Rostoul River"}, {"alternative": [], "rdf": "Haven Creek", "chosen": "Haven Creek"}]}
+{"index": [1342], "sub_label": "Lake Waipori", "obj_uri": ["Q7960286"], "obj_label": [{"alternative": [], "rdf": "Waipori River", "chosen": "Waipori River"}]}
+{"index": [2294], "sub_label": "Khurgan Lake", "obj_uri": ["Q2426540"], "obj_label": [{"alternative": [], "rdf": "Khovd River", "chosen": "Khovd River"}]}
+{"index": [497], "sub_label": "Lake Pateros", "obj_uri": ["Q2251"], "obj_label": [{"alternative": [], "rdf": "Columbia River", "chosen": "Columbia River"}]}
+{"index": [2257], "sub_label": "Neso Lake", "obj_uri": ["Q17109944"], "obj_label": [{"alternative": [], "rdf": "Mistik Creek", "chosen": "Mistik Creek"}]}
+{"index": [726], "sub_label": "Dorena Reservoir", "obj_uri": ["Q7371753"], "obj_label": [{"alternative": [], "rdf": "Row River", "chosen": "Row River"}]}
+{"index": [592], "sub_label": "Poop\u00f3 Lake", "obj_uri": ["Q1343322"], "obj_label": [{"alternative": [], "rdf": "Desaguadero River", "chosen": "Desaguadero River"}]}
+{"index": [2247], "sub_label": "Curonian Lagoon", "obj_uri": ["Q5615"], "obj_label": [{"alternative": [], "rdf": "Deyma River", "chosen": "Deyma River"}]}
+{"index": [1004], "sub_label": "Sparrow Lake", "obj_uri": ["Q681048"], "obj_label": [{"alternative": [], "rdf": "Severn River", "chosen": "Severn River"}]}
+{"index": [1819], "sub_label": "Obersee", "obj_uri": ["Q152331"], "obj_label": [{"alternative": ["Roer"], "rdf": "Rur", "chosen": "Rur"}]}
+{"index": [86, 87], "sub_label": "Lake Abaya", "obj_uri": ["Q2902986", "Q48734720"], "obj_label": [{"alternative": [], "rdf": "Bilate River", "chosen": "Bilate River"}, {"alternative": [], "rdf": "Gidabo River", "chosen": "Gidabo River"}]}
+{"index": [867], "sub_label": "Aliceville Lake", "obj_uri": ["Q7700266"], "obj_label": [{"alternative": ["Tennessee-Tombigbee Waterway"], "rdf": "Tennessee\u2013Tombigbee Waterway", "chosen": "Tennessee\u2013Tombigbee Waterway"}]}
+{"index": [1934], "sub_label": "Peno", "obj_uri": ["Q626"], "obj_label": [{"alternative": ["Volga River", "River Volga"], "rdf": "Volga", "chosen": "Volga"}]}
+{"index": [1855], "sub_label": "Fishbasket Lake", "obj_uri": ["Q6745594"], "obj_label": [{"alternative": [], "rdf": "Mameigwess Lake", "chosen": "Mameigwess Lake"}]}
+{"index": [289], "sub_label": "Lake Trenche", "obj_uri": ["Q15303742"], "obj_label": [{"alternative": [], "rdf": "Rivi\u00e8re Trenche", "chosen": "Rivi\u00e8re Trenche"}]}
+{"index": [322], "sub_label": "Lake Britton", "obj_uri": ["Q1760800"], "obj_label": [{"alternative": [], "rdf": "Pit River", "chosen": "Pit River"}]}
+{"index": [1324], "sub_label": "Susqueda Reservoir", "obj_uri": ["Q31482"], "obj_label": [{"alternative": ["El Ter"], "rdf": "Ter", "chosen": "Ter"}]}
+{"index": [342], "sub_label": "Lake Allatoona", "obj_uri": ["Q968071"], "obj_label": [{"alternative": [], "rdf": "Etowah River", "chosen": "Etowah River"}]}
+{"index": [2281], "sub_label": "Lake Sylva", "obj_uri": ["Q14705867"], "obj_label": [{"alternative": [], "rdf": "Shabakunk Creek", "chosen": "Shabakunk Creek"}]}
+{"index": [1328], "sub_label": "Lake Jesup", "obj_uri": ["Q1677915"], "obj_label": [{"alternative": [], "rdf": "St. Johns River", "chosen": "St. Johns River"}]}
+{"index": [816], "sub_label": "Lake \u0100niwaniwa", "obj_uri": ["Q2130963"], "obj_label": [{"alternative": [], "rdf": "Rangitaiki River", "chosen": "Rangitaiki River"}]}
+{"index": [1581], "sub_label": "Lake Nipissing", "obj_uri": ["Q2359274"], "obj_label": [{"alternative": [], "rdf": "Sturgeon River", "chosen": "Sturgeon River"}]}
+{"index": [39], "sub_label": "Loch Lubnaig", "obj_uri": ["Q7337127"], "obj_label": [{"alternative": [], "rdf": "River Balvag", "chosen": "River Balvag"}]}
+{"index": [551], "sub_label": "Faillon Lake", "obj_uri": ["Q2155719"], "obj_label": [{"alternative": [], "rdf": "M\u00e9giscane River", "chosen": "M\u00e9giscane River"}]}
+{"index": [1126], "sub_label": "Yathkyed Lake", "obj_uri": ["Q719436"], "obj_label": [{"alternative": [], "rdf": "Kazan River", "chosen": "Kazan River"}]}
+{"index": [1948], "sub_label": "Lake Roxburgh", "obj_uri": ["Q613522"], "obj_label": [{"alternative": [], "rdf": "Clutha River / Mata-Au", "chosen": "Clutha River / Mata-Au"}]}
+{"index": [819], "sub_label": "Lac des Alli\u00e9s", "obj_uri": ["Q81228514"], "obj_label": [{"alternative": [], "rdf": "Rocheuse River (rivi\u00e8re du Malin)", "chosen": "Rocheuse River (rivi\u00e8re du Malin)"}]}
+{"index": [9], "sub_label": "Lake Argyle", "obj_uri": ["Q2028742"], "obj_label": [{"alternative": [], "rdf": "Ord River", "chosen": "Ord River"}]}
+{"index": [1039], "sub_label": "Loch Tummel", "obj_uri": ["Q1259288"], "obj_label": [{"alternative": [], "rdf": "River Tummel", "chosen": "River Tummel"}]}
+{"index": [2072], "sub_label": "Embalse de San Rafael de Navallana", "obj_uri": ["Q16572982"], "obj_label": [{"alternative": [], "rdf": "Guadalmellato", "chosen": "Guadalmellato"}]}
+{"index": [1466], "sub_label": "Piethorne Reservoir", "obj_uri": ["Q7192876"], "obj_label": [{"alternative": [], "rdf": "Piethorne Brook", "chosen": "Piethorne Brook"}]}
+{"index": [1685], "sub_label": "Lumbovsky Gulf", "obj_uri": ["Q1580307"], "obj_label": [{"alternative": [], "rdf": "Lumbovka", "chosen": "Lumbovka"}]}
+{"index": [570, 1305, 2137], "sub_label": "Kremasta", "obj_uri": ["Q395923", "Q203923", "Q734838"], "obj_label": [{"alternative": [], "rdf": "Agrafiotis", "chosen": "Agrafiotis"}, {"alternative": [], "rdf": "Achelous River", "chosen": "Achelous River"}, {"alternative": [], "rdf": "Megdovas", "chosen": "Megdovas"}]}
+{"index": [1138], "sub_label": "Castle Mill Stream", "obj_uri": ["Q7492481"], "obj_label": [{"alternative": [], "rdf": "Sheepwash Channel", "chosen": "Sheepwash Channel"}]}
+{"index": [2190], "sub_label": "Vidra Lake", "obj_uri": ["Q6684857"], "obj_label": [{"alternative": ["Lotru"], "rdf": "Lotru River", "chosen": "Lotru River"}]}
+{"index": [2306], "sub_label": "Rosensee", "obj_uri": ["Q645652"], "obj_label": [{"alternative": [], "rdf": "Schwentine", "chosen": "Schwentine"}]}
+{"index": [1740], "sub_label": "Siljan", "obj_uri": ["Q298372"], "obj_label": [{"alternative": ["\u00d6sterdal\u00e4lven", "Osterdalaelven", "Osterdal River", "Osterdalalven"], "rdf": "\u00d6sterdal River", "chosen": "\u00d6sterdal River"}]}
+{"index": [568], "sub_label": "Lake Strom Thurmond", "obj_uri": ["Q370750"], "obj_label": [{"alternative": [], "rdf": "Savannah River", "chosen": "Savannah River"}]}
+{"index": [1932], "sub_label": "Cross Lake", "obj_uri": ["Q7450332"], "obj_label": [{"alternative": [], "rdf": "Seneca River", "chosen": "Seneca River"}]}
+{"index": [420], "sub_label": "Gleniffer Lake", "obj_uri": ["Q850119"], "obj_label": [{"alternative": [], "rdf": "Red Deer River", "chosen": "Red Deer River"}]}
+{"index": [336], "sub_label": "Victor Braunig Lake", "obj_uri": ["Q5018621"], "obj_label": [{"alternative": [], "rdf": "Calaveras Creek", "chosen": "Calaveras Creek"}]}
+{"index": [2255], "sub_label": "Colonial Lake", "obj_uri": ["Q14705867"], "obj_label": [{"alternative": [], "rdf": "Shabakunk Creek", "chosen": "Shabakunk Creek"}]}
+{"index": [1230], "sub_label": "Loch Raven Reservoir", "obj_uri": ["Q5619326"], "obj_label": [{"alternative": [], "rdf": "Gunpowder River", "chosen": "Gunpowder River"}]}
+{"index": [202], "sub_label": "Lake Vanda", "obj_uri": ["Q203098"], "obj_label": [{"alternative": [], "rdf": "Onyx River", "chosen": "Onyx River"}]}
+{"index": [1904], "sub_label": "Lake Massawippi", "obj_uri": ["Q7818890"], "obj_label": [{"alternative": [], "rdf": "Tomifobia River", "chosen": "Tomifobia River"}]}
+{"index": [1734], "sub_label": "Kapchagay Reservoir", "obj_uri": ["Q192567"], "obj_label": [{"alternative": [], "rdf": "Ili River", "chosen": "Ili River"}]}
+{"index": [1557], "sub_label": "South Colton Reservoir", "obj_uri": ["Q3930308"], "obj_label": [{"alternative": [], "rdf": "Raquette River", "chosen": "Raquette River"}]}
+{"index": [1212], "sub_label": "Owyhee Reservoir", "obj_uri": ["Q2042749"], "obj_label": [{"alternative": [], "rdf": "Owyhee River", "chosen": "Owyhee River"}]}

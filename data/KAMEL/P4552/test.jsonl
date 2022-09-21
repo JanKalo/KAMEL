@@ -1,0 +1,200 @@
+{"index": [14314], "sub_label": "Dome Peak", "obj_uri": ["Q4558"], "obj_label": [{"alternative": ["Cascade mountains", "Shasta valley mountains", "California Cascade Range", "Cascades Range", "Cascade Mountain Range", "Cascades Mountains", "Cascade", "Cascades", "High Cascades", "Cascade loop", "The Cascades"], "rdf": "Cascade Range", "chosen": "Cascade Range"}]}
+{"index": [507], "sub_label": "Sciora Dafora", "obj_uri": ["Q1753859"], "obj_label": [{"alternative": [], "rdf": "Bregaglia Range", "chosen": "Bregaglia Range"}]}
+{"index": [2561], "sub_label": "Kreuzeck group", "obj_uri": ["Q679359"], "obj_label": [{"alternative": [], "rdf": "Hohe Tauern", "chosen": "Hohe Tauern"}]}
+{"index": [14295], "sub_label": "M\u00e9audre", "obj_uri": ["Q1435063"], "obj_label": [{"alternative": ["Vercors"], "rdf": "Vercors Plateau", "chosen": "Vercors Plateau"}]}
+{"index": [13301], "sub_label": "Wankarqucha", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8936], "sub_label": "Francey Hill", "obj_uri": ["Q1641485"], "obj_label": [{"alternative": [], "rdf": "Prince Charles Mountains", "chosen": "Prince Charles Mountains"}]}
+{"index": [2123], "sub_label": "North Pack Monadnock", "obj_uri": ["Q7968217"], "obj_label": [{"alternative": [], "rdf": "Wapack Range", "chosen": "Wapack Range"}]}
+{"index": [2598], "sub_label": "Nautgardstinden", "obj_uri": ["Q588281"], "obj_label": [{"alternative": [], "rdf": "Jotunheimen", "chosen": "Jotunheimen"}]}
+{"index": [11143], "sub_label": "Mount Bierle", "obj_uri": ["Q359194"], "obj_label": [{"alternative": ["Admiralty Range"], "rdf": "Admiralty Mountains", "chosen": "Admiralty Mountains"}]}
+{"index": [8446], "sub_label": "Lake Alta", "obj_uri": ["Q1454313"], "obj_label": [{"alternative": [], "rdf": "The Remarkables", "chosen": "The Remarkables"}]}
+{"index": [14084], "sub_label": "Mount Alpenglow", "obj_uri": ["Q1514701"], "obj_label": [{"alternative": [], "rdf": "Kenai Mountains", "chosen": "Kenai Mountains"}]}
+{"index": [15470], "sub_label": "Sarcee Mountain", "obj_uri": ["Q2747638"], "obj_label": [{"alternative": [], "rdf": "Lewis Range", "chosen": "Lewis Range"}]}
+{"index": [4261], "sub_label": "J\u00f4f di Montasio", "obj_uri": ["Q119206"], "obj_label": [{"alternative": [], "rdf": "Julian Alps", "chosen": "Julian Alps"}]}
+{"index": [5585], "sub_label": "Pic Gaspard", "obj_uri": ["Q656421"], "obj_label": [{"alternative": ["Massif des Ecrins"], "rdf": "Massif des \u00c9crins", "chosen": "Massif des \u00c9crins"}]}
+{"index": [8326], "sub_label": "Yalovarnika", "obj_uri": ["Q726158"], "obj_label": [{"alternative": [], "rdf": "Pirin", "chosen": "Pirin"}]}
+{"index": [7341], "sub_label": "Old Rag Mountain", "obj_uri": ["Q166755"], "obj_label": [{"alternative": [], "rdf": "Blue Ridge Mountains", "chosen": "Blue Ridge Mountains"}]}
+{"index": [3701], "sub_label": "Stauren Peak", "obj_uri": ["Q837290"], "obj_label": [{"alternative": [], "rdf": "M\u00fchlig-Hofmann Mountains", "chosen": "M\u00fchlig-Hofmann Mountains"}]}
+{"index": [2053], "sub_label": "Morgartenberg", "obj_uri": ["Q18630638"], "obj_label": [{"alternative": ["Schwyzer Alps", "Schwyzer Alpen"], "rdf": "Schwyz Alps", "chosen": "Schwyz Alps"}]}
+{"index": [8512], "sub_label": "Plateau de Lannemezan", "obj_uri": ["Q12431"], "obj_label": [{"alternative": ["Pyr\u00e9n\u00e9es", "Pyrenean Mountains"], "rdf": "Pyrenees", "chosen": "Pyrenees"}]}
+{"index": [3459], "sub_label": "Kamb Glacier", "obj_uri": ["Q473357"], "obj_label": [{"alternative": [], "rdf": "Royal Society Range", "chosen": "Royal Society Range"}]}
+{"index": [2658], "sub_label": "Mount Filberg", "obj_uri": ["Q1611163"], "obj_label": [{"alternative": [], "rdf": "Vancouver Island Ranges", "chosen": "Vancouver Island Ranges"}]}
+{"index": [13343], "sub_label": "Chastelhorn", "obj_uri": ["Q1274"], "obj_label": [{"alternative": [], "rdf": "Lepontine Alps", "chosen": "Lepontine Alps"}]}
+{"index": [12711], "sub_label": "Roche Bonhomme", "obj_uri": ["Q5145500"], "obj_label": [{"alternative": [], "rdf": "Colin Range", "chosen": "Colin Range"}]}
+{"index": [11788], "sub_label": "Payson Peak", "obj_uri": ["Q1722116"], "obj_label": [{"alternative": [], "rdf": "Wind River Range", "chosen": "Wind River Range"}]}
+{"index": [5375], "sub_label": "Hudak Peak", "obj_uri": ["Q1252422"], "obj_label": [{"alternative": [], "rdf": "Douglas Peaks", "chosen": "Douglas Peaks"}]}
+{"index": [657], "sub_label": "Col de la Schlucht", "obj_uri": ["Q187843"], "obj_label": [{"alternative": ["Vogesen", "Vosges"], "rdf": "Vosges Mountains", "chosen": "Vosges Mountains"}]}
+{"index": [7989], "sub_label": "Maple Canyon", "obj_uri": ["Q7415182"], "obj_label": [{"alternative": ["Gunnison Plateau", "San Pete Plateau", "Sanpete Mountains", "Wales Plateau"], "rdf": "San Pitch Mountains", "chosen": "San Pitch Mountains"}]}
+{"index": [6095], "sub_label": "Beaudoin Peak", "obj_uri": ["Q1926330"], "obj_label": [{"alternative": [], "rdf": "Meyer Hills", "chosen": "Meyer Hills"}]}
+{"index": [15578], "sub_label": "Wadi al-Nasara", "obj_uri": ["Q978233"], "obj_label": [{"alternative": [], "rdf": "An-Nusayriyah Mountains", "chosen": "An-Nusayriyah Mountains"}]}
+{"index": [739], "sub_label": "Lazikou Pass", "obj_uri": ["Q728955"], "obj_label": [{"alternative": ["Min Shan"], "rdf": "Min Mountains", "chosen": "Min Mountains"}]}
+{"index": [11992], "sub_label": "\u017dd\u00e1nice Forest", "obj_uri": ["Q452251"], "obj_label": [{"alternative": [], "rdf": "Central Moravian Carpathians", "chosen": "Central Moravian Carpathians"}]}
+{"index": [4075], "sub_label": "Maclaren Monolith", "obj_uri": ["Q2913060"], "obj_label": [{"alternative": [], "rdf": "Herbert Mountains", "chosen": "Herbert Mountains"}]}
+{"index": [3918], "sub_label": "Swanson Glacier", "obj_uri": ["Q7901713"], "obj_label": [{"alternative": [], "rdf": "Usarp Mountains", "chosen": "Usarp Mountains"}]}
+{"index": [4948], "sub_label": "Troutbeck Tongue", "obj_uri": ["Q211778"], "obj_label": [{"alternative": ["The Lakes", "Lakeland"], "rdf": "Lake District", "chosen": "Lake District"}]}
+{"index": [9496], "sub_label": "Unicoi Mountains", "obj_uri": ["Q166755"], "obj_label": [{"alternative": [], "rdf": "Blue Ridge Mountains", "chosen": "Blue Ridge Mountains"}]}
+{"index": [6531], "sub_label": "Volc\u00e1n Atitl\u00e1n", "obj_uri": ["Q27036"], "obj_label": [{"alternative": [], "rdf": "Sierra Madre de Chiapas", "chosen": "Sierra Madre de Chiapas"}]}
+{"index": [9126], "sub_label": "Gothic Mountains", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [7242], "sub_label": "Naches Peak", "obj_uri": ["Q4558"], "obj_label": [{"alternative": ["Cascade mountains", "Shasta valley mountains", "California Cascade Range", "Cascades Range", "Cascade Mountain Range", "Cascades Mountains", "Cascade", "Cascades", "High Cascades", "Cascade loop", "The Cascades"], "rdf": "Cascade Range", "chosen": "Cascade Range"}]}
+{"index": [11413], "sub_label": "Tossal Gros de Vallbona", "obj_uri": ["Q7455247"], "obj_label": [{"alternative": [], "rdf": "Serra del Tallat", "chosen": "Serra del Tallat"}]}
+{"index": [12129], "sub_label": "Saxa Q'awa", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [11076], "sub_label": "Ritzlihorn", "obj_uri": ["Q327221"], "obj_label": [{"alternative": ["Berner Alpen"], "rdf": "Bernese Alps", "chosen": "Bernese Alps"}]}
+{"index": [3484], "sub_label": "Kent Glacier", "obj_uri": ["Q3323150"], "obj_label": [{"alternative": ["Queen Elizabeth Range (Antarctica)"], "rdf": "Queen Elizabeth Range", "chosen": "Queen Elizabeth Range"}]}
+{"index": [5061], "sub_label": "Tribe\u010d", "obj_uri": ["Q2604501"], "obj_label": [{"alternative": [], "rdf": "Fatra-Tatra Area", "chosen": "Fatra-Tatra Area"}]}
+{"index": [11433], "sub_label": "Block Peak", "obj_uri": ["Q5610642"], "obj_label": [{"alternative": [], "rdf": "Grosvenor Mountains", "chosen": "Grosvenor Mountains"}]}
+{"index": [10652], "sub_label": "Kristin Peak", "obj_uri": ["Q5560279"], "obj_label": [{"alternative": [], "rdf": "Giggenbach Ridge", "chosen": "Giggenbach Ridge"}]}
+{"index": [5712], "sub_label": "Mount Farley", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [10260], "sub_label": "Pizzo del Becco", "obj_uri": ["Q819347"], "obj_label": [{"alternative": ["Bergamasque Alps"], "rdf": "Bergamo Alps", "chosen": "Bergamo Alps"}]}
+{"index": [14839], "sub_label": "Langenberg", "obj_uri": ["Q4186"], "obj_label": [{"alternative": ["Harz Mountains"], "rdf": "Harz", "chosen": "Harz"}]}
+{"index": [10271], "sub_label": "Monte Grabiasca", "obj_uri": ["Q819347"], "obj_label": [{"alternative": ["Bergamasque Alps"], "rdf": "Bergamo Alps", "chosen": "Bergamo Alps"}]}
+{"index": [10], "sub_label": "Mount Kuma", "obj_uri": ["Q1157658"], "obj_label": [{"alternative": ["Daisetsuzan", "Taisetsuzan", "Daisetsu Mountains", "Daisetsu"], "rdf": "Daisetsuzan Volcanic Group", "chosen": "Daisetsuzan Volcanic Group"}]}
+{"index": [9504], "sub_label": "Potosi Mountain", "obj_uri": ["Q3088333"], "obj_label": [{"alternative": [], "rdf": "Spring Mountains", "chosen": "Spring Mountains"}]}
+{"index": [6122], "sub_label": "Hatherton Glacier", "obj_uri": ["Q5226004"], "obj_label": [{"alternative": [], "rdf": "Darwin Mountains", "chosen": "Darwin Mountains"}]}
+{"index": [2693], "sub_label": "Walker Pass", "obj_uri": ["Q26777"], "obj_label": [{"alternative": ["The Sierras", "Blaue Berge", "California Range", "Cordilleras of California", "High Sierra", "Kay-o-pha", "Santa Lucia Range", "Sierra Neauados", "Sierra Neuado", "Sierra Nevada Mountains", "Sierra Nevadas", "Sierra San Marcos", "Sierras Nevadas", "Skye Mountains", "Snowy Mountains"], "rdf": "Sierra Nevada", "chosen": "Sierra Nevada"}]}
+{"index": [8812], "sub_label": "Mount Wegener", "obj_uri": ["Q1550766"], "obj_label": [{"alternative": [], "rdf": "Shackleton Range", "chosen": "Shackleton Range"}]}
+{"index": [13235], "sub_label": "Aiguilles Rouges d'Arolla", "obj_uri": ["Q1270"], "obj_label": [{"alternative": ["Alpi Pennine"], "rdf": "Pennine Alps", "chosen": "Pennine Alps"}]}
+{"index": [12475], "sub_label": "Grand Pacific Glacier", "obj_uri": ["Q48719"], "obj_label": [{"alternative": [], "rdf": "Saint Elias Mountains", "chosen": "Saint Elias Mountains"}]}
+{"index": [5142], "sub_label": "San Ysidro Mountains", "obj_uri": ["Q2068951"], "obj_label": [{"alternative": [], "rdf": "Peninsular Ranges", "chosen": "Peninsular Ranges"}]}
+{"index": [3544], "sub_label": "Independence Hills", "obj_uri": ["Q1522169"], "obj_label": [{"alternative": [], "rdf": "Heritage Range", "chosen": "Heritage Range"}]}
+{"index": [11329], "sub_label": "Mount Greenfield", "obj_uri": ["Q1550766"], "obj_label": [{"alternative": [], "rdf": "Shackleton Range", "chosen": "Shackleton Range"}]}
+{"index": [3151], "sub_label": "Nevados de Poquis", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [12278], "sub_label": "L'Ep\u00e9e", "obj_uri": ["Q1270"], "obj_label": [{"alternative": ["Alpi Pennine"], "rdf": "Pennine Alps", "chosen": "Pennine Alps"}]}
+{"index": [10183], "sub_label": "Cerberus Peak", "obj_uri": ["Q3323044"], "obj_label": [{"alternative": [], "rdf": "Churchill Mountains", "chosen": "Churchill Mountains"}]}
+{"index": [5248], "sub_label": "Gei\u00dfriegel", "obj_uri": ["Q4207"], "obj_label": [{"alternative": [], "rdf": "Bavarian Forest", "chosen": "Bavarian Forest"}]}
+{"index": [13010], "sub_label": "Yawriwiri", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [815], "sub_label": "Monte Tre Denti", "obj_uri": ["Q1251"], "obj_label": [{"alternative": ["Cottiae Alpes", "Cottianae Alpes"], "rdf": "Cottian Alps", "chosen": "Cottian Alps"}]}
+{"index": [14832], "sub_label": "Mother Cummings Peak", "obj_uri": ["Q587220"], "obj_label": [{"alternative": [], "rdf": "Great Western Tiers", "chosen": "Great Western Tiers"}]}
+{"index": [13389], "sub_label": "Ch'aqu", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8630], "sub_label": "Gargoyle Ridge", "obj_uri": ["Q3323044"], "obj_label": [{"alternative": [], "rdf": "Churchill Mountains", "chosen": "Churchill Mountains"}]}
+{"index": [3654], "sub_label": "Gordon Glacier", "obj_uri": ["Q1550766"], "obj_label": [{"alternative": [], "rdf": "Shackleton Range", "chosen": "Shackleton Range"}]}
+{"index": [720], "sub_label": "Sukata Laq'a", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8042], "sub_label": "Pen Pumlumon Arwystli", "obj_uri": ["Q1028218"], "obj_label": [{"alternative": ["Elenydd"], "rdf": "Cambrian Mountains", "chosen": "Cambrian Mountains"}]}
+{"index": [13624], "sub_label": "Denny Mountain", "obj_uri": ["Q4558"], "obj_label": [{"alternative": ["Cascade mountains", "Shasta valley mountains", "California Cascade Range", "Cascades Range", "Cascade Mountain Range", "Cascades Mountains", "Cascade", "Cascades", "High Cascades", "Cascade loop", "The Cascades"], "rdf": "Cascade Range", "chosen": "Cascade Range"}]}
+{"index": [13678], "sub_label": "Ernstberg", "obj_uri": ["Q152356"], "obj_label": [{"alternative": [], "rdf": "Eifel", "chosen": "Eifel"}]}
+{"index": [1185], "sub_label": "Stony Man Mountain", "obj_uri": ["Q166755"], "obj_label": [{"alternative": [], "rdf": "Blue Ridge Mountains", "chosen": "Blue Ridge Mountains"}]}
+{"index": [4044], "sub_label": "Mount Robert Scott", "obj_uri": ["Q5153845"], "obj_label": [{"alternative": [], "rdf": "Commonwealth Range", "chosen": "Commonwealth Range"}]}
+{"index": [8218], "sub_label": "Bric Agnellino", "obj_uri": ["Q1134424"], "obj_label": [{"alternative": [], "rdf": "Ligurian Alps", "chosen": "Ligurian Alps"}]}
+{"index": [15159], "sub_label": "Sunday River Whitecap", "obj_uri": ["Q2961859"], "obj_label": [{"alternative": [], "rdf": "Mahoosuc Range", "chosen": "Mahoosuc Range"}]}
+{"index": [9898], "sub_label": "Ehrwalder Sonnenspitze", "obj_uri": ["Q363794"], "obj_label": [{"alternative": [], "rdf": "Mieminger Chain", "chosen": "Mieminger Chain"}]}
+{"index": [485], "sub_label": "Corno Campascio", "obj_uri": ["Q427415"], "obj_label": [{"alternative": [], "rdf": "Bernina Range", "chosen": "Bernina Range"}]}
+{"index": [14513], "sub_label": "Col du G\u00e9ant", "obj_uri": ["Q671343"], "obj_label": [{"alternative": [], "rdf": "Mont Blanc massif", "chosen": "Mont Blanc massif"}]}
+{"index": [13952], "sub_label": "Fremont Peak", "obj_uri": ["Q1722116"], "obj_label": [{"alternative": [], "rdf": "Wind River Range", "chosen": "Wind River Range"}]}
+{"index": [2285], "sub_label": "Baqueira-Beret", "obj_uri": ["Q12431"], "obj_label": [{"alternative": ["Pyr\u00e9n\u00e9es", "Pyrenean Mountains"], "rdf": "Pyrenees", "chosen": "Pyrenees"}]}
+{"index": [9820], "sub_label": "Mount Zuckerhut", "obj_uri": ["Q2038040"], "obj_label": [{"alternative": [], "rdf": "Gruber Mountains", "chosen": "Gruber Mountains"}]}
+{"index": [9166], "sub_label": "Monument Hill", "obj_uri": ["Q18209233"], "obj_label": [{"alternative": [], "rdf": "Beezley Hills", "chosen": "Beezley Hills"}]}
+{"index": [1019], "sub_label": "Wamas Chakra", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [7851], "sub_label": "Kungur Ice Cave", "obj_uri": ["Q35600"], "obj_label": [{"alternative": [], "rdf": "Ural Mountains", "chosen": "Ural Mountains"}]}
+{"index": [3107], "sub_label": "Uluguru Mountains", "obj_uri": ["Q2569921"], "obj_label": [{"alternative": ["Eastern Arc Mountains Forests of Tanzania"], "rdf": "Eastern Arc Mountains", "chosen": "Eastern Arc Mountains"}]}
+{"index": [9160], "sub_label": "Jinchupalla", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [4913], "sub_label": "Passu Sar", "obj_uri": ["Q811056"], "obj_label": [{"alternative": [], "rdf": "Batura Muztagh", "chosen": "Batura Muztagh"}]}
+{"index": [5137], "sub_label": "Peninsular Ranges", "obj_uri": ["Q660304"], "obj_label": [{"alternative": ["Pacific Mountain System"], "rdf": "Pacific Coast Ranges", "chosen": "Pacific Coast Ranges"}]}
+{"index": [13476], "sub_label": "Sinijawi", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [1652], "sub_label": "Heitlistock", "obj_uri": ["Q869491"], "obj_label": [{"alternative": [], "rdf": "Urner Alps", "chosen": "Urner Alps"}]}
+{"index": [14598], "sub_label": "Hardangerj\u00f8kulen", "obj_uri": ["Q1585051"], "obj_label": [{"alternative": [], "rdf": "Hardangervidda", "chosen": "Hardangervidda"}]}
+{"index": [12864], "sub_label": "Wallpa Wasi", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [13473], "sub_label": "Jach'a Apachita", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [9758], "sub_label": "Mount Biederbick", "obj_uri": ["Q5160459"], "obj_label": [{"alternative": [], "rdf": "Conger Range", "chosen": "Conger Range"}]}
+{"index": [3195], "sub_label": "Llaulliyoc", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [9292], "sub_label": "Cefn yr Ystrad", "obj_uri": ["Q904522"], "obj_label": [{"alternative": [], "rdf": "Brecon Beacons", "chosen": "Brecon Beacons"}]}
+{"index": [13896], "sub_label": "Mount Gerdel", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [8262], "sub_label": "Pardee Dam", "obj_uri": ["Q26777"], "obj_label": [{"alternative": ["The Sierras", "Blaue Berge", "California Range", "Cordilleras of California", "High Sierra", "Kay-o-pha", "Santa Lucia Range", "Sierra Neauados", "Sierra Neuado", "Sierra Nevada Mountains", "Sierra Nevadas", "Sierra San Marcos", "Sierras Nevadas", "Skye Mountains", "Snowy Mountains"], "rdf": "Sierra Nevada", "chosen": "Sierra Nevada"}]}
+{"index": [4237], "sub_label": "Hirsihorn", "obj_uri": ["Q1270"], "obj_label": [{"alternative": ["Alpi Pennine"], "rdf": "Pennine Alps", "chosen": "Pennine Alps"}]}
+{"index": [11610], "sub_label": "Col des Etroits", "obj_uri": ["Q178611"], "obj_label": [{"alternative": ["Jura mountains", "Jura"], "rdf": "Jura Mountains", "chosen": "Jura Mountains"}]}
+{"index": [3696], "sub_label": "Stein Nunataks", "obj_uri": ["Q4695200"], "obj_label": [{"alternative": [], "rdf": "Ahlmann Ridge", "chosen": "Ahlmann Ridge"}]}
+{"index": [12991], "sub_label": "Hocheiser", "obj_uri": ["Q454919"], "obj_label": [{"alternative": [], "rdf": "Glockner Group", "chosen": "Glockner Group"}]}
+{"index": [14220], "sub_label": "Volc\u00e1n Congo", "obj_uri": ["Q428530"], "obj_label": [{"alternative": ["Cordillera Central of Costa Rica", "Costa Rica Central Cordillera"], "rdf": "Cordillera Central", "chosen": "Cordillera Central"}]}
+{"index": [597], "sub_label": "Falknis", "obj_uri": ["Q659729"], "obj_label": [{"alternative": ["Ratikon"], "rdf": "R\u00e4tikon", "chosen": "R\u00e4tikon"}]}
+{"index": [6490], "sub_label": "White Pine Ski Resort", "obj_uri": ["Q1722116"], "obj_label": [{"alternative": [], "rdf": "Wind River Range", "chosen": "Wind River Range"}]}
+{"index": [5037], "sub_label": "Medicine Grizzly Peak", "obj_uri": ["Q2747638"], "obj_label": [{"alternative": [], "rdf": "Lewis Range", "chosen": "Lewis Range"}]}
+{"index": [8874], "sub_label": "Grigg Peak", "obj_uri": ["Q359194"], "obj_label": [{"alternative": ["Admiralty Range"], "rdf": "Admiralty Mountains", "chosen": "Admiralty Mountains"}]}
+{"index": [10377], "sub_label": "Bergamasque Prealps", "obj_uri": ["Q1286"], "obj_label": [{"alternative": ["European Alps", "Central European Alps", "Alpine", "Alpeia", "Alpeis"], "rdf": "Alps", "chosen": "Alps"}]}
+{"index": [7939], "sub_label": "Piani di Praglia", "obj_uri": ["Q1285"], "obj_label": [{"alternative": ["Apennines"], "rdf": "Apennine Mountains", "chosen": "Apennine Mountains"}]}
+{"index": [12322], "sub_label": "Rosso di Ribia", "obj_uri": ["Q1274"], "obj_label": [{"alternative": [], "rdf": "Lepontine Alps", "chosen": "Lepontine Alps"}]}
+{"index": [5513], "sub_label": "Spiers Nunatak", "obj_uri": ["Q8027254"], "obj_label": [{"alternative": [], "rdf": "Wisconsin Range", "chosen": "Wisconsin Range"}]}
+{"index": [13379], "sub_label": "Tira K'ark'a", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [12821], "sub_label": "Puig d'Ombriaga", "obj_uri": ["Q12431"], "obj_label": [{"alternative": ["Pyr\u00e9n\u00e9es", "Pyrenean Mountains"], "rdf": "Pyrenees", "chosen": "Pyrenees"}]}
+{"index": [10192], "sub_label": "Charles Glacier", "obj_uri": ["Q3298193"], "obj_label": [{"alternative": ["Borgmassivet"], "rdf": "Borg Massif", "chosen": "Borg Massif"}]}
+{"index": [15094], "sub_label": "Mount Tiedemann", "obj_uri": ["Q7958996"], "obj_label": [{"alternative": [], "rdf": "Waddington Range", "chosen": "Waddington Range"}]}
+{"index": [9262], "sub_label": "Rocotopunta", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [7134], "sub_label": "Shining Rock", "obj_uri": ["Q5598693"], "obj_label": [{"alternative": [], "rdf": "Great Balsam Mountains", "chosen": "Great Balsam Mountains"}]}
+{"index": [7891], "sub_label": "Risnjak", "obj_uri": ["Q189915"], "obj_label": [{"alternative": [], "rdf": "Dinaric Alps", "chosen": "Dinaric Alps"}]}
+{"index": [14229], "sub_label": "Mount Teneriffe", "obj_uri": ["Q18166048"], "obj_label": [{"alternative": [], "rdf": "Strathbogie Ranges", "chosen": "Strathbogie Ranges"}]}
+{"index": [12734], "sub_label": "Hatun Uqhu Punta", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8927], "sub_label": "Forman Glacier", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [10170], "sub_label": "Utrista Rock", "obj_uri": ["Q1163965"], "obj_label": [{"alternative": ["Orvinfjella"], "rdf": "Orvin Mountains", "chosen": "Orvin Mountains"}]}
+{"index": [6394], "sub_label": "Prenj", "obj_uri": ["Q189915"], "obj_label": [{"alternative": [], "rdf": "Dinaric Alps", "chosen": "Dinaric Alps"}]}
+{"index": [8291], "sub_label": "Loft Crag", "obj_uri": ["Q211778"], "obj_label": [{"alternative": ["The Lakes", "Lakeland"], "rdf": "Lake District", "chosen": "Lake District"}]}
+{"index": [4978], "sub_label": "Gampen Pass", "obj_uri": ["Q605818"], "obj_label": [{"alternative": [], "rdf": "Nonsberg Group", "chosen": "Nonsberg Group"}]}
+{"index": [13460], "sub_label": "Kleiner Feldberg", "obj_uri": ["Q158884"], "obj_label": [{"alternative": [], "rdf": "Taunus", "chosen": "Taunus"}]}
+{"index": [7949], "sub_label": "Benaughlin Mountain", "obj_uri": ["Q3544420"], "obj_label": [{"alternative": ["Stairway to Heaven"], "rdf": "Cuilcagh", "chosen": "Cuilcagh"}]}
+{"index": [14975], "sub_label": "Albrunhorn", "obj_uri": ["Q1274"], "obj_label": [{"alternative": [], "rdf": "Lepontine Alps", "chosen": "Lepontine Alps"}]}
+{"index": [11532], "sub_label": "Suri Phuyu", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [399], "sub_label": "Pforzheim", "obj_uri": ["Q4204"], "obj_label": [{"alternative": ["Schwarzwald"], "rdf": "Black Forest", "chosen": "Black Forest"}]}
+{"index": [8540], "sub_label": "Stob na Cruaiche", "obj_uri": ["Q1124736"], "obj_label": [{"alternative": ["Grampians"], "rdf": "Grampian Mountains", "chosen": "Grampian Mountains"}]}
+{"index": [9432], "sub_label": "Jebel Yagour", "obj_uri": ["Q584279"], "obj_label": [{"alternative": ["Grand Atlas"], "rdf": "High Atlas", "chosen": "High Atlas"}]}
+{"index": [15487], "sub_label": "Loon Mountain", "obj_uri": ["Q1556007"], "obj_label": [{"alternative": [], "rdf": "White Mountains", "chosen": "White Mountains"}]}
+{"index": [13548], "sub_label": "Lacuna Glacier", "obj_uri": ["Q156684"], "obj_label": [{"alternative": [], "rdf": "Alaska Range", "chosen": "Alaska Range"}]}
+{"index": [13788], "sub_label": "Greys Peak", "obj_uri": ["Q5328630"], "obj_label": [{"alternative": [], "rdf": "East Humboldt Range", "chosen": "East Humboldt Range"}]}
+{"index": [3458], "sub_label": "Kalafut Nunatak", "obj_uri": ["Q5639428"], "obj_label": [{"alternative": [], "rdf": "Haines Mountains", "chosen": "Haines Mountains"}]}
+{"index": [2681], "sub_label": "Mount Nyukasa", "obj_uri": ["Q415350"], "obj_label": [{"alternative": ["Minami Alps", "Southern Alps"], "rdf": "Akaishi Mountains", "chosen": "Akaishi Mountains"}]}
+{"index": [10916], "sub_label": "Bifertenstock", "obj_uri": ["Q327218"], "obj_label": [{"alternative": [], "rdf": "Glarus Alps", "chosen": "Glarus Alps"}]}
+{"index": [3734], "sub_label": "Communication Heights", "obj_uri": ["Q5226004"], "obj_label": [{"alternative": [], "rdf": "Darwin Mountains", "chosen": "Darwin Mountains"}]}
+{"index": [9212], "sub_label": "Mamlu Dam", "obj_uri": ["Q484725"], "obj_label": [{"alternative": ["Alborz mountain range", "Elburz", "Albourz", "Alburz", "Elburs", "Reshteh-ye K\u016bhh\u0101-ye Alborz"], "rdf": "Alborz", "chosen": "Alborz"}]}
+{"index": [2725], "sub_label": "Mount Globus", "obj_uri": ["Q1329317"], "obj_label": [{"alternative": [], "rdf": "Allardyce Range", "chosen": "Allardyce Range"}]}
+{"index": [5055], "sub_label": "Saumspitze", "obj_uri": ["Q589487"], "obj_label": [{"alternative": ["Ferwall"], "rdf": "Verwall Alps", "chosen": "Verwall Alps"}]}
+{"index": [8991], "sub_label": "Watson Nunatak", "obj_uri": ["Q5256660"], "obj_label": [{"alternative": [], "rdf": "Framnes Mountains", "chosen": "Framnes Mountains"}]}
+{"index": [1352], "sub_label": "Kechika Ranges", "obj_uri": ["Q2961818"], "obj_label": [{"alternative": [], "rdf": "Cassiar Mountains", "chosen": "Cassiar Mountains"}]}
+{"index": [10450], "sub_label": "George S. Mickelson Trail", "obj_uri": ["Q250937"], "obj_label": [{"alternative": ["Paha Sapa", "Costa Negra", "Black Mountains"], "rdf": "Black Hills", "chosen": "Black Hills"}]}
+{"index": [10989], "sub_label": "Monte Semprevisa", "obj_uri": ["Q686611"], "obj_label": [{"alternative": [], "rdf": "Monti Lepini", "chosen": "Monti Lepini"}]}
+{"index": [508], "sub_label": "Sciora Dadent", "obj_uri": ["Q1753859"], "obj_label": [{"alternative": [], "rdf": "Bregaglia Range", "chosen": "Bregaglia Range"}]}
+{"index": [11863], "sub_label": "Valpelline", "obj_uri": ["Q1270"], "obj_label": [{"alternative": ["Alpi Pennine"], "rdf": "Pennine Alps", "chosen": "Pennine Alps"}]}
+{"index": [2896], "sub_label": "Phallata", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8245], "sub_label": "Edna Fault", "obj_uri": ["Q6919896"], "obj_label": [{"alternative": [], "rdf": "Mount Buchon", "chosen": "Mount Buchon"}]}
+{"index": [2272], "sub_label": "Gader Valley", "obj_uri": ["Q778954"], "obj_label": [{"alternative": ["Ve\u013ek\u00e1 Fatra"], "rdf": "Greater Fatra", "chosen": "Greater Fatra"}]}
+{"index": [6705], "sub_label": "Vertainspitze", "obj_uri": ["Q689164"], "obj_label": [{"alternative": [], "rdf": "Ortler Alps", "chosen": "Ortler Alps"}]}
+{"index": [5280], "sub_label": "Bartlett Glacier", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [14853], "sub_label": "Nugget Mountain", "obj_uri": ["Q920070"], "obj_label": [{"alternative": [], "rdf": "Coast Mountains", "chosen": "Coast Mountains"}]}
+{"index": [6248], "sub_label": "Kit Carson Peak", "obj_uri": ["Q5184626"], "obj_label": [{"alternative": [], "rdf": "Crestones", "chosen": "Crestones"}]}
+{"index": [5775], "sub_label": "Mana Parbat II", "obj_uri": ["Q4180735"], "obj_label": [{"alternative": [], "rdf": "Garhwal Himalaya", "chosen": "Garhwal Himalaya"}]}
+{"index": [13407], "sub_label": "Brunstkopf", "obj_uri": ["Q671207"], "obj_label": [{"alternative": ["Karwendelgebirge"], "rdf": "Karwendel", "chosen": "Karwendel"}]}
+{"index": [6204], "sub_label": "Rooterberg", "obj_uri": ["Q1286"], "obj_label": [{"alternative": ["European Alps", "Central European Alps", "Alpine", "Alpeia", "Alpeis"], "rdf": "Alps", "chosen": "Alps"}]}
+{"index": [13045], "sub_label": "Naiset Point", "obj_uri": ["Q1353201"], "obj_label": [{"alternative": ["Canadian Rocky Mountains", "Rocheuses canadiennes"], "rdf": "Canadian Rockies", "chosen": "Canadian Rockies"}]}
+{"index": [6092], "sub_label": "Mount Merrick", "obj_uri": ["Q7282884"], "obj_label": [{"alternative": [], "rdf": "Raggatt Mountains", "chosen": "Raggatt Mountains"}]}
+{"index": [5013], "sub_label": "Maquimaquiyoc", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [13230], "sub_label": "General Grant Grove", "obj_uri": ["Q26777"], "obj_label": [{"alternative": ["The Sierras", "Blaue Berge", "California Range", "Cordilleras of California", "High Sierra", "Kay-o-pha", "Santa Lucia Range", "Sierra Neauados", "Sierra Neuado", "Sierra Nevada Mountains", "Sierra Nevadas", "Sierra San Marcos", "Sierras Nevadas", "Skye Mountains", "Snowy Mountains"], "rdf": "Sierra Nevada", "chosen": "Sierra Nevada"}]}
+{"index": [5366], "sub_label": "Walcott Glacier", "obj_uri": ["Q473357"], "obj_label": [{"alternative": [], "rdf": "Royal Society Range", "chosen": "Royal Society Range"}]}
+{"index": [4506], "sub_label": "Broghol", "obj_uri": ["Q5472"], "obj_label": [{"alternative": ["P\u0101riy\u0101tra Parvata", "Paropamisadae", "Hindukush"], "rdf": "Hindu Kush", "chosen": "Hindu Kush"}]}
+{"index": [2105], "sub_label": "Conrad Mountains", "obj_uri": ["Q1163965"], "obj_label": [{"alternative": ["Orvinfjella"], "rdf": "Orvin Mountains", "chosen": "Orvin Mountains"}]}
+{"index": [9608], "sub_label": "Rasuwillka", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [11292], "sub_label": "Fulgham Ridge", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}
+{"index": [1142], "sub_label": "Istalla", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8098], "sub_label": "Sawback Range", "obj_uri": ["Q1353201"], "obj_label": [{"alternative": ["Canadian Rocky Mountains", "Rocheuses canadiennes"], "rdf": "Canadian Rockies", "chosen": "Canadian Rockies"}]}
+{"index": [11864], "sub_label": "Monte Venda", "obj_uri": ["Q241136"], "obj_label": [{"alternative": ["Colli Euganei"], "rdf": "Euganean Hills", "chosen": "Euganean Hills"}]}
+{"index": [10145], "sub_label": "Bean Peaks", "obj_uri": ["Q5682299"], "obj_label": [{"alternative": [], "rdf": "Hauberg Mountains", "chosen": "Hauberg Mountains"}]}
+{"index": [5417], "sub_label": "Mjollkvaevane Cirques", "obj_uri": ["Q5483345"], "obj_label": [{"alternative": [], "rdf": "Payer Mountains", "chosen": "Payer Mountains"}]}
+{"index": [3522], "sub_label": "King Range", "obj_uri": ["Q5158827"], "obj_label": [{"alternative": [], "rdf": "Concord Mountains", "chosen": "Concord Mountains"}]}
+{"index": [1917], "sub_label": "Monadhliath Mountains", "obj_uri": ["Q106652"], "obj_label": [{"alternative": ["Highlands", "Hielands"], "rdf": "Scottish Highlands", "chosen": "Scottish Highlands"}]}
+{"index": [10596], "sub_label": "Mount Emison", "obj_uri": ["Q5250195"], "obj_label": [{"alternative": [], "rdf": "Deep Freeze Range", "chosen": "Deep Freeze Range"}]}
+{"index": [1782], "sub_label": "Chuallani", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [5605], "sub_label": "Mount Augusta", "obj_uri": ["Q1478409"], "obj_label": [{"alternative": [], "rdf": "Queen Alexandra Range", "chosen": "Queen Alexandra Range"}]}
+{"index": [12712], "sub_label": "Mount Boswell", "obj_uri": ["Q1353201"], "obj_label": [{"alternative": ["Canadian Rocky Mountains", "Rocheuses canadiennes"], "rdf": "Canadian Rockies", "chosen": "Canadian Rockies"}]}
+{"index": [9718], "sub_label": "Benbaun", "obj_uri": ["Q1093773"], "obj_label": [{"alternative": ["Twelve Pins"], "rdf": "Twelve Bens", "chosen": "Twelve Bens"}]}
+{"index": [7085], "sub_label": "Massive Range", "obj_uri": ["Q1353201"], "obj_label": [{"alternative": ["Canadian Rocky Mountains", "Rocheuses canadiennes"], "rdf": "Canadian Rockies", "chosen": "Canadian Rockies"}]}
+{"index": [6477], "sub_label": "Hispar Pass", "obj_uri": ["Q5469"], "obj_label": [{"alternative": ["Karakorum", "Karakoram Range", "Karakoram mountains"], "rdf": "Karakoram", "chosen": "Karakoram"}]}
+{"index": [4437], "sub_label": "Pic de Thabor", "obj_uri": ["Q2399815"], "obj_label": [{"alternative": [], "rdf": "Massif des Cerces", "chosen": "Massif des Cerces"}]}
+{"index": [10315], "sub_label": "Gro\u00dfer Waldstein", "obj_uri": ["Q157728"], "obj_label": [{"alternative": ["Fichtel Hills", "Fichtel Mountains"], "rdf": "Fichtelgebirge", "chosen": "Fichtelgebirge"}]}
+{"index": [3534], "sub_label": "Red Ridge", "obj_uri": ["Q5582124"], "obj_label": [{"alternative": [], "rdf": "Gonville and Caius Range", "chosen": "Gonville and Caius Range"}]}
+{"index": [6249], "sub_label": "Crestones", "obj_uri": ["Q1419187"], "obj_label": [{"alternative": [], "rdf": "Sangre de Cristo Range", "chosen": "Sangre de Cristo Range"}]}
+{"index": [1722], "sub_label": "Ur\u0161lja Mountain", "obj_uri": ["Q198007"], "obj_label": [{"alternative": ["Karawanken"], "rdf": "Karawanks", "chosen": "Karawanks"}]}
+{"index": [1439], "sub_label": "Cardamom Hills", "obj_uri": ["Q4527"], "obj_label": [{"alternative": ["Tamhini Ghat", "West coast mountain range of India", "Sahyadris", "Sahya Parvatham", "Sahyadri Mountains", "Sahyadri mountain range", "Western Gh\u00e2ts", "Western Ghat mountains", "Western Ghat mountain range", "Sahyadri mountain ranges", "Sahya Parvat", "Sahayadri", "Sahya Mountains", "Sahyadri", "The Western Ghats", "Sahayadri Hills", "Western Ghat mountain ranges", "Western coast mountain range of india", "Sahya Parvatam", "Western Ghats of Maharashtra", "Western Ghauts", "Western Gh\u0101ts"], "rdf": "Western Ghats", "chosen": "Western Ghats"}]}
+{"index": [9183], "sub_label": "Cerro del Le\u00f3n", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [12707], "sub_label": "Easy Peak", "obj_uri": ["Q4558"], "obj_label": [{"alternative": ["Cascade mountains", "Shasta valley mountains", "California Cascade Range", "Cascades Range", "Cascade Mountain Range", "Cascades Mountains", "Cascade", "Cascades", "High Cascades", "Cascade loop", "The Cascades"], "rdf": "Cascade Range", "chosen": "Cascade Range"}]}
+{"index": [13989], "sub_label": "Mandara Plateau mosaic", "obj_uri": ["Q1888885"], "obj_label": [{"alternative": [], "rdf": "Mandara Mountains", "chosen": "Mandara Mountains"}]}
+{"index": [1108], "sub_label": "Central Siberian Plateau", "obj_uri": ["Q277576"], "obj_label": [{"alternative": [], "rdf": "Putorana Plateau", "chosen": "Putorana Plateau"}]}
+{"index": [12554], "sub_label": "Bastille Peak", "obj_uri": ["Q3121157"], "obj_label": [{"alternative": [], "rdf": "Baffin Mountains", "chosen": "Baffin Mountains"}]}
+{"index": [126], "sub_label": "Chammliberg", "obj_uri": ["Q327218"], "obj_label": [{"alternative": [], "rdf": "Glarus Alps", "chosen": "Glarus Alps"}]}
+{"index": [12383], "sub_label": "Yanama", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [14060], "sub_label": "Schatzberg", "obj_uri": ["Q592910"], "obj_label": [{"alternative": [], "rdf": "Kitzb\u00fchel Alps", "chosen": "Kitzb\u00fchel Alps"}]}
+{"index": [13310], "sub_label": "Huch'uy Sara Sara", "obj_uri": ["Q5456"], "obj_label": [{"alternative": ["Andes mountains", "Andes mountain range", "Ecuadorian Andes"], "rdf": "Andes", "chosen": "Andes"}]}
+{"index": [8445], "sub_label": "Alexandria on the Caucasus", "obj_uri": ["Q5472"], "obj_label": [{"alternative": ["P\u0101riy\u0101tra Parvata", "Paropamisadae", "Hindukush"], "rdf": "Hindu Kush", "chosen": "Hindu Kush"}]}
+{"index": [5262], "sub_label": "Mount Kendrick", "obj_uri": ["Q1796029"], "obj_label": [{"alternative": ["Queen Maud Range"], "rdf": "Queen Maud Mountains", "chosen": "Queen Maud Mountains"}]}

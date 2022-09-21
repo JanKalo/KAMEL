@@ -1,0 +1,200 @@
+{"index": [2242], "sub_label": "explosion", "obj_uri": ["Q523919"], "obj_label": [{"alternative": [], "rdf": "implosion", "chosen": "implosion"}]}
+{"index": [2725], "sub_label": "hemeralopia", "obj_uri": ["Q7758678"], "obj_label": [{"alternative": ["Nyctalopia", "Night Blindness"], "rdf": "night blindness", "chosen": "night blindness"}]}
+{"index": [1577], "sub_label": "far side of the Moon", "obj_uri": ["Q782867"], "obj_label": [{"alternative": [], "rdf": "near side of the Moon", "chosen": "near side of the Moon"}]}
+{"index": [1059], "sub_label": "\u0100tman", "obj_uri": ["Q488506"], "obj_label": [{"alternative": ["Anatman", "no-self doctrine", "no-soul doctrine", "nonself", "non-self"], "rdf": "Anatta", "chosen": "Anatta"}]}
+{"index": [2119], "sub_label": "cult following", "obj_uri": ["Q18957"], "obj_label": [{"alternative": ["mainstream view", "mainstream viewpoint", "mainstream culture", "main-stream"], "rdf": "mainstream", "chosen": "mainstream"}]}
+{"index": [2651], "sub_label": "everything", "obj_uri": ["Q154242"], "obj_label": [{"alternative": [], "rdf": "nothing", "chosen": "nothing"}]}
+{"index": [2449], "sub_label": "nerd", "obj_uri": ["Q997848"], "obj_label": [{"alternative": [], "rdf": "jock", "chosen": "jock"}]}
+{"index": [2535], "sub_label": "unsportsmanlike conduct", "obj_uri": ["Q995616"], "obj_label": [{"alternative": ["sportspersonship", "fair play"], "rdf": "sportsmanship", "chosen": "sportsmanship"}]}
+{"index": [542], "sub_label": "autumn", "obj_uri": ["Q1312"], "obj_label": [{"alternative": ["springtime", "springtime season", "spring season"], "rdf": "spring", "chosen": "spring"}]}
+{"index": [217], "sub_label": "homotopy fiber", "obj_uri": ["Q306560"], "obj_label": [{"alternative": ["homotopy cofiber"], "rdf": "mapping cone", "chosen": "mapping cone"}]}
+{"index": [2334], "sub_label": "Ceiling effect", "obj_uri": ["Q132169"], "obj_label": [{"alternative": [], "rdf": "Floor effect", "chosen": "Floor effect"}]}
+{"index": [618], "sub_label": "strategic nuclear weapon", "obj_uri": ["Q1050866"], "obj_label": [{"alternative": ["TNW", "non-strategic nuclear weapon"], "rdf": "tactical nuclear weapon", "chosen": "tactical nuclear weapon"}]}
+{"index": [801], "sub_label": "counter-terrorism", "obj_uri": ["Q7283"], "obj_label": [{"alternative": [], "rdf": "terrorism", "chosen": "terrorism"}]}
+{"index": [347], "sub_label": "analog synthesizer", "obj_uri": ["Q5276177"], "obj_label": [{"alternative": [], "rdf": "digital synthesizer", "chosen": "digital synthesizer"}]}
+{"index": [2330], "sub_label": "Christian left", "obj_uri": ["Q1322213"], "obj_label": [{"alternative": [], "rdf": "Christian right", "chosen": "Christian right"}]}
+{"index": [2189], "sub_label": "oligotroph", "obj_uri": ["Q5168598"], "obj_label": [{"alternative": [], "rdf": "copiotroph", "chosen": "copiotroph"}]}
+{"index": [805], "sub_label": "Unbanked", "obj_uri": ["Q60852"], "obj_label": [{"alternative": [], "rdf": "financial inclusion", "chosen": "financial inclusion"}]}
+{"index": [353, 842], "sub_label": "haram", "obj_uri": ["Q844614", "Q177823"], "obj_label": [{"alternative": ["Fardu", "Fardhu"], "rdf": "Fard", "chosen": "Fard"}, {"alternative": [], "rdf": "halal", "chosen": "halal"}]}
+{"index": [1554], "sub_label": "rough breathing", "obj_uri": ["Q514198"], "obj_label": [{"alternative": [], "rdf": "smooth breathing", "chosen": "smooth breathing"}]}
+{"index": [2675], "sub_label": "proteinogenic amino acid", "obj_uri": ["Q7048995"], "obj_label": [{"alternative": [], "rdf": "non-proteinogenic amino acids", "chosen": "non-proteinogenic amino acids"}]}
+{"index": [1356], "sub_label": "professional diving", "obj_uri": ["Q1719546"], "obj_label": [{"alternative": ["sport diving", "scuba diving"], "rdf": "recreational diving", "chosen": "recreational diving"}]}
+{"index": [798], "sub_label": "Cicatricial alopecia", "obj_uri": ["Q7049209"], "obj_label": [{"alternative": [], "rdf": "Noncicatricial alopecia", "chosen": "Noncicatricial alopecia"}]}
+{"index": [239], "sub_label": "simplex communication", "obj_uri": ["Q625306"], "obj_label": [{"alternative": [], "rdf": "duplex communication", "chosen": "duplex communication"}]}
+{"index": [1427], "sub_label": "kouros", "obj_uri": ["Q921657"], "obj_label": [{"alternative": ["korai"], "rdf": "kore", "chosen": "kore"}]}
+{"index": [1632], "sub_label": "Akhirah", "obj_uri": ["Q1266334"], "obj_label": [{"alternative": [], "rdf": "Dunya", "chosen": "Dunya"}]}
+{"index": [1258], "sub_label": "Picard group", "obj_uri": ["Q4709029"], "obj_label": [{"alternative": [], "rdf": "Albanese variety", "chosen": "Albanese variety"}]}
+{"index": [1266], "sub_label": "Orthophoria", "obj_uri": ["Q3145111"], "obj_label": [{"alternative": [], "rdf": "Heterophoria", "chosen": "Heterophoria"}]}
+{"index": [2794], "sub_label": "Iraq national handball team", "obj_uri": ["Q55387634"], "obj_label": [{"alternative": [], "rdf": "Iraq women's national handball team", "chosen": "Iraq women's national handball team"}]}
+{"index": [594], "sub_label": "Reformed Baptists", "obj_uri": ["Q5531727"], "obj_label": [{"alternative": [], "rdf": "General Baptists", "chosen": "General Baptists"}]}
+{"index": [1675], "sub_label": "democratic backsliding", "obj_uri": ["Q1064441"], "obj_label": [{"alternative": [], "rdf": "democratization", "chosen": "democratization"}]}
+{"index": [1322], "sub_label": "phosphorylation", "obj_uri": ["Q1101143"], "obj_label": [{"alternative": ["GO:0016311"], "rdf": "dephosphorylation", "chosen": "dephosphorylation"}]}
+{"index": [331], "sub_label": "alternative investment", "obj_uri": ["Q7832348"], "obj_label": [{"alternative": [], "rdf": "traditional investments", "chosen": "traditional investments"}]}
+{"index": [1038], "sub_label": "Whites", "obj_uri": ["Q2006649"], "obj_label": [{"alternative": [], "rdf": "Red Guards", "chosen": "Red Guards"}]}
+{"index": [160], "sub_label": "risk-seeking", "obj_uri": ["Q1426675"], "obj_label": [{"alternative": [], "rdf": "risk aversion", "chosen": "risk aversion"}]}
+{"index": [2457], "sub_label": "Labia stretching", "obj_uri": ["Q1789938"], "obj_label": [{"alternative": ["labioplasty", "labia minora reduction", "labial reduction"], "rdf": "labiaplasty", "chosen": "labiaplasty"}]}
+{"index": [1625], "sub_label": "positive economics", "obj_uri": ["Q26086"], "obj_label": [{"alternative": [], "rdf": "normative economics", "chosen": "normative economics"}]}
+{"index": [2162], "sub_label": "womance", "obj_uri": ["Q849985"], "obj_label": [{"alternative": [], "rdf": "bromance", "chosen": "bromance"}]}
+{"index": [2105], "sub_label": "magnetic scalar potential", "obj_uri": ["Q2299100"], "obj_label": [{"alternative": ["magnetic potential"], "rdf": "magnetic vector potential", "chosen": "magnetic vector potential"}]}
+{"index": [309], "sub_label": "women who have sex with women", "obj_uri": ["Q853451"], "obj_label": [{"alternative": ["MSM"], "rdf": "men who have sex with men", "chosen": "men who have sex with men"}]}
+{"index": [2327], "sub_label": "experimental physics", "obj_uri": ["Q373065"], "obj_label": [{"alternative": [], "rdf": "applied physics", "chosen": "applied physics"}]}
+{"index": [1772], "sub_label": "Old Earth creationism", "obj_uri": ["Q1074821"], "obj_label": [{"alternative": ["YEC"], "rdf": "Young Earth creationism", "chosen": "Young Earth creationism"}]}
+{"index": [833], "sub_label": "Downside risk", "obj_uri": ["Q16672850"], "obj_label": [{"alternative": [], "rdf": "upside risk", "chosen": "upside risk"}]}
+{"index": [1045], "sub_label": "transactional leadership", "obj_uri": ["Q1569376"], "obj_label": [{"alternative": [], "rdf": "transformational leadership", "chosen": "transformational leadership"}]}
+{"index": [1785], "sub_label": "Satellite Award for Best Actor \u2013 Motion Picture", "obj_uri": ["Q1371682"], "obj_label": [{"alternative": ["Satellite Award for Best Actress in a Motion Picture"], "rdf": "Satellite Award for Best Actress \u2013 Motion Picture", "chosen": "Satellite Award for Best Actress \u2013 Motion Picture"}]}
+{"index": [2024, 2556], "sub_label": "penis envy", "obj_uri": ["Q1735503", "Q3656213"], "obj_label": [{"alternative": [], "rdf": "castration anxiety", "chosen": "castration anxiety"}, {"alternative": ["womb envy", "vagina envy", "uterus envy"], "rdf": "womb and vagina envy", "chosen": "womb and vagina envy"}]}
+{"index": [1273], "sub_label": "endogamy", "obj_uri": ["Q182639"], "obj_label": [{"alternative": [], "rdf": "exogamy", "chosen": "exogamy"}]}
+{"index": [902], "sub_label": "deontological ethics", "obj_uri": ["Q646102"], "obj_label": [{"alternative": ["teleological ethics"], "rdf": "consequentialism", "chosen": "consequentialism"}]}
+{"index": [1698], "sub_label": "Guldbagge Award for Best Actress in a Leading Role", "obj_uri": ["Q1409022"], "obj_label": [{"alternative": [], "rdf": "Guldbagge Award for Best Actor in a Leading Role", "chosen": "Guldbagge Award for Best Actor in a Leading Role"}]}
+{"index": [910], "sub_label": "G\u03b4 set", "obj_uri": ["Q4392123"], "obj_label": [{"alternative": [], "rdf": "F\u03c3 set", "chosen": "F\u03c3 set"}]}
+{"index": [2789], "sub_label": "external rotor motor", "obj_uri": ["Q6036961"], "obj_label": [{"alternative": [], "rdf": "Inrunner", "chosen": "Inrunner"}]}
+{"index": [1693], "sub_label": "Rearing", "obj_uri": ["Q65088766"], "obj_label": [{"alternative": [], "rdf": "bucking", "chosen": "bucking"}]}
+{"index": [1284, 2714], "sub_label": "misandry", "obj_uri": ["Q308857", "Q25052050"], "obj_label": [{"alternative": [], "rdf": "misogyny", "chosen": "misogyny"}, {"alternative": [], "rdf": "philandry", "chosen": "philandry"}]}
+{"index": [51], "sub_label": "male organism", "obj_uri": ["Q43445"], "obj_label": [{"alternative": ["\u2640", "sex \u2014 female", "female", "female creature"], "rdf": "female organism", "chosen": "female organism"}]}
+{"index": [1306], "sub_label": "Dirac fermion", "obj_uri": ["Q1065883"], "obj_label": [{"alternative": ["Majorana particle"], "rdf": "Majorana fermion", "chosen": "Majorana fermion"}]}
+{"index": [1832], "sub_label": "adhocracy", "obj_uri": ["Q72468"], "obj_label": [{"alternative": [], "rdf": "bureaucracy", "chosen": "bureaucracy"}]}
+{"index": [690], "sub_label": "virtual reality", "obj_uri": ["Q1058876"], "obj_label": [{"alternative": ["IRL", "meatspace", "face time", "meat world", "RL", "face to face", "in person", "physical", "gathering", "away from keyboard", "afk", "offline life"], "rdf": "real life", "chosen": "real life"}]}
+{"index": [97], "sub_label": "consonant", "obj_uri": ["Q36244"], "obj_label": [{"alternative": ["vowel sound", "vocal sound"], "rdf": "vowel", "chosen": "vowel"}]}
+{"index": [1684], "sub_label": "heresy", "obj_uri": ["Q383258"], "obj_label": [{"alternative": [], "rdf": "orthodoxy", "chosen": "orthodoxy"}]}
+{"index": [2309], "sub_label": "Hong Kong Film Award for Best Supporting Actor", "obj_uri": ["Q5894572"], "obj_label": [{"alternative": [], "rdf": "Hong Kong Film Award for Best Supporting Actress", "chosen": "Hong Kong Film Award for Best Supporting Actress"}]}
+{"index": [2431], "sub_label": "supradialect", "obj_uri": ["Q8217193"], "obj_label": [{"alternative": [], "rdf": "subdialect", "chosen": "subdialect"}]}
+{"index": [1928], "sub_label": "situs inversus", "obj_uri": ["Q7532187"], "obj_label": [{"alternative": [], "rdf": "situs solitus", "chosen": "situs solitus"}]}
+{"index": [1956], "sub_label": "home video game console", "obj_uri": ["Q941818"], "obj_label": [{"alternative": ["portable game console", "handheld video game console", "portable video game console", "pocket game console", "pocket video game console", "handheld gaming console", "handheld video gaming console", "portable console", "portable gaming console", "portable video gaming console", "pocket console", "pocket video gaming console", "pocket gaming console", "handheld game device", "handheld game system", "handheld gaming device", "handheld gaming system"], "rdf": "handheld game console", "chosen": "handheld game console"}]}
+{"index": [2471], "sub_label": "left-wing terrorism", "obj_uri": ["Q1782463"], "obj_label": [{"alternative": ["far-right terrorism"], "rdf": "right-wing terrorism", "chosen": "right-wing terrorism"}]}
+{"index": [1818], "sub_label": "sequential algorithm", "obj_uri": ["Q1087987"], "obj_label": [{"alternative": [], "rdf": "parallel algorithm", "chosen": "parallel algorithm"}]}
+{"index": [196], "sub_label": "mental health", "obj_uri": ["Q12135"], "obj_label": [{"alternative": ["mental illness", "psychiatric disorder", "disease of mental health", "mental or behavioural disorder", "disorder of mental process", "psychiatric disease", "mental dysfunction", "psychiatric condition", "mental disorders", "obsolete mental disorder", "psychiatric morbidity", "mental morbidity", "mental health morbidity", "psychological disorder"], "rdf": "mental disorder", "chosen": "mental disorder"}]}
+{"index": [1986], "sub_label": "Muma P\u0103durii", "obj_uri": ["Q17027446"], "obj_label": [{"alternative": [], "rdf": "Z\u00e2n\u0103", "chosen": "Z\u00e2n\u0103"}]}
+{"index": [31], "sub_label": "AVN Award for Best Supporting Actress", "obj_uri": ["Q26185949"], "obj_label": [{"alternative": [], "rdf": "AVN Award for Best Supporting Actor", "chosen": "AVN Award for Best Supporting Actor"}]}
+{"index": [1871], "sub_label": "Spain men's national lacrosse team", "obj_uri": ["Q20827745"], "obj_label": [{"alternative": [], "rdf": "Spain women's national lacrosse team", "chosen": "Spain women's national lacrosse team"}]}
+{"index": [1457], "sub_label": "Dunya", "obj_uri": ["Q219228"], "obj_label": [{"alternative": ["Akhirat"], "rdf": "Akhirah", "chosen": "Akhirah"}]}
+{"index": [539], "sub_label": "destructive testing", "obj_uri": ["Q626700"], "obj_label": [{"alternative": ["NDT"], "rdf": "nondestructive testing", "chosen": "nondestructive testing"}]}
+{"index": [2435], "sub_label": "concision", "obj_uri": ["Q14942359"], "obj_label": [{"alternative": ["linguistic redundancy"], "rdf": "redundancy", "chosen": "redundancy"}]}
+{"index": [132], "sub_label": "sweet crude oil", "obj_uri": ["Q7565083"], "obj_label": [{"alternative": [], "rdf": "sour crude oil", "chosen": "sour crude oil"}]}
+{"index": [1666], "sub_label": "Leitkultur", "obj_uri": ["Q190656"], "obj_label": [{"alternative": [], "rdf": "multiculturalism", "chosen": "multiculturalism"}]}
+{"index": [1509], "sub_label": "permanent employment", "obj_uri": ["Q667944"], "obj_label": [{"alternative": ["temporary employment"], "rdf": "temporary work", "chosen": "temporary work"}]}
+{"index": [2836], "sub_label": "controlled airspace", "obj_uri": ["Q4118537"], "obj_label": [{"alternative": ["class F airspace", "class G airspace"], "rdf": "uncontrolled airspace", "chosen": "uncontrolled airspace"}]}
+{"index": [2117], "sub_label": "Bollywood Movie Award \u2013 Best Male Debut", "obj_uri": ["Q891479"], "obj_label": [{"alternative": [], "rdf": "Bollywood Movie Award \u2013 Best Female Debut", "chosen": "Bollywood Movie Award \u2013 Best Female Debut"}]}
+{"index": [750], "sub_label": "Norator", "obj_uri": ["Q1417005"], "obj_label": [{"alternative": [], "rdf": "Nullator", "chosen": "Nullator"}]}
+{"index": [1124], "sub_label": "Mudsill theory", "obj_uri": ["Q1346993"], "obj_label": [{"alternative": ["Free Soilers"], "rdf": "Free Soil Party", "chosen": "Free Soil Party"}]}
+{"index": [2829], "sub_label": "arms race", "obj_uri": ["Q331662"], "obj_label": [{"alternative": [], "rdf": "disarmament", "chosen": "disarmament"}]}
+{"index": [2469], "sub_label": "bad faith", "obj_uri": ["Q155736"], "obj_label": [{"alternative": ["bona fides"], "rdf": "good faith", "chosen": "good faith"}]}
+{"index": [2358], "sub_label": "Category:Embassies and high commissions of Lesotho", "obj_uri": ["Q6616424"], "obj_label": [{"alternative": [], "rdf": "list of diplomatic missions in Lesotho", "chosen": "list of diplomatic missions in Lesotho"}]}
+{"index": [711], "sub_label": "chromosome", "obj_uri": ["Q172778"], "obj_label": [{"alternative": ["plasmids"], "rdf": "plasmid", "chosen": "plasmid"}]}
+{"index": [61], "sub_label": "consanguinity", "obj_uri": ["Q954007"], "obj_label": [{"alternative": [], "rdf": "affinity", "chosen": "affinity"}]}
+{"index": [831], "sub_label": "sleep", "obj_uri": ["Q246710"], "obj_label": [{"alternative": [], "rdf": "wakefulness", "chosen": "wakefulness"}]}
+{"index": [578], "sub_label": "anisotropy", "obj_uri": ["Q273163"], "obj_label": [{"alternative": [], "rdf": "isotropy", "chosen": "isotropy"}]}
+{"index": [2293], "sub_label": "elitism", "obj_uri": ["Q180490"], "obj_label": [{"alternative": ["populist"], "rdf": "populism", "chosen": "populism"}]}
+{"index": [2553], "sub_label": "antibiosis", "obj_uri": ["Q121610"], "obj_label": [{"alternative": [], "rdf": "symbiosis", "chosen": "symbiosis"}]}
+{"index": [2654], "sub_label": "prompt neutron", "obj_uri": ["Q3044545"], "obj_label": [{"alternative": [], "rdf": "delayed neutron", "chosen": "delayed neutron"}]}
+{"index": [2705], "sub_label": "entropy", "obj_uri": ["Q252552"], "obj_label": [{"alternative": ["negative entropy"], "rdf": "negentropy", "chosen": "negentropy"}]}
+{"index": [685], "sub_label": "hypotension", "obj_uri": ["Q41861"], "obj_label": [{"alternative": ["high blood pressure", "\"the silent killer\"", "hypertension"], "rdf": "arterial hypertension", "chosen": "arterial hypertension"}]}
+{"index": [2796], "sub_label": "simultaneous game", "obj_uri": ["Q287618"], "obj_label": [{"alternative": ["dynamic game", "turn-based game"], "rdf": "sequential game", "chosen": "sequential game"}]}
+{"index": [566], "sub_label": "supervillain", "obj_uri": ["Q188784"], "obj_label": [{"alternative": ["super-hero", "super hero", "superheroine", "super-heroine", "super heroine", "professional hero"], "rdf": "superhero", "chosen": "superhero"}]}
+{"index": [1868], "sub_label": "red meat", "obj_uri": ["Q3315904"], "obj_label": [{"alternative": [], "rdf": "white meat", "chosen": "white meat"}]}
+{"index": [2310], "sub_label": "FAMAS Award for Best Actress", "obj_uri": ["Q2288991"], "obj_label": [{"alternative": [], "rdf": "FAMAS Award for Best Actor", "chosen": "FAMAS Award for Best Actor"}]}
+{"index": [1033], "sub_label": "open outcry", "obj_uri": ["Q778043"], "obj_label": [{"alternative": ["online trading platform", "electronic trading system", "electronic exchange"], "rdf": "electronic trading platform", "chosen": "electronic trading platform"}]}
+{"index": [740], "sub_label": "Golden Goblet Award for Best Actor", "obj_uri": ["Q4896567"], "obj_label": [{"alternative": ["Shanghai International Film Festival Award for Best Actress"], "rdf": "Golden Goblet Award for Best Actress", "chosen": "Golden Goblet Award for Best Actress"}]}
+{"index": [1945], "sub_label": "hypomagnesemia", "obj_uri": ["Q210697"], "obj_label": [{"alternative": [], "rdf": "hypermagnesemia", "chosen": "hypermagnesemia"}]}
+{"index": [194], "sub_label": "Jewish people", "obj_uri": ["Q252837"], "obj_label": [{"alternative": ["Gentile", "goy", "goyim", "non-Jew", "Gentilitas"], "rdf": "gentile", "chosen": "gentile"}]}
+{"index": [891], "sub_label": "sales", "obj_uri": ["Q1369832"], "obj_label": [{"alternative": ["purchase", "buy"], "rdf": "purchasing", "chosen": "purchasing"}]}
+{"index": [2596], "sub_label": "Genie Award for Outstanding Performance by an Actress", "obj_uri": ["Q5533180"], "obj_label": [{"alternative": [], "rdf": "Genie Award for Outstanding Performance by an Actor", "chosen": "Genie Award for Outstanding Performance by an Actor"}]}
+{"index": [93], "sub_label": "Laureus World Sports Award for Sportswoman of the Year", "obj_uri": ["Q1808301"], "obj_label": [{"alternative": [], "rdf": "Laureus World Sports Award for Sportsman of the Year", "chosen": "Laureus World Sports Award for Sportsman of the Year"}]}
+{"index": [2807], "sub_label": "Grand design spiral galaxy", "obj_uri": ["Q3272595"], "obj_label": [{"alternative": [], "rdf": "flocculent spiral galaxy", "chosen": "flocculent spiral galaxy"}]}
+{"index": [1256], "sub_label": "lateral consonant", "obj_uri": ["Q1851269"], "obj_label": [{"alternative": [], "rdf": "central consonant", "chosen": "central consonant"}]}
+{"index": [1796], "sub_label": "demand shock", "obj_uri": ["Q651685"], "obj_label": [{"alternative": [], "rdf": "supply shock", "chosen": "supply shock"}]}
+{"index": [2225], "sub_label": "hypothecated tax", "obj_uri": ["Q5163273"], "obj_label": [{"alternative": ["general fund"], "rdf": "Consolidated Fund", "chosen": "Consolidated Fund"}]}
+{"index": [448], "sub_label": "heir presumptive", "obj_uri": ["Q2762318"], "obj_label": [{"alternative": ["heiress apparent"], "rdf": "heir apparent", "chosen": "heir apparent"}]}
+{"index": [921], "sub_label": "neologism", "obj_uri": ["Q181970"], "obj_label": [{"alternative": ["obsolete term", "archaic", "archaic term", "archaic usage"], "rdf": "archaism", "chosen": "archaism"}]}
+{"index": [2380], "sub_label": "Labour Chief Whip", "obj_uri": ["Q5163029"], "obj_label": [{"alternative": [], "rdf": "Conservative Chief Whip", "chosen": "Conservative Chief Whip"}]}
+{"index": [2061], "sub_label": "oversampling", "obj_uri": ["Q1225894"], "obj_label": [{"alternative": [], "rdf": "undersampling", "chosen": "undersampling"}]}
+{"index": [178], "sub_label": "depolymerization", "obj_uri": ["Q181898"], "obj_label": [{"alternative": [], "rdf": "polymerization", "chosen": "polymerization"}]}
+{"index": [1261], "sub_label": "clericalism", "obj_uri": ["Q478004"], "obj_label": [{"alternative": ["anticlericalism"], "rdf": "anti-clericalism", "chosen": "anti-clericalism"}]}
+{"index": [1336], "sub_label": "indirect fire", "obj_uri": ["Q1097241"], "obj_label": [{"alternative": ["line-of-sight fire"], "rdf": "direct fire", "chosen": "direct fire"}]}
+{"index": [2676], "sub_label": "mental substance", "obj_uri": ["Q11834395"], "obj_label": [{"alternative": [], "rdf": "Res extensa", "chosen": "Res extensa"}]}
+{"index": [2644], "sub_label": "anticipation", "obj_uri": ["Q333173"], "obj_label": [{"alternative": ["wonder"], "rdf": "surprise", "chosen": "surprise"}]}
+{"index": [653], "sub_label": "breast augmentation", "obj_uri": ["Q994557"], "obj_label": [{"alternative": [], "rdf": "breast reduction", "chosen": "breast reduction"}]}
+{"index": [2091], "sub_label": "uniform", "obj_uri": ["Q10310064"], "obj_label": [{"alternative": ["plain clothes", "civies", "civvies", "plainclothes", "private clothes", "mufti"], "rdf": "civilian clothes", "chosen": "civilian clothes"}]}
+{"index": [1745], "sub_label": "back office", "obj_uri": ["Q1256565"], "obj_label": [{"alternative": [], "rdf": "Front office", "chosen": "Front office"}]}
+{"index": [2263], "sub_label": "2020\u201321 Oregon Ducks women's basketball team", "obj_uri": ["Q104876356"], "obj_label": [{"alternative": [], "rdf": "2020\u201321 Oregon Ducks men's basketball team", "chosen": "2020\u201321 Oregon Ducks men's basketball team"}]}
+{"index": [1289], "sub_label": "field-effect transistor", "obj_uri": ["Q188946"], "obj_label": [{"alternative": ["BJT", "bipolar transistor"], "rdf": "bipolar junction transistor", "chosen": "bipolar junction transistor"}]}
+{"index": [349], "sub_label": "phloem", "obj_uri": ["Q122811"], "obj_label": [{"alternative": [], "rdf": "xylem", "chosen": "xylem"}]}
+{"index": [1335], "sub_label": "Economic growth", "obj_uri": ["Q611217"], "obj_label": [{"alternative": [], "rdf": "degrowth", "chosen": "degrowth"}]}
+{"index": [2009], "sub_label": "nationalism", "obj_uri": ["Q188843"], "obj_label": [{"alternative": [], "rdf": "cosmopolitanism", "chosen": "cosmopolitanism"}]}
+{"index": [2684], "sub_label": "BFJA Awards for Best Actress", "obj_uri": ["Q4835526"], "obj_label": [{"alternative": [], "rdf": "BFJA Awards for Best Actor", "chosen": "BFJA Awards for Best Actor"}]}
+{"index": [423], "sub_label": "good faith", "obj_uri": ["Q2706138"], "obj_label": [{"alternative": ["Mala fides"], "rdf": "bad faith", "chosen": "bad faith"}]}
+{"index": [39], "sub_label": "upper house", "obj_uri": ["Q375928"], "obj_label": [{"alternative": ["lower c", "lowuses", "lowhambers"], "rdf": "lower house", "chosen": "lower house"}]}
+{"index": [2104], "sub_label": "Mu'min", "obj_uri": ["Q629608"], "obj_label": [{"alternative": [], "rdf": "kafir", "chosen": "kafir"}]}
+{"index": [870], "sub_label": "arianism", "obj_uri": ["Q37090"], "obj_label": [{"alternative": ["Holy Trinity", "Father, Son, Holy Ghost", "the Father, the Son, and the Holy Ghost", "Father, Son, Holy Spirit", "the Father, the Son, and the Holy Spirit", "Christian Trinity", "Trinitarian God"], "rdf": "Trinity", "chosen": "Trinity"}]}
+{"index": [1183], "sub_label": "stator", "obj_uri": ["Q193466"], "obj_label": [{"alternative": ["electric motor rotor", "blades", "fan blades"], "rdf": "rotor", "chosen": "rotor"}]}
+{"index": [2855], "sub_label": "psyche", "obj_uri": ["Q1248453"], "obj_label": [{"alternative": ["Physis"], "rdf": "physis", "chosen": "physis"}]}
+{"index": [1057], "sub_label": "Southern Court", "obj_uri": ["Q1201819"], "obj_label": [{"alternative": ["Hokuch\u014d"], "rdf": "Northern Court", "chosen": "Northern Court"}]}
+{"index": [1385], "sub_label": "majo / maja", "obj_uri": ["Q5466622"], "obj_label": [{"alternative": [], "rdf": "Fop", "chosen": "Fop"}]}
+{"index": [1935], "sub_label": "data erasure", "obj_uri": ["Q1054772"], "obj_label": [{"alternative": ["hard drive recovery", "recovery"], "rdf": "data recovery", "chosen": "data recovery"}]}
+{"index": [78], "sub_label": "pain", "obj_uri": ["Q208195"], "obj_label": [{"alternative": [], "rdf": "pleasure", "chosen": "pleasure"}]}
+{"index": [1190], "sub_label": "non-sampling error", "obj_uri": ["Q3306280"], "obj_label": [{"alternative": [], "rdf": "sampling error", "chosen": "sampling error"}]}
+{"index": [632], "sub_label": "passive voice", "obj_uri": ["Q1317831"], "obj_label": [{"alternative": ["active verb form", "active conjugation"], "rdf": "active voice", "chosen": "active voice"}]}
+{"index": [1255], "sub_label": "Aphrodite Pandemos", "obj_uri": ["Q423622"], "obj_label": [{"alternative": ["Heavenly Aphrodite", "Aphrodite Ourania", "Ourania Aphrodite"], "rdf": "Aphrodite Urania", "chosen": "Aphrodite Urania"}]}
+{"index": [582], "sub_label": "capitalism", "obj_uri": ["Q389647"], "obj_label": [{"alternative": ["opposition to capitalism", "antikapitalismus"], "rdf": "anti-capitalism", "chosen": "anti-capitalism"}]}
+{"index": [2454], "sub_label": "uni-directional vehicle", "obj_uri": ["Q233063"], "obj_label": [{"alternative": [], "rdf": "bi-directional vehicle", "chosen": "bi-directional vehicle"}]}
+{"index": [2587], "sub_label": "Hypomenorrhea", "obj_uri": ["Q1494682"], "obj_label": [{"alternative": ["heavy menstrual bleeding"], "rdf": "menorrhagia", "chosen": "menorrhagia"}]}
+{"index": [1866], "sub_label": "Turkish Women's Volleyball Super Cup", "obj_uri": ["Q371353"], "obj_label": [{"alternative": [], "rdf": "Turkish Men's Volleyball Super Cup", "chosen": "Turkish Men's Volleyball Super Cup"}]}
+{"index": [2665], "sub_label": "index term", "obj_uri": ["Q80735"], "obj_label": [{"alternative": ["stop words"], "rdf": "stop word", "chosen": "stop word"}]}
+{"index": [679], "sub_label": "data re-identification", "obj_uri": ["Q5243821"], "obj_label": [{"alternative": [], "rdf": "de-identification", "chosen": "de-identification"}]}
+{"index": [255], "sub_label": "insanity", "obj_uri": ["Q2915214"], "obj_label": [{"alternative": ["sane"], "rdf": "sanity", "chosen": "sanity"}]}
+{"index": [794], "sub_label": "artificial selection", "obj_uri": ["Q43478"], "obj_label": [{"alternative": [], "rdf": "natural selection", "chosen": "natural selection"}]}
+{"index": [1464], "sub_label": "point-to-multipoint communication", "obj_uri": ["Q681349"], "obj_label": [{"alternative": ["point-to-point connection"], "rdf": "point-to-point", "chosen": "point-to-point"}]}
+{"index": [800], "sub_label": "subjectivity", "obj_uri": ["Q206330"], "obj_label": [{"alternative": ["objective"], "rdf": "objectivity", "chosen": "objectivity"}]}
+{"index": [2432], "sub_label": "landmass", "obj_uri": ["Q15324"], "obj_label": [{"alternative": ["bodies of water", "waterbody", "water body"], "rdf": "body of water", "chosen": "body of water"}]}
+{"index": [1402], "sub_label": "idealism", "obj_uri": ["Q7081"], "obj_label": [{"alternative": ["Physicalism"], "rdf": "materialism", "chosen": "materialism"}]}
+{"index": [2173], "sub_label": "femme", "obj_uri": ["Q30072520"], "obj_label": [{"alternative": ["stud"], "rdf": "butch", "chosen": "butch"}]}
+{"index": [116, 538], "sub_label": "hell", "obj_uri": ["Q3363340", "Q4489450"], "obj_label": [{"alternative": [], "rdf": "paradise", "chosen": "paradise"}, {"alternative": [], "rdf": "heaven", "chosen": "heaven"}]}
+{"index": [1819], "sub_label": "politeness", "obj_uri": ["Q4122037"], "obj_label": [{"alternative": ["effrontery", "disrespect"], "rdf": "rudeness", "chosen": "rudeness"}]}
+{"index": [1809], "sub_label": "inculpatory evidence", "obj_uri": ["Q5419722"], "obj_label": [{"alternative": [], "rdf": "exculpatory evidence", "chosen": "exculpatory evidence"}]}
+{"index": [907], "sub_label": "linguistic description", "obj_uri": ["Q1321978"], "obj_label": [{"alternative": ["linguistic prescriptivism", "prescriptivism"], "rdf": "linguistic prescription", "chosen": "linguistic prescription"}]}
+{"index": [948], "sub_label": "Eastern Hemisphere", "obj_uri": ["Q181982"], "obj_label": [{"alternative": [], "rdf": "Western Hemisphere", "chosen": "Western Hemisphere"}]}
+{"index": [72], "sub_label": "single-player video game", "obj_uri": ["Q6895044"], "obj_label": [{"alternative": ["multiplayer mode", "multiplayer"], "rdf": "multiplayer video game", "chosen": "multiplayer video game"}]}
+{"index": [1497], "sub_label": "United States women's national basketball team", "obj_uri": ["Q244847"], "obj_label": [{"alternative": [], "rdf": "United States men's national basketball team", "chosen": "United States men's national basketball team"}]}
+{"index": [663], "sub_label": "Oxidative addition", "obj_uri": ["Q25325213"], "obj_label": [{"alternative": [], "rdf": "Reductive elimination", "chosen": "Reductive elimination"}]}
+{"index": [2278], "sub_label": "pintle", "obj_uri": ["Q17143905"], "obj_label": [{"alternative": [], "rdf": "gudgeon", "chosen": "gudgeon"}]}
+{"index": [1127], "sub_label": "gender binary", "obj_uri": ["Q48270"], "obj_label": [{"alternative": ["gender non-conforming", "gender non-binary", "enby", "GQ", "NB", "nonbinary", "GNC", "gender nonconforming", "non-binary gender", "other", "non-binarity"], "rdf": "non-binary", "chosen": "non-binary"}]}
+{"index": [546], "sub_label": "South Magnetic Pole", "obj_uri": ["Q842763"], "obj_label": [{"alternative": ["Magnetic North Pole", "magnetic North", "magnetic bearing", "Earth's North Magnetic Pole", "north magnetic dip pole"], "rdf": "North Magnetic Pole", "chosen": "North Magnetic Pole"}]}
+{"index": [1639], "sub_label": "body force", "obj_uri": ["Q2009590"], "obj_label": [{"alternative": [], "rdf": "surface force", "chosen": "surface force"}]}
+{"index": [933], "sub_label": "clique", "obj_uri": ["Q1060343"], "obj_label": [{"alternative": ["stable set", "coclique", "anticlique", "independent vertex set"], "rdf": "independent set", "chosen": "independent set"}]}
+{"index": [102], "sub_label": "closing credits", "obj_uri": ["Q635115"], "obj_label": [{"alternative": [], "rdf": "opening credits", "chosen": "opening credits"}]}
+{"index": [202], "sub_label": "trailing edge", "obj_uri": ["Q1754137"], "obj_label": [{"alternative": [], "rdf": "leading edge", "chosen": "leading edge"}]}
+{"index": [2597], "sub_label": "Parinirvana Day", "obj_uri": ["Q5348941"], "obj_label": [{"alternative": [], "rdf": "Buddha's birthday", "chosen": "Buddha's birthday"}]}
+{"index": [808], "sub_label": "Platino Award for Best Actor", "obj_uri": ["Q50807457"], "obj_label": [{"alternative": [], "rdf": "Platino Award for Best Actress", "chosen": "Platino Award for Best Actress"}]}
+{"index": [1514], "sub_label": "white box", "obj_uri": ["Q29256"], "obj_label": [{"alternative": [], "rdf": "black box", "chosen": "black box"}]}
+{"index": [1751], "sub_label": "feedforward neural network", "obj_uri": ["Q1457734"], "obj_label": [{"alternative": ["RNN"], "rdf": "recurrent neural network", "chosen": "recurrent neural network"}]}
+{"index": [1616], "sub_label": "descent", "obj_uri": ["Q1499786"], "obj_label": [{"alternative": [], "rdf": "climb", "chosen": "climb"}]}
+{"index": [540], "sub_label": "nondestructive testing", "obj_uri": ["Q2011881"], "obj_label": [{"alternative": ["destructive physical analysis"], "rdf": "destructive testing", "chosen": "destructive testing"}]}
+{"index": [288], "sub_label": "computer hardware", "obj_uri": ["Q7397"], "obj_label": [{"alternative": ["computer software", "computational tool"], "rdf": "software", "chosen": "software"}]}
+{"index": [356], "sub_label": "tacit knowledge", "obj_uri": ["Q1323686"], "obj_label": [{"alternative": [], "rdf": "explicit knowledge", "chosen": "explicit knowledge"}]}
+{"index": [1766], "sub_label": "civil decoration", "obj_uri": ["Q1788716"], "obj_label": [{"alternative": ["Military awards and decorations", "military award", "military order"], "rdf": "military decoration", "chosen": "military decoration"}]}
+{"index": [2826], "sub_label": "art music", "obj_uri": ["Q28453837"], "obj_label": [{"alternative": [], "rdf": "vernacular music", "chosen": "vernacular music"}]}
+{"index": [811], "sub_label": "text-based user interface", "obj_uri": ["Q782543"], "obj_label": [{"alternative": ["GUI"], "rdf": "graphical user interface", "chosen": "graphical user interface"}]}
+{"index": [691], "sub_label": "Lamarckism", "obj_uri": ["Q183493"], "obj_label": [{"alternative": ["Darwinian evolution", "Darwin's theory", "Darwin's theory of evolution", "evolution by natural selection", "Darwinian theory"], "rdf": "Darwinism", "chosen": "Darwinism"}]}
+{"index": [1408], "sub_label": "upper gastrointestinal bleeding", "obj_uri": ["Q2915863"], "obj_label": [{"alternative": ["lower gastrointestinal hemorrhage", "intestinal hemorrhage"], "rdf": "lower gastrointestinal bleeding", "chosen": "lower gastrointestinal bleeding"}]}
+{"index": [661], "sub_label": "electron donor", "obj_uri": ["Q1231592"], "obj_label": [{"alternative": ["Terminal electron acceptor", "terminal electron acceptor"], "rdf": "electron acceptor", "chosen": "electron acceptor"}]}
+{"index": [256], "sub_label": "molecule", "obj_uri": ["Q36496"], "obj_label": [{"alternative": [], "rdf": "ion", "chosen": "ion"}]}
+{"index": [234], "sub_label": "running rigging", "obj_uri": ["Q1334055"], "obj_label": [{"alternative": [], "rdf": "standing rigging", "chosen": "standing rigging"}]}
+{"index": [1971], "sub_label": "generalization", "obj_uri": ["Q2890061"], "obj_label": [{"alternative": ["exceptional case", "exception"], "rdf": "special case", "chosen": "special case"}]}
+{"index": [2738], "sub_label": "civil flag", "obj_uri": ["Q3235956"], "obj_label": [{"alternative": ["government flag"], "rdf": "state flag", "chosen": "state flag"}]}
+{"index": [140], "sub_label": "intransitive verb", "obj_uri": ["Q1774805"], "obj_label": [{"alternative": [], "rdf": "transitive verb", "chosen": "transitive verb"}]}
+{"index": [1820], "sub_label": "vaporization", "obj_uri": ["Q166583"], "obj_label": [{"alternative": [], "rdf": "condensation", "chosen": "condensation"}]}
+{"index": [2606], "sub_label": "Zee Cine Award for Best Male Debut", "obj_uri": ["Q2603323"], "obj_label": [{"alternative": [], "rdf": "Zee Cine Award for Best Female Debut", "chosen": "Zee Cine Award for Best Female Debut"}]}
+{"index": [1607], "sub_label": "anti-statism", "obj_uri": ["Q322294"], "obj_label": [{"alternative": [], "rdf": "statism", "chosen": "statism"}]}
+{"index": [1234], "sub_label": "anti-racism", "obj_uri": ["Q8461"], "obj_label": [{"alternative": ["fear of social diversification", "ethnic discrimination"], "rdf": "racism", "chosen": "racism"}]}
+{"index": [474], "sub_label": "hemostasis", "obj_uri": ["Q166019"], "obj_label": [{"alternative": ["hemorrage", "hemorrhaging", "hemorrhage", "loss of blood", "blood loss", "excessive blood loss"], "rdf": "bleeding", "chosen": "bleeding"}]}
+{"index": [2304], "sub_label": "equation", "obj_uri": ["Q165309"], "obj_label": [{"alternative": ["larger than", "smaller than", "inequality"], "rdf": "inequation", "chosen": "inequation"}]}
+{"index": [20], "sub_label": "antagonist", "obj_uri": ["Q389934"], "obj_label": [{"alternative": [], "rdf": "agonist", "chosen": "agonist"}]}
+{"index": [1263], "sub_label": "photopic vision", "obj_uri": ["Q2343133"], "obj_label": [{"alternative": [], "rdf": "scotopic vision", "chosen": "scotopic vision"}]}
+{"index": [549], "sub_label": "blunt trauma", "obj_uri": ["Q7162621"], "obj_label": [{"alternative": ["penetrating wound", "penetrating injury", "Wounds, Penetrating", "penetrating wounds"], "rdf": "penetrating trauma", "chosen": "penetrating trauma"}]}
+{"index": [1825], "sub_label": "deposition", "obj_uri": ["Q131800"], "obj_label": [{"alternative": [], "rdf": "sublimation", "chosen": "sublimation"}]}
+{"index": [1113], "sub_label": "non-RAID drive architecture", "obj_uri": ["Q179299"], "obj_label": [{"alternative": ["Redundant Array of Inexpensive Disks", "RAID array", "Redundant Array of Independent Disks"], "rdf": "RAID", "chosen": "RAID"}]}
+{"index": [748], "sub_label": "inverter", "obj_uri": ["Q171486"], "obj_label": [{"alternative": ["one-way conductor"], "rdf": "rectifier", "chosen": "rectifier"}]}
+{"index": [1771], "sub_label": "Young Earth creationism", "obj_uri": ["Q1203436"], "obj_label": [{"alternative": [], "rdf": "Old Earth creationism", "chosen": "Old Earth creationism"}]}
+{"index": [1719], "sub_label": "platypnea", "obj_uri": ["Q783955"], "obj_label": [{"alternative": [], "rdf": "orthopnea", "chosen": "orthopnea"}]}
+{"index": [2760], "sub_label": "allocentrism", "obj_uri": ["Q463910"], "obj_label": [{"alternative": [], "rdf": "egocentrism", "chosen": "egocentrism"}]}
+{"index": [1687], "sub_label": "spore", "obj_uri": ["Q211050"], "obj_label": [{"alternative": [], "rdf": "gamete", "chosen": "gamete"}]}
+{"index": [2429], "sub_label": "Cross-sectional study", "obj_uri": ["Q1758614"], "obj_label": [{"alternative": ["longitudinal studies", "longitudinal survey", "panel study"], "rdf": "longitudinal study", "chosen": "longitudinal study"}]}

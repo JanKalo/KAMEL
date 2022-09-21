@@ -1,0 +1,200 @@
+{"index": [1352], "sub_label": "YADIFA", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [700], "sub_label": "Samba", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1394], "sub_label": "Apache Pig", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1817], "sub_label": "Apache Bloodhound", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [783], "sub_label": "Numba", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1671, 1672, 1673], "sub_label": "Diffpack", "obj_uri": ["Q2407", "Q42478", "Q28865"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}, {"alternative": ["Practical Extraction and Reporting Language", "Perl/CGI", "Pearl", "perl"], "rdf": "Perl", "chosen": "Perl"}, {"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1951], "sub_label": "NATS", "obj_uri": ["Q37227"], "obj_label": [{"alternative": ["golang", "Google Go", "Go programming language"], "rdf": "Go", "chosen": "Go"}]}
+{"index": [81], "sub_label": "JIRA Studio", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [773], "sub_label": "rnn", "obj_uri": ["Q206904"], "obj_label": [{"alternative": ["GNU R", "GNU S", "The R Project for Statistical Computing", "R language"], "rdf": "R", "chosen": "R"}]}
+{"index": [1776], "sub_label": "SerenityOS", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1503], "sub_label": "Cray Time Sharing System", "obj_uri": ["Q83303"], "obj_label": [{"alternative": ["FORTRAN"], "rdf": "Fortran", "chosen": "Fortran"}]}
+{"index": [2039], "sub_label": "ApexKB", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [195], "sub_label": "JBoss Enterprise Application Platform", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [156], "sub_label": "Security Administrator Tool for Analyzing Networks", "obj_uri": ["Q42478"], "obj_label": [{"alternative": ["Practical Extraction and Reporting Language", "Perl/CGI", "Pearl", "perl"], "rdf": "Perl", "chosen": "Perl"}]}
+{"index": [1241], "sub_label": "WhatsApp", "obj_uri": ["Q334879"], "obj_label": [{"alternative": ["erlang"], "rdf": "Erlang", "chosen": "Erlang"}]}
+{"index": [1419], "sub_label": "RT-11", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [552], "sub_label": "Neatx", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1459], "sub_label": "UMLet", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [413], "sub_label": "PHP-GTK", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1208], "sub_label": "Protein Local Optimization Program", "obj_uri": ["Q83303"], "obj_label": [{"alternative": ["FORTRAN"], "rdf": "Fortran", "chosen": "Fortran"}]}
+{"index": [2082], "sub_label": "DOS Wedge", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [821], "sub_label": "JWM", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [458, 793], "sub_label": "MySQL", "obj_uri": ["Q2407", "Q15777"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [2049], "sub_label": "PySide", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [543], "sub_label": "Docker", "obj_uri": ["Q37227"], "obj_label": [{"alternative": ["golang", "Google Go", "Go programming language"], "rdf": "Go", "chosen": "Go"}]}
+{"index": [1085], "sub_label": "SFML", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2065], "sub_label": "Apache Jena", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1716], "sub_label": "ZBar", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1903, 1904], "sub_label": "PyScripter", "obj_uri": ["Q28865", "Q633894"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}, {"alternative": [], "rdf": "Object Pascal", "chosen": "Object Pascal"}]}
+{"index": [263], "sub_label": "Babylon.js", "obj_uri": ["Q978185"], "obj_label": [{"alternative": ["TS", ".ts"], "rdf": "TypeScript", "chosen": "TypeScript"}]}
+{"index": [35, 72, 1467], "sub_label": "Microsoft Windows", "obj_uri": ["Q2407", "Q15777", "Q165436"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [358], "sub_label": "The Master Genealogist", "obj_uri": ["Q753868"], "obj_label": [{"alternative": [], "rdf": "Visual FoxPro", "chosen": "Visual FoxPro"}]}
+{"index": [1457], "sub_label": "Telix", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1783], "sub_label": "Object Windows Library", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [106], "sub_label": "Korn shell", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [787, 788], "sub_label": "Apache CouchDB", "obj_uri": ["Q334879", "Q2005"], "obj_label": [{"alternative": ["erlang"], "rdf": "Erlang", "chosen": "Erlang"}, {"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [1433], "sub_label": "GetSimple CMS", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1040], "sub_label": "PyMOL", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1735], "sub_label": "Racket", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [870, 871], "sub_label": "GnuCash", "obj_uri": ["Q15777", "Q187560"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["Scheme (programming language)"], "rdf": "Scheme", "chosen": "Scheme"}]}
+{"index": [133], "sub_label": "GNAT Programming Studio", "obj_uri": ["Q154755"], "obj_label": [{"alternative": ["MIL-STD-1815", "ISO/IEC 8652"], "rdf": "Ada", "chosen": "Ada"}]}
+{"index": [718], "sub_label": "FlatBuffers", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [616], "sub_label": "Apache Wicket", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1639], "sub_label": "QUnit", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [386], "sub_label": "ZNC", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1384], "sub_label": "libevent", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [107], "sub_label": "GTK", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [665], "sub_label": "C++/WinRT", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [841], "sub_label": "The Powder Toy", "obj_uri": ["Q207316"], "obj_label": [{"alternative": [], "rdf": "Lua", "chosen": "Lua"}]}
+{"index": [2109], "sub_label": "WinRoll", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [323, 324], "sub_label": "Tarantool", "obj_uri": ["Q207316", "Q15777"], "obj_label": [{"alternative": [], "rdf": "Lua", "chosen": "Lua"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1215], "sub_label": "MODTRAN", "obj_uri": ["Q83303"], "obj_label": [{"alternative": ["FORTRAN"], "rdf": "Fortran", "chosen": "Fortran"}]}
+{"index": [2211], "sub_label": "HDOS", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [76, 1212], "sub_label": "TensorFlow", "obj_uri": ["Q28865", "Q2407"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}, {"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1041], "sub_label": "OCS Inventory", "obj_uri": ["Q42478"], "obj_label": [{"alternative": ["Practical Extraction and Reporting Language", "Perl/CGI", "Pearl", "perl"], "rdf": "Perl", "chosen": "Perl"}]}
+{"index": [1535], "sub_label": "BRP-PACU", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [2017], "sub_label": "GNOME Dictionary", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [83], "sub_label": "NoScript", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [522], "sub_label": "phpMyAdmin", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [537], "sub_label": "FastContact", "obj_uri": ["Q83303"], "obj_label": [{"alternative": ["FORTRAN"], "rdf": "Fortran", "chosen": "Fortran"}]}
+{"index": [17], "sub_label": "Newton OS", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2207], "sub_label": "SoftICE", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [1013], "sub_label": "Microsoft Office", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [511], "sub_label": "Adobe Flash", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [111], "sub_label": "Planet", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1367], "sub_label": "MemSQL", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [925], "sub_label": "X Toolkit Intrinsics", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1361], "sub_label": "JACK Intelligent Agents", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1221], "sub_label": "Tao Framework", "obj_uri": ["Q2370"], "obj_label": [{"alternative": ["C-Sharp", "CSharp", "C Sharp", "C\u266f"], "rdf": "C#", "chosen": "C#"}]}
+{"index": [2135, 2136], "sub_label": "BrowserQuest", "obj_uri": ["Q2053", "Q756100"], "obj_label": [{"alternative": ["HTML 5"], "rdf": "HTML5", "chosen": "HTML5"}, {"alternative": ["Node", "NodeJS"], "rdf": "Node.js", "chosen": "Node.js"}]}
+{"index": [1759], "sub_label": "Family.Show", "obj_uri": ["Q2370"], "obj_label": [{"alternative": ["C-Sharp", "CSharp", "C Sharp", "C\u266f"], "rdf": "C#", "chosen": "C#"}]}
+{"index": [440], "sub_label": "IPython", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [178], "sub_label": "GLib", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [566, 1633], "sub_label": "Play Framework", "obj_uri": ["Q460584", "Q251"], "obj_label": [{"alternative": ["Scala programming language"], "rdf": "Scala", "chosen": "Scala"}, {"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [2133], "sub_label": "Pure Data", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1828], "sub_label": "sbt", "obj_uri": ["Q460584"], "obj_label": [{"alternative": ["Scala programming language"], "rdf": "Scala", "chosen": "Scala"}]}
+{"index": [1112], "sub_label": "PyObjC", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [2021], "sub_label": "Winny", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1243], "sub_label": "PARI/GP", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1174], "sub_label": "Lodash", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [1683], "sub_label": "Unit.js", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [1531], "sub_label": "WeScheme", "obj_uri": ["Q187560"], "obj_label": [{"alternative": ["Scheme (programming language)"], "rdf": "Scheme", "chosen": "Scheme"}]}
+{"index": [301], "sub_label": "DenyHosts", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1388], "sub_label": "JRipples", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [950, 951], "sub_label": "Geany", "obj_uri": ["Q15777", "Q2407"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1666], "sub_label": "Sysinfo", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [187], "sub_label": "Cocoa", "obj_uri": ["Q188531"], "obj_label": [{"alternative": ["Obj-C", "ObjC"], "rdf": "Objective-C", "chosen": "Objective-C"}]}
+{"index": [526], "sub_label": "Unicorn", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [210, 211], "sub_label": "MemTest86", "obj_uri": ["Q15777", "Q165436"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [1079], "sub_label": "NetBeans", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [2064], "sub_label": "Crazy Eddie's GUI", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [39], "sub_label": "BZFlag", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2062], "sub_label": "Spread Toolkit", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [422], "sub_label": "Inferno", "obj_uri": ["Q544927"], "obj_label": [{"alternative": [], "rdf": "Limbo", "chosen": "Limbo"}]}
+{"index": [1490], "sub_label": "Pharo", "obj_uri": ["Q235086"], "obj_label": [{"alternative": [], "rdf": "Smalltalk", "chosen": "Smalltalk"}]}
+{"index": [911, 1734], "sub_label": "Coq", "obj_uri": ["Q212587", "Q15777"], "obj_label": [{"alternative": [], "rdf": "OCaml", "chosen": "OCaml"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1991], "sub_label": "Biskit", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1288], "sub_label": "HTCondor", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [989], "sub_label": "Ghemical", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [136, 437], "sub_label": "Unix", "obj_uri": ["Q15777", "Q165436"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [998], "sub_label": "Tigase", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [416], "sub_label": "Modelio", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [857], "sub_label": "Javolution", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1935], "sub_label": "GNU Solfege", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [55], "sub_label": "Colobot", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1977], "sub_label": "GitLab", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [1411], "sub_label": "NanoSat MO Framework", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [21], "sub_label": "OpenCV", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [711, 712, 713, 1614], "sub_label": "Apache Avro", "obj_uri": ["Q251", "Q15777", "Q2407", "Q2370"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}, {"alternative": ["C-Sharp", "CSharp", "C Sharp", "C\u266f"], "rdf": "C#", "chosen": "C#"}]}
+{"index": [266, 1799], "sub_label": "MediaWiki", "obj_uri": ["Q59", "Q2005"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}, {"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [459], "sub_label": "Natural Docs", "obj_uri": ["Q2370"], "obj_label": [{"alternative": ["C-Sharp", "CSharp", "C Sharp", "C\u266f"], "rdf": "C#", "chosen": "C#"}]}
+{"index": [1650], "sub_label": "Bochs", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [289], "sub_label": "Standard Template Library", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [949], "sub_label": "ICL VME", "obj_uri": ["Q7388288"], "obj_label": [{"alternative": [], "rdf": "S3", "chosen": "S3"}]}
+{"index": [1926, 1927], "sub_label": "INTLAB", "obj_uri": ["Q169478", "Q223679"], "obj_label": [{"alternative": ["MATrix LABoratory", "MatLab"], "rdf": "MATLAB", "chosen": "MATLAB"}, {"alternative": ["OCTAVE"], "rdf": "GNU Octave", "chosen": "GNU Octave"}]}
+{"index": [430], "sub_label": "Music Construction Set", "obj_uri": ["Q165436"], "obj_label": [{"alternative": ["asm", "assembly", "assembly code", "assembler language"], "rdf": "assembly language", "chosen": "assembly language"}]}
+{"index": [893, 894], "sub_label": "Katalon Studio", "obj_uri": ["Q251", "Q504453"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}, {"alternative": ["Apache Groovy"], "rdf": "Groovy", "chosen": "Groovy"}]}
+{"index": [109], "sub_label": "StormCrawler", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1077], "sub_label": "JBuilder", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [309, 310], "sub_label": "Mupen64Plus", "obj_uri": ["Q15777", "Q2407"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [856], "sub_label": "Jmol", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [687], "sub_label": "OpenTMS", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [2114], "sub_label": "greecProject Looking Glass", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1379], "sub_label": "OpenQwaq", "obj_uri": ["Q762464"], "obj_label": [{"alternative": [], "rdf": "Squeak", "chosen": "Squeak"}]}
+{"index": [1702], "sub_label": "ThingSpeak", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [1010], "sub_label": "PostgreSQL", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1493], "sub_label": "Mapnik", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [653], "sub_label": "PUPS P3", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1039], "sub_label": "General Problem Solver", "obj_uri": ["Q776372"], "obj_label": [{"alternative": ["IPL"], "rdf": "Information Processing Language", "chosen": "Information Processing Language"}]}
+{"index": [820], "sub_label": "Qoca", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1610], "sub_label": "Apache Click", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1374], "sub_label": "StarOffice", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1537, 1538], "sub_label": "FFTW", "obj_uri": ["Q15777", "Q212587"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": [], "rdf": "OCaml", "chosen": "OCaml"}]}
+{"index": [1586], "sub_label": "BleachBit", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [420], "sub_label": "Class Library for Numbers", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2025], "sub_label": "GNU Fortran", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1840], "sub_label": "Sonic Pi", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [1713], "sub_label": "Tulip", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1008], "sub_label": "Jakarta Cactus", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [587], "sub_label": "TiddlyWiki", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [1529], "sub_label": "OfflineIMAP", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1852], "sub_label": "Payara Server", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [851], "sub_label": "OSGi", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1060], "sub_label": "Viaweb", "obj_uri": ["Q132874"], "obj_label": [{"alternative": ["(LISt Processor", "ListProcessor )(program language)", "SP", "/16", "IS 30)12"], "rdf": "Lisp", "chosen": "Lisp"}]}
+{"index": [692], "sub_label": "Browserify", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [2137], "sub_label": "MapServer", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [306], "sub_label": "ARPACK", "obj_uri": ["Q83303"], "obj_label": [{"alternative": ["FORTRAN"], "rdf": "Fortran", "chosen": "Fortran"}]}
+{"index": [2201, 2202], "sub_label": "Mapbender", "obj_uri": ["Q59", "Q2005"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}, {"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [914], "sub_label": "Sintel The Game", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1366], "sub_label": "NitrosBase", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1992], "sub_label": "MPLAB", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1775], "sub_label": "ZeroNet", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1803], "sub_label": "FUDforum", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [2115], "sub_label": "MacApp", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [41], "sub_label": "Matplotlib", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1733], "sub_label": "CHICKEN", "obj_uri": ["Q187560"], "obj_label": [{"alternative": ["Scheme (programming language)"], "rdf": "Scheme", "chosen": "Scheme"}]}
+{"index": [1679], "sub_label": "Serverless Framework", "obj_uri": ["Q756100"], "obj_label": [{"alternative": ["Node", "NodeJS"], "rdf": "Node.js", "chosen": "Node.js"}]}
+{"index": [332], "sub_label": "Nanoc", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [1554], "sub_label": "Classic Shell", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [1986], "sub_label": "Oxygen XML Editor", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1964], "sub_label": "Vanilla Forums", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [115], "sub_label": "ClipGrab", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [595], "sub_label": "PHProjekt", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1871], "sub_label": "OCRFeeder", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [222], "sub_label": "Swing", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1358], "sub_label": "HotRuby", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [346], "sub_label": "GBBS", "obj_uri": ["Q621556"], "obj_label": [{"alternative": [], "rdf": "Applesoft BASIC", "chosen": "Applesoft BASIC"}]}
+{"index": [1841], "sub_label": "Anti-Spam SMTP Proxy", "obj_uri": ["Q42478"], "obj_label": [{"alternative": ["Practical Extraction and Reporting Language", "Perl/CGI", "Pearl", "perl"], "rdf": "Perl", "chosen": "Perl"}]}
+{"index": [2172], "sub_label": "Epydoc", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [1484], "sub_label": "Kaminari", "obj_uri": ["Q161053"], "obj_label": [{"alternative": [], "rdf": "Ruby", "chosen": "Ruby"}]}
+{"index": [243, 244], "sub_label": "Emacspeak", "obj_uri": ["Q15777", "Q5288"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["TCL", "Tool Command Language"], "rdf": "Tcl", "chosen": "Tcl"}]}
+{"index": [1685], "sub_label": "Windows Phone", "obj_uri": ["Q2370"], "obj_label": [{"alternative": ["C-Sharp", "CSharp", "C Sharp", "C\u266f"], "rdf": "C#", "chosen": "C#"}]}
+{"index": [1481], "sub_label": "Facebook", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1573], "sub_label": "FuelPHP", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1126], "sub_label": "GNU Linear Programming Kit", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [314], "sub_label": "phpBB", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1984], "sub_label": "GNOWSYS", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [249], "sub_label": "Meurs Challenger", "obj_uri": ["Q234657"], "obj_label": [{"alternative": ["JavaScript"], "rdf": "ActionScript", "chosen": "ActionScript"}]}
+{"index": [49], "sub_label": "VXL", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2075], "sub_label": "Kaldi", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [371, 372], "sub_label": "Deeplearning4j", "obj_uri": ["Q251", "Q460584"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}, {"alternative": ["Scala programming language"], "rdf": "Scala", "chosen": "Scala"}]}
+{"index": [2146], "sub_label": "Csound", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [2067], "sub_label": "McStas", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [670], "sub_label": "NinJo", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1111], "sub_label": "Simple Groupware", "obj_uri": ["Q59"], "obj_label": [{"alternative": ["Hypertext Preprocessor", "Personal Home Page", "PHP programming language", "PHP: Hypertext Preprocessor", "PHP Hypertext Preprocessor"], "rdf": "PHP", "chosen": "PHP"}]}
+{"index": [1711], "sub_label": "Ghostery", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [2101], "sub_label": "Freemacs", "obj_uri": ["Q1334586"], "obj_label": [{"alternative": ["Elisp", ".el"], "rdf": "Emacs Lisp", "chosen": "Emacs Lisp"}]}
+{"index": [434, 564, 626, 627], "sub_label": "Android", "obj_uri": ["Q251", "Q3816639", "Q15777", "Q2407"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}, {"alternative": ["Kotlin (Programming language)"], "rdf": "Kotlin", "chosen": "Kotlin"}, {"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}, {"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [256], "sub_label": "React", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [525], "sub_label": "Gunicorn", "obj_uri": ["Q28865"], "obj_label": [{"alternative": ["py", "python 2", "python 3"], "rdf": "Python", "chosen": "Python"}]}
+{"index": [130], "sub_label": "Weka", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1018], "sub_label": "Ajax Animator", "obj_uri": ["Q2005"], "obj_label": [{"alternative": ["JS"], "rdf": "JavaScript", "chosen": "JavaScript"}]}
+{"index": [1093], "sub_label": "BitLord", "obj_uri": ["Q2407"], "obj_label": [{"alternative": ["cpp", "C Plus Plus", "CPP"], "rdf": "C++", "chosen": "C++"}]}
+{"index": [2035], "sub_label": "Flash MP3 Player", "obj_uri": ["Q165658"], "obj_label": [{"alternative": ["Macromedia Flash", "Flash", "Flash CS3", "FutureSplash Animator", "Fla", "Swf", "Shockwave Flash", ".fla", "Flash MX", "FlashMX", "Flash 4 Linux", "UIRA"], "rdf": "Adobe Flash", "chosen": "Adobe Flash"}]}
+{"index": [1936], "sub_label": "AberMUD", "obj_uri": ["Q797302"], "obj_label": [{"alternative": ["B (programming language)"], "rdf": "B", "chosen": "B"}]}
+{"index": [1333], "sub_label": "RapidMiner", "obj_uri": ["Q251"], "obj_label": [{"alternative": [], "rdf": "Java", "chosen": "Java"}]}
+{"index": [1222], "sub_label": "GNOME Terminal", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [276], "sub_label": "GNOME Builder", "obj_uri": ["Q15777"], "obj_label": [{"alternative": ["C programming language"], "rdf": "C", "chosen": "C"}]}
+{"index": [1990], "sub_label": "ZeroBrane Studio", "obj_uri": ["Q207316"], "obj_label": [{"alternative": [], "rdf": "Lua", "chosen": "Lua"}]}
+{"index": [424], "sub_label": "Pugs", "obj_uri": ["Q34010"], "obj_label": [{"alternative": ["Haskell programming language", "hs"], "rdf": "Haskell", "chosen": "Haskell"}]}
