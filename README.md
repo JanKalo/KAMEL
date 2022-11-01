@@ -20,7 +20,8 @@ is usually stored knowledge graphs.
 
 ## Reference:
 
-KAMEL is described in the following paper:
+KAMEL is described in the following paper. The paper is available [here](https://www.akbc.ws/2022/assets/pdfs/15_kamel_knowledge_analysis_with_.pdf).
+We also have a [poster](https://github.com/JanKalo/KAMEL/blob/master/poster_kalo.pdf).
 
 ```bibtex
 @inproceedings{kalo2022kamel,
