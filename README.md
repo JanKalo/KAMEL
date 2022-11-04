@@ -36,8 +36,9 @@ We also have a [poster](https://github.com/JanKalo/KAMEL/blob/master/poster_kalo
 
 ### The dataset on the HuggingFace data hub.
 
-*to be done*
+Please access the KAMEL dataset via the HF dataset hub:
 
+https://huggingface.co/datasets/LeandraFichtel/KAMEL
 
 ## Reproducing our Results
 
